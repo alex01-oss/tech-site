@@ -11,10 +11,10 @@ services:
       - backend
 
   frontend:
-    container_name: client
+    container_name: frontend
     image: nextapp:1.0.0
     build:
-      context: ./client
+      context: ./frontend
       dockerfile: Dockerfile
     ports:
       - 3000:3000
@@ -24,10 +24,10 @@ services:
       - backend
 
   backend:
-    container_name: server
+    container_name: backend
     image: flaskapp:1.0.0
     build:
-      context: ./server
+      context: ./backend
       dockerfile: Dockerfile
     ports:
       - 8080:8080
