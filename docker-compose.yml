@@ -1,0 +1,56 @@
+services:
+  nginx:
+    container_name: nginx
+    image: nginx:latest
+    ports:
+      - "8081:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - frontend
+      - backend
+
+  frontend:
+    container_name: client
+    image: nextapp:1.0.0
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
+    environment:
+      - NEXT_PUBLIC_API_URL=/api
+    depends_on:
+      - backend
+
+  backend:
+    container_name: server
+    image: flaskapp:1.0.0
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
+    environment:
+      - DATABASE_URL=postgresql://postgres:admin@db:5432/catalog
+      - ITEMS_PER_PAGE=10
+      - CACHE_TYPE=SimpleCache
+      - CACHE_DEFAULT_TIMEOUT=300
+    depends_on:
+      - db
+
+  db:
+    container_name: db
+    image: postgres:17.4
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: catalog
+    ports:
+      - 5432:5432
+    volumes:
+      - tech-site_pgdata:/var/lib/postgresql/data
+
+volumes:
+  tech-site_pgdata:
+    external: true
