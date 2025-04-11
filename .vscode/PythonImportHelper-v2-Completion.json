@@ -1,0 +1,1435 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "RotatingFileHandler",
+        "importPath": "logging.handlers",
+        "description": "logging.handlers",
+        "isExtraImport": true,
+        "detail": "logging.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_from_directory",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "Bcrypt",
+        "importPath": "flask_bcrypt",
+        "description": "flask_bcrypt",
+        "isExtraImport": true,
+        "detail": "flask_bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "Bcrypt",
+        "importPath": "flask_bcrypt",
+        "description": "flask_bcrypt",
+        "isExtraImport": true,
+        "detail": "flask_bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "JWTManager",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "importPath": "models.cart_item",
+        "description": "models.cart_item",
+        "isExtraImport": true,
+        "detail": "models.cart_item",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "importPath": "models.cart_item",
+        "description": "models.cart_item",
+        "isExtraImport": true,
+        "detail": "models.cart_item",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "importPath": "models.cart_item",
+        "description": "models.cart_item",
+        "isExtraImport": true,
+        "detail": "models.cart_item",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogQuerySchema",
+        "importPath": "schemas.catalog_schema",
+        "description": "schemas.catalog_schema",
+        "isExtraImport": true,
+        "detail": "schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogItem",
+        "importPath": "models.catalog_item",
+        "description": "models.catalog_item",
+        "isExtraImport": true,
+        "detail": "models.catalog_item",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Schema",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Schema",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Schema",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "CartResponseSchema",
+        "importPath": "schemas.cart_schema",
+        "description": "schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "Swagger",
+        "importPath": "flasgger",
+        "description": "flasgger",
+        "isExtraImport": true,
+        "detail": "flasgger",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "config.config",
+        "description": "config.config",
+        "isExtraImport": true,
+        "detail": "config.config",
+        "documentation": {}
+    },
+    {
+        "label": "Limiter",
+        "importPath": "flask_limiter",
+        "description": "flask_limiter",
+        "isExtraImport": true,
+        "detail": "flask_limiter",
+        "documentation": {}
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
+        "label": "menu_bp",
+        "importPath": "routes.menu",
+        "description": "routes.menu",
+        "isExtraImport": true,
+        "detail": "routes.menu",
+        "documentation": {}
+    },
+    {
+        "label": "login_bp",
+        "importPath": "routes.login",
+        "description": "routes.login",
+        "isExtraImport": true,
+        "detail": "routes.login",
+        "documentation": {}
+    },
+    {
+        "label": "register_bp",
+        "importPath": "routes.register",
+        "description": "routes.register",
+        "isExtraImport": true,
+        "detail": "routes.register",
+        "documentation": {}
+    },
+    {
+        "label": "get_cart_bp",
+        "importPath": "routes.get_cart",
+        "description": "routes.get_cart",
+        "isExtraImport": true,
+        "detail": "routes.get_cart",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_cart_bp",
+        "importPath": "routes.add_to_cart",
+        "description": "routes.add_to_cart",
+        "isExtraImport": true,
+        "detail": "routes.add_to_cart",
+        "documentation": {}
+    },
+    {
+        "label": "catalog_bp",
+        "importPath": "routes.catalog",
+        "description": "routes.catalog",
+        "isExtraImport": true,
+        "detail": "routes.catalog",
+        "documentation": {}
+    },
+    {
+        "label": "remove_from_cart_bp",
+        "importPath": "routes.remove_from_cart",
+        "description": "routes.remove_from_cart",
+        "isExtraImport": true,
+        "detail": "routes.remove_from_cart",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_token_bp",
+        "importPath": "routes.refresh_token",
+        "description": "routes.refresh_token",
+        "isExtraImport": true,
+        "detail": "routes.refresh_token",
+        "documentation": {}
+    },
+    {
+        "label": "images_bp",
+        "importPath": "routes.static",
+        "description": "routes.static",
+        "isExtraImport": true,
+        "detail": "routes.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_remote_address",
+        "importPath": "flask_limiter.util",
+        "description": "flask_limiter.util",
+        "isExtraImport": true,
+        "detail": "flask_limiter.util",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Cache",
+        "importPath": "flask_caching",
+        "description": "flask_caching",
+        "isExtraImport": true,
+        "detail": "flask_caching",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "importPath": "logs.logger",
+        "description": "logs.logger",
+        "isExtraImport": true,
+        "detail": "logs.logger",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "backend..venv.Scripts.activate_this",
+        "description": "backend..venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "backend..venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "backend.config.config",
+        "description": "backend.config.config",
+        "peekOfCode": "class Config:\n    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URL')\n    ITEMS_PER_PAGE = int(os.getenv('ITEMS_PER_PAGE', '10'))\n    SQLALCHEMY_TRACK_MODIFICATIONS = False\n    SECRET_KEY = os.getenv(\"SECRET_KEY\", \"mysecretkey\")\n    CACHE_TYPE = \"RedisCache\"\n    CACHE_REDIS_HOST = os.getenv(\"CACHE_REDIS_HOST\", \"localhost\")\n    CACHE_REDIS_PORT = int(os.getenv(\"CACHE_REDIS_PORT\", 6379))\n    CACHE_REDIS_DB = int(os.getenv(\"CACHE_REDIS_DB\", 0))\n    CACHE_DEFAULT_TIMEOUT = int(os.getenv(\"CACHE_DEFAULT_TIMEOUT\", 300))",
+        "detail": "backend.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "kind": 2,
+        "importPath": "backend.logs.logger",
+        "description": "backend.logs.logger",
+        "peekOfCode": "def setup_logging():\n    log_level = os.getenv(\"LOG_LEVEL\", \"INFO\").upper()\n    log_dir = \"logs\"\n    if not os.path.exists(log_dir):\n        os.makedirs(log_dir)\n    logger = logging.getLogger('flask_logger')\n    logger.setLevel(log_level)\n    fh = RotatingFileHandler(os.path.join(log_dir, 'app.log'), maxBytes=5 * 1024 * 1024, backupCount=5)\n    fh.setLevel(log_level)\n    ch = logging.StreamHandler()",
+        "detail": "backend.logs.logger",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),\n    sa.Column('images', sa.Text(), nullable=True),\n    sa.PrimaryKeyConstraint('code')\n    )\n    op.create_table('cart',",
+        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('woodworking',\n    sa.Column('code', sa.VARCHAR(length=50), autoincrement=False, nullable=False),\n    sa.Column('shape', sa.VARCHAR(length=100), autoincrement=False, nullable=True),\n    sa.Column('dimensions', sa.VARCHAR(length=100), autoincrement=False, nullable=True),\n    sa.Column('images', sa.TEXT(), autoincrement=False, nullable=True),\n    sa.PrimaryKeyConstraint('code', name='woodworking_pkey')\n    )\n    op.create_table('products',",
+        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "peekOfCode": "revision = 'bef0e32d87d2'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),",
+        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),\n    sa.Column('images', sa.Text(), nullable=True),",
+        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),\n    sa.Column('images', sa.Text(), nullable=True),\n    sa.PrimaryKeyConstraint('code')",
+        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),\n    sa.Column('images', sa.Text(), nullable=True),\n    sa.PrimaryKeyConstraint('code')\n    )",
+        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine",
+        "kind": 2,
+        "importPath": "backend.migrations.env",
+        "description": "backend.migrations.env",
+        "peekOfCode": "def get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(",
+        "detail": "backend.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine_url",
+        "kind": 2,
+        "importPath": "backend.migrations.env",
+        "description": "backend.migrations.env",
+        "peekOfCode": "def get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(\n            '%', '%%')\n    except AttributeError:\n        return str(get_engine().url).replace('%', '%%')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata",
+        "detail": "backend.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_metadata",
+        "kind": 2,
+        "importPath": "backend.migrations.env",
+        "description": "backend.migrations.env",
+        "peekOfCode": "def get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.",
+        "detail": "backend.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "backend.migrations.env",
+        "description": "backend.migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "backend.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "backend.migrations.env",
+        "description": "backend.migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):",
+        "detail": "backend.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "backend.migrations.env",
+        "description": "backend.migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):",
+        "detail": "backend.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.migrations.env",
+        "description": "backend.migrations.env",
+        "peekOfCode": "logger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:",
+        "detail": "backend.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_db",
+        "kind": 5,
+        "importPath": "backend.migrations.env",
+        "description": "backend.migrations.env",
+        "peekOfCode": "target_db = current_app.extensions['migrate'].db\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():",
+        "detail": "backend.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "kind": 6,
+        "importPath": "backend.models.cart_item",
+        "description": "backend.models.cart_item",
+        "peekOfCode": "class CartItem(db.Model):\n    __tablename__ = 'cart'\n    id = db.Column(db.Integer, primary_key=True)\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id', ondelete=\"CASCADE\"), nullable=False)\n    code = db.Column(db.String(100), nullable=False)\n    shape = db.Column(db.String(255), nullable=True)\n    dimensions = db.Column(db.String(100), nullable=True)\n    quantity = db.Column(db.Integer, default=1)\n    images = db.Column(db.Text)\n    def __repr__(self):",
+        "detail": "backend.models.cart_item",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogItem",
+        "kind": 6,
+        "importPath": "backend.models.catalog_item",
+        "description": "backend.models.catalog_item",
+        "peekOfCode": "class CatalogItem(db.Model):\n    __tablename__ = 'catalog'\n    code = db.Column(db.String(50), primary_key=True)\n    shape = db.Column(db.String(100))\n    dimensions = db.Column(db.String(100))\n    images = db.Column(db.Text)\n    def __repr__(self):\n        return f'<CatalogItem {self.Article}>'",
+        "detail": "backend.models.catalog_item",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 5,
+        "importPath": "backend.models.catalog_item",
+        "description": "backend.models.catalog_item",
+        "peekOfCode": "bcrypt = Bcrypt()\nclass CatalogItem(db.Model):\n    __tablename__ = 'catalog'\n    code = db.Column(db.String(50), primary_key=True)\n    shape = db.Column(db.String(100))\n    dimensions = db.Column(db.String(100))\n    images = db.Column(db.Text)\n    def __repr__(self):\n        return f'<CatalogItem {self.Article}>'",
+        "detail": "backend.models.catalog_item",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.models.user",
+        "description": "backend.models.user",
+        "peekOfCode": "class User(db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(80), unique=True, nullable=False)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    password_hash = db.Column(db.String(256), nullable=False)\n    cart_wood_items = db.relationship(\"CartItem\", backref=\"user\", cascade=\"all, delete-orphan\")\n    def set_password(self, password):\n        self.password_hash = bcrypt.generate_password_hash(password).decode('utf-8')\n    def check_password(self, password):",
+        "detail": "backend.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 5,
+        "importPath": "backend.models.user",
+        "description": "backend.models.user",
+        "peekOfCode": "bcrypt = Bcrypt()\nclass User(db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(80), unique=True, nullable=False)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    password_hash = db.Column(db.String(256), nullable=False)\n    cart_wood_items = db.relationship(\"CartItem\", backref=\"user\", cascade=\"all, delete-orphan\")\n    def set_password(self, password):\n        self.password_hash = bcrypt.generate_password_hash(password).decode('utf-8')",
+        "detail": "backend.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_cart",
+        "kind": 2,
+        "importPath": "backend.routes.add_to_cart",
+        "description": "backend.routes.add_to_cart",
+        "peekOfCode": "def add_to_cart():\n    try:\n        user_id = get_jwt_identity()\n        data = request.get_json()\n        code = data.get(\"code\")\n        shape = data.get(\"shape\")\n        dimensions = data.get(\"dimensions\")\n        images = data.get(\"images\")\n        logger.info(f\"User ID: {user_id}\")\n        logger.info(f\"Received data: {data}\")",
+        "detail": "backend.routes.add_to_cart",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_cart_bp",
+        "kind": 5,
+        "importPath": "backend.routes.add_to_cart",
+        "description": "backend.routes.add_to_cart",
+        "peekOfCode": "add_to_cart_bp = Blueprint('add_to_cart', __name__)\n@add_to_cart_bp.route(\"/api/cart\", methods=['POST'])\n@jwt_required()\ndef add_to_cart():\n    try:\n        user_id = get_jwt_identity()\n        data = request.get_json()\n        code = data.get(\"code\")\n        shape = data.get(\"shape\")\n        dimensions = data.get(\"dimensions\")",
+        "detail": "backend.routes.add_to_cart",
+        "documentation": {}
+    },
+    {
+        "label": "return_products",
+        "kind": 2,
+        "importPath": "backend.routes.catalog",
+        "description": "backend.routes.catalog",
+        "peekOfCode": "def return_products():\n    schema = CatalogQuerySchema()\n    try:\n        args = schema.load(request.args)\n    except ValidationError as err:\n        logger.error(f\"Validation error: {err.messages}\")\n        return jsonify({\"error\": \"Invalid input\", \"details\": err.messages}), 400\n    page = args.get('page', 1)\n    items_per_page = args.get('items_per_page', 10)\n    search_type = args.get('search_type', 'name').lower()",
+        "detail": "backend.routes.catalog",
+        "documentation": {}
+    },
+    {
+        "label": "catalog_bp",
+        "kind": 5,
+        "importPath": "backend.routes.catalog",
+        "description": "backend.routes.catalog",
+        "peekOfCode": "catalog_bp = Blueprint('catalog', __name__)\n@catalog_bp.route(\"/api/catalog\", methods=['GET'])\n@cache.cached(timeout=300, query_string=True)\ndef return_products():\n    schema = CatalogQuerySchema()\n    try:\n        args = schema.load(request.args)\n    except ValidationError as err:\n        logger.error(f\"Validation error: {err.messages}\")\n        return jsonify({\"error\": \"Invalid input\", \"details\": err.messages}), 400",
+        "detail": "backend.routes.catalog",
+        "documentation": {}
+    },
+    {
+        "label": "get_cart",
+        "kind": 2,
+        "importPath": "backend.routes.get_cart",
+        "description": "backend.routes.get_cart",
+        "peekOfCode": "def get_cart():\n    try:\n        auth_header = request.headers.get(\"Authorization\")\n        logger.info(f\"Authorization header: {auth_header}\")\n        user_id = get_jwt_identity()\n        logger.info(f\"Extracted user ID: {user_id} (type: {type(user_id)})\")\n        cart_wood_items = CartItem.query.filter_by(user_id=user_id).all()\n        schema = CartResponseSchema(many=True)\n        result = schema.dump(cart_wood_items)\n        return jsonify({\"cart\": result}), 200",
+        "detail": "backend.routes.get_cart",
+        "documentation": {}
+    },
+    {
+        "label": "get_cart_bp",
+        "kind": 5,
+        "importPath": "backend.routes.get_cart",
+        "description": "backend.routes.get_cart",
+        "peekOfCode": "get_cart_bp = Blueprint('get_cart', __name__)\n@cache.cached(timeout=5)\n@get_cart_bp.route(\"/api/cart\", methods=['GET'])\n@jwt_required()\ndef get_cart():\n    try:\n        auth_header = request.headers.get(\"Authorization\")\n        logger.info(f\"Authorization header: {auth_header}\")\n        user_id = get_jwt_identity()\n        logger.info(f\"Extracted user ID: {user_id} (type: {type(user_id)})\")",
+        "detail": "backend.routes.get_cart",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "backend.routes.login",
+        "description": "backend.routes.login",
+        "peekOfCode": "def login():\n    data = request.get_json()\n    if not data or \"email\" not in data or \"password\" not in data:\n        return jsonify({\"error\": \"missing required fields\"}), 400\n    user = User.query.filter_by(email=data[\"email\"]).first()\n    if not user:\n        return jsonify({\"error\": \"user not found\"}), 404\n    if not user.check_password(data[\"password\"]):\n        return jsonify({\"error\": \"invalid email or password\"}), 401\n    access_token = create_access_token(identity=str(user.id))",
+        "detail": "backend.routes.login",
+        "documentation": {}
+    },
+    {
+        "label": "login_bp",
+        "kind": 5,
+        "importPath": "backend.routes.login",
+        "description": "backend.routes.login",
+        "peekOfCode": "login_bp = Blueprint('login', __name__)\n@login_bp.route(\"/api/login\", methods=['POST'])\ndef login():\n    data = request.get_json()\n    if not data or \"email\" not in data or \"password\" not in data:\n        return jsonify({\"error\": \"missing required fields\"}), 400\n    user = User.query.filter_by(email=data[\"email\"]).first()\n    if not user:\n        return jsonify({\"error\": \"user not found\"}), 404\n    if not user.check_password(data[\"password\"]):",
+        "detail": "backend.routes.login",
+        "documentation": {}
+    },
+    {
+        "label": "return_menu",
+        "kind": 2,
+        "importPath": "backend.routes.menu",
+        "description": "backend.routes.menu",
+        "peekOfCode": "def return_menu():\n    try:\n        with open('config/menu.json', 'r') as file:\n            menu_data = json.load(file)\n        return jsonify(menu_data)\n    except Exception as e:\n        return jsonify({\"error\": f\"Failed to load menu data: {str(e)}\"}), 500",
+        "detail": "backend.routes.menu",
+        "documentation": {}
+    },
+    {
+        "label": "menu_bp",
+        "kind": 5,
+        "importPath": "backend.routes.menu",
+        "description": "backend.routes.menu",
+        "peekOfCode": "menu_bp = Blueprint('menu', __name__)\n@cache.cached(timeout=60)\n@menu_bp.route(\"/api/menu\", methods=['GET'])\ndef return_menu():\n    try:\n        with open('config/menu.json', 'r') as file:\n            menu_data = json.load(file)\n        return jsonify(menu_data)\n    except Exception as e:\n        return jsonify({\"error\": f\"Failed to load menu data: {str(e)}\"}), 500",
+        "detail": "backend.routes.menu",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_token",
+        "kind": 2,
+        "importPath": "backend.routes.refresh_token",
+        "description": "backend.routes.refresh_token",
+        "peekOfCode": "def refresh_token():\n    current_user = get_jwt_identity()\n    new_access_token = create_access_token(identity=current_user)\n    return jsonify({\n        \"token\": new_access_token\n    }), 200",
+        "detail": "backend.routes.refresh_token",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_token_bp",
+        "kind": 5,
+        "importPath": "backend.routes.refresh_token",
+        "description": "backend.routes.refresh_token",
+        "peekOfCode": "refresh_token_bp = Blueprint('refresh_token', __name__)\n@refresh_token_bp.route('/api/refresh', methods=['POST'])\n@jwt_required(refresh=True)\ndef refresh_token():\n    current_user = get_jwt_identity()\n    new_access_token = create_access_token(identity=current_user)\n    return jsonify({\n        \"token\": new_access_token\n    }), 200",
+        "detail": "backend.routes.refresh_token",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "backend.routes.register",
+        "description": "backend.routes.register",
+        "peekOfCode": "def register():\n    data = request.get_json()\n    if not data or not all(k in data for k in (\"username\", \"email\", \"password\")):\n        return jsonify({\"error\": \"missing required fields\"}), 400\n    if User.query.filter_by(email=data[\"email\"]).first():\n        return jsonify({\"error\": \"email already in use\"}), 409\n    new_user = User(username=data[\"username\"], email=data[\"email\"])\n    new_user.set_password(data[\"password\"])\n    db.session.add(new_user)\n    db.session.commit()",
+        "detail": "backend.routes.register",
+        "documentation": {}
+    },
+    {
+        "label": "register_bp",
+        "kind": 5,
+        "importPath": "backend.routes.register",
+        "description": "backend.routes.register",
+        "peekOfCode": "register_bp = Blueprint('register', __name__)\n@register_bp.route(\"/api/register\", methods=['POST'])\ndef register():\n    data = request.get_json()\n    if not data or not all(k in data for k in (\"username\", \"email\", \"password\")):\n        return jsonify({\"error\": \"missing required fields\"}), 400\n    if User.query.filter_by(email=data[\"email\"]).first():\n        return jsonify({\"error\": \"email already in use\"}), 409\n    new_user = User(username=data[\"username\"], email=data[\"email\"])\n    new_user.set_password(data[\"password\"])",
+        "detail": "backend.routes.register",
+        "documentation": {}
+    },
+    {
+        "label": "remove_from_cart",
+        "kind": 2,
+        "importPath": "backend.routes.remove_from_cart",
+        "description": "backend.routes.remove_from_cart",
+        "peekOfCode": "def remove_from_cart():\n    try:\n      user_id = get_jwt_identity()\n      data = request.get_json()\n      code = data.get(\"code\")\n      if not code:\n        logger.warning(\"missing article in request\")\n        return jsonify({\"error\": \"article is required\"}), 400\n      item = CartItem.query.filter_by(user_id=user_id, code=code).first()\n      if not item:",
+        "detail": "backend.routes.remove_from_cart",
+        "documentation": {}
+    },
+    {
+        "label": "remove_from_cart_bp",
+        "kind": 5,
+        "importPath": "backend.routes.remove_from_cart",
+        "description": "backend.routes.remove_from_cart",
+        "peekOfCode": "remove_from_cart_bp = Blueprint('remove_from_cart', __name__)\n@remove_from_cart_bp.route(\"/api/cart\", methods=['DELETE'])\n@jwt_required()\ndef remove_from_cart():\n    try:\n      user_id = get_jwt_identity()\n      data = request.get_json()\n      code = data.get(\"code\")\n      if not code:\n        logger.warning(\"missing article in request\")",
+        "detail": "backend.routes.remove_from_cart",
+        "documentation": {}
+    },
+    {
+        "label": "serve_image",
+        "kind": 2,
+        "importPath": "backend.routes.static",
+        "description": "backend.routes.static",
+        "peekOfCode": "def serve_image(filename):\n    return send_from_directory('images', filename)",
+        "detail": "backend.routes.static",
+        "documentation": {}
+    },
+    {
+        "label": "images_bp",
+        "kind": 5,
+        "importPath": "backend.routes.static",
+        "description": "backend.routes.static",
+        "peekOfCode": "images_bp = Blueprint('images', __name__)\n@images_bp.route('/images/<path:filename>')\ndef serve_image(filename):\n    return send_from_directory('images', filename)",
+        "detail": "backend.routes.static",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemSchema",
+        "kind": 6,
+        "importPath": "backend.schemas.cart_schema",
+        "description": "backend.schemas.cart_schema",
+        "peekOfCode": "class CartItemSchema(Schema):\n    code = fields.String(required=True)\n    quantity = fields.Integer(required=True, validate=lambda x: x > 0)\nclass CartUpdateSchema(Schema):\n    code = fields.String(required=True)\n    quantity = fields.Integer(required=True, validate=lambda x: x >= 0)\nclass CartResponseSchema(Schema):\n    code = fields.String()\n    shape = fields.String()\n    dimensions = fields.String()",
+        "detail": "backend.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartUpdateSchema",
+        "kind": 6,
+        "importPath": "backend.schemas.cart_schema",
+        "description": "backend.schemas.cart_schema",
+        "peekOfCode": "class CartUpdateSchema(Schema):\n    code = fields.String(required=True)\n    quantity = fields.Integer(required=True, validate=lambda x: x >= 0)\nclass CartResponseSchema(Schema):\n    code = fields.String()\n    shape = fields.String()\n    dimensions = fields.String()\n    quantity = fields.Integer()\n    images = fields.String()",
+        "detail": "backend.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartResponseSchema",
+        "kind": 6,
+        "importPath": "backend.schemas.cart_schema",
+        "description": "backend.schemas.cart_schema",
+        "peekOfCode": "class CartResponseSchema(Schema):\n    code = fields.String()\n    shape = fields.String()\n    dimensions = fields.String()\n    quantity = fields.Integer()\n    images = fields.String()",
+        "detail": "backend.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogQuerySchema",
+        "kind": 6,
+        "importPath": "backend.schemas.catalog_schema",
+        "description": "backend.schemas.catalog_schema",
+        "peekOfCode": "class CatalogQuerySchema(Schema):\n    page = fields.Int(missing=1)\n    items_per_page = fields.Int(missing=8)\n    search = fields.Str(missing=\"\")\n    search_type = fields.Str(\n        missing=\"name\",\n        validate=lambda x: x.lower() in [\"code\", \"shape\", \"dimensions\"] if x else True\n    )",
+        "detail": "backend.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "kind": 6,
+        "importPath": "backend.schemas.user_schema",
+        "description": "backend.schemas.user_schema",
+        "peekOfCode": "class UserSchema(Schema):\n    id = fields.Int(dump_only=True)\n    username = fields.Str(required=True)\n    email = fields.Email(required=True)",
+        "detail": "backend.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.app",
+        "description": "backend.app",
+        "peekOfCode": "app = Flask(__name__)\napp.config.from_object(Config)\ndb.init_app(app)\nlimiter = Limiter(key_func=get_remote_address, storage_uri=\"redis://localhost:6379/0\")\nlimiter.init_app(app)\nmigrate = Migrate(app, db)\njwt = JWTManager(app)\ncache.init_app(app)\nCORS(app, resources={r\"/*\": {\"origins\": \"*\"}}, supports_credentials=True)\nswagger = Swagger(app)",
+        "detail": "backend.app",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "kind": 5,
+        "importPath": "backend.app",
+        "description": "backend.app",
+        "peekOfCode": "limiter = Limiter(key_func=get_remote_address, storage_uri=\"redis://localhost:6379/0\")\nlimiter.init_app(app)\nmigrate = Migrate(app, db)\njwt = JWTManager(app)\ncache.init_app(app)\nCORS(app, resources={r\"/*\": {\"origins\": \"*\"}}, supports_credentials=True)\nswagger = Swagger(app)\napp.register_blueprint(menu_bp)\napp.register_blueprint(login_bp)\napp.register_blueprint(register_bp)",
+        "detail": "backend.app",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "backend.app",
+        "description": "backend.app",
+        "peekOfCode": "migrate = Migrate(app, db)\njwt = JWTManager(app)\ncache.init_app(app)\nCORS(app, resources={r\"/*\": {\"origins\": \"*\"}}, supports_credentials=True)\nswagger = Swagger(app)\napp.register_blueprint(menu_bp)\napp.register_blueprint(login_bp)\napp.register_blueprint(register_bp)\napp.register_blueprint(get_cart_bp)\napp.register_blueprint(add_to_cart_bp)",
+        "detail": "backend.app",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 5,
+        "importPath": "backend.app",
+        "description": "backend.app",
+        "peekOfCode": "jwt = JWTManager(app)\ncache.init_app(app)\nCORS(app, resources={r\"/*\": {\"origins\": \"*\"}}, supports_credentials=True)\nswagger = Swagger(app)\napp.register_blueprint(menu_bp)\napp.register_blueprint(login_bp)\napp.register_blueprint(register_bp)\napp.register_blueprint(get_cart_bp)\napp.register_blueprint(add_to_cart_bp)\napp.register_blueprint(catalog_bp)",
+        "detail": "backend.app",
+        "documentation": {}
+    },
+    {
+        "label": "swagger",
+        "kind": 5,
+        "importPath": "backend.app",
+        "description": "backend.app",
+        "peekOfCode": "swagger = Swagger(app)\napp.register_blueprint(menu_bp)\napp.register_blueprint(login_bp)\napp.register_blueprint(register_bp)\napp.register_blueprint(get_cart_bp)\napp.register_blueprint(add_to_cart_bp)\napp.register_blueprint(catalog_bp)\napp.register_blueprint(remove_from_cart_bp)\napp.register_blueprint(refresh_token_bp)\napp.register_blueprint(images_bp)",
+        "detail": "backend.app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "backend.extensions",
+        "description": "backend.extensions",
+        "peekOfCode": "db = SQLAlchemy()\ncache = Cache()\nlogger = setup_logging()",
+        "detail": "backend.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "kind": 5,
+        "importPath": "backend.extensions",
+        "description": "backend.extensions",
+        "peekOfCode": "cache = Cache()\nlogger = setup_logging()",
+        "detail": "backend.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.extensions",
+        "description": "backend.extensions",
+        "peekOfCode": "logger = setup_logging()",
+        "detail": "backend.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    }
+]
