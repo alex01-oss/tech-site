@@ -35,28 +35,211 @@
         "documentation": {}
     },
     {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "dotenv",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "logging",
-        "kind": 6,
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "importPath": "logging",
-        "description": "logging",
-        "detail": "logging",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "RotatingFileHandler",
-        "importPath": "logging.handlers",
-        "description": "logging.handlers",
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "logging.handlers",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
         "documentation": {}
     },
     {
@@ -85,6 +268,334 @@
         "documentation": {}
     },
     {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
         "label": "fileConfig",
         "importPath": "logging.config",
         "description": "logging.config",
@@ -93,572 +604,1587 @@
         "documentation": {}
     },
     {
-        "label": "current_app",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "Blueprint",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "engine",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "jsonify",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "SessionLocal",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "request",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "Blueprint",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "request",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "jsonify",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "Blueprint",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "jsonify",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "request",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "Blueprint",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "jsonify",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "request",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.core.database",
         "documentation": {}
     },
     {
-        "label": "Blueprint",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "CartItem",
+        "importPath": "app.models.cart_item",
+        "description": "app.models.cart_item",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.cart_item",
         "documentation": {}
     },
     {
-        "label": "jsonify",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "CartItem",
+        "importPath": "app.models.cart_item",
+        "description": "app.models.cart_item",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.cart_item",
         "documentation": {}
     },
     {
-        "label": "Blueprint",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "CartItem",
+        "importPath": "app.models.cart_item",
+        "description": "app.models.cart_item",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.cart_item",
         "documentation": {}
     },
     {
-        "label": "jsonify",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "CartItem",
+        "importPath": "app.models.cart_item",
+        "description": "app.models.cart_item",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.cart_item",
         "documentation": {}
     },
     {
-        "label": "Blueprint",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "CartItem",
+        "importPath": "app.models.cart_item",
+        "description": "app.models.cart_item",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.cart_item",
         "documentation": {}
     },
     {
-        "label": "jsonify",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "ProductGrindingWheels",
+        "importPath": "app.models.product_grinding_wheels",
+        "description": "app.models.product_grinding_wheels",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.product_grinding_wheels",
         "documentation": {}
     },
     {
-        "label": "request",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "ProductGrindingWheels",
+        "importPath": "app.models.product_grinding_wheels",
+        "description": "app.models.product_grinding_wheels",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.product_grinding_wheels",
         "documentation": {}
     },
     {
-        "label": "Blueprint",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "Bond",
+        "importPath": "app.models.bond",
+        "description": "app.models.bond",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.bond",
         "documentation": {}
     },
     {
-        "label": "jsonify",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "EquipmentCode",
+        "importPath": "app.models.equipment_code",
+        "description": "app.models.equipment_code",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.equipment_code",
         "documentation": {}
     },
     {
-        "label": "request",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "EquipmentModel",
+        "importPath": "app.models.equipment_model",
+        "description": "app.models.equipment_model",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.equipment_model",
         "documentation": {}
     },
     {
-        "label": "Blueprint",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "ProducerName",
+        "importPath": "app.models.producer_name",
+        "description": "app.models.producer_name",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.producer_name",
         "documentation": {}
     },
     {
-        "label": "send_from_directory",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "ShapeImg",
+        "importPath": "app.models.shape_img",
+        "description": "app.models.shape_img",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.shape_img",
         "documentation": {}
     },
     {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "flask",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "db",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "db",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "db",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "db",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "logger",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "db",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "cache",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "logger",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "logger",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "cache",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "cache",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.user",
         "documentation": {}
     },
     {
-        "label": "db",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "RefreshToken",
+        "importPath": "app.models.refresh_token",
+        "description": "app.models.refresh_token",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.refresh_token",
         "documentation": {}
     },
     {
-        "label": "logger",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "RefreshToken",
+        "importPath": "app.models.refresh_token",
+        "description": "app.models.refresh_token",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.refresh_token",
         "documentation": {}
     },
     {
-        "label": "db",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "RefreshToken",
+        "importPath": "app.models.refresh_token",
+        "description": "app.models.refresh_token",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.refresh_token",
         "documentation": {}
     },
     {
-        "label": "db",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "RefreshToken",
+        "importPath": "app.models.refresh_token",
+        "description": "app.models.refresh_token",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.refresh_token",
         "documentation": {}
     },
     {
-        "label": "cache",
-        "importPath": "extensions",
-        "description": "extensions",
+        "label": "Post",
+        "importPath": "app.models.post",
+        "description": "app.models.post",
         "isExtraImport": true,
-        "detail": "extensions",
+        "detail": "app.models.post",
         "documentation": {}
     },
     {
-        "label": "Bcrypt",
-        "importPath": "flask_bcrypt",
-        "description": "flask_bcrypt",
+        "label": "Post",
+        "importPath": "app.models.post",
+        "description": "app.models.post",
         "isExtraImport": true,
-        "detail": "flask_bcrypt",
+        "detail": "app.models.post",
         "documentation": {}
     },
     {
-        "label": "Bcrypt",
-        "importPath": "flask_bcrypt",
-        "description": "flask_bcrypt",
+        "label": "Post",
+        "importPath": "app.models.post",
+        "description": "app.models.post",
         "isExtraImport": true,
-        "detail": "flask_bcrypt",
+        "detail": "app.models.post",
         "documentation": {}
     },
     {
-        "label": "traceback",
-        "kind": 6,
+        "label": "Post",
+        "importPath": "app.models.post",
+        "description": "app.models.post",
         "isExtraImport": true,
-        "importPath": "traceback",
-        "description": "traceback",
-        "detail": "traceback",
+        "detail": "app.models.post",
         "documentation": {}
     },
     {
-        "label": "get_jwt_identity",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "label": "Post",
+        "importPath": "app.models.post",
+        "description": "app.models.post",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.models.post",
         "documentation": {}
     },
     {
-        "label": "jwt_required",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "label": "Post",
+        "importPath": "app.models.post",
+        "description": "app.models.post",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.models.post",
         "documentation": {}
     },
     {
-        "label": "get_jwt_identity",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "fastapi",
         "documentation": {}
     },
     {
-        "label": "jwt_required",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
         "label": "create_access_token",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
         "label": "create_refresh_token",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
         "label": "create_access_token",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
-        "label": "get_jwt_identity",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "label": "decode_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
-        "documentation": {}
-    },
-    {
-        "label": "jwt_required",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
-        "isExtraImport": true,
-        "detail": "flask_jwt_extended",
-        "documentation": {}
-    },
-    {
-        "label": "create_access_token",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
-        "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
         "label": "create_refresh_token",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
-        "label": "get_jwt_identity",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "label": "create_access_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
-        "label": "jwt_required",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "label": "create_refresh_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
-        "label": "JWTManager",
-        "importPath": "flask_jwt_extended",
-        "description": "flask_jwt_extended",
+        "label": "hash_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "flask_jwt_extended",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
-        "label": "CartItem",
-        "importPath": "models.cart_item",
-        "description": "models.cart_item",
+        "label": "get_current_user",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "models.cart_item",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
-        "label": "CartItem",
-        "importPath": "models.cart_item",
-        "description": "models.cart_item",
+        "label": "get_current_user",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "models.cart_item",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
-        "label": "CartItem",
-        "importPath": "models.cart_item",
-        "description": "models.cart_item",
+        "label": "get_current_user",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "models.cart_item",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user_optional",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user_optional",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "admin_required",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "admin_required",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "LoginResponse",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutResponse",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutRequest",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenResponse",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenRequest",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterResponse",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "joinedload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi.params",
+        "description": "fastapi.params",
+        "isExtraImport": true,
+        "detail": "fastapi.params",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "CartResponse",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartRequest",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "GetCartResponse",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartListResponse",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartRequest",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartResponse",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogItemSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.catalog_schema",
         "documentation": {}
     },
     {
         "label": "CatalogQuerySchema",
-        "importPath": "schemas.catalog_schema",
-        "description": "schemas.catalog_schema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
         "isExtraImport": true,
-        "detail": "schemas.catalog_schema",
+        "detail": "app.schemas.catalog_schema",
         "documentation": {}
     },
     {
-        "label": "CatalogItem",
-        "importPath": "models.catalog_item",
-        "description": "models.catalog_item",
+        "label": "CatalogResponseSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
         "isExtraImport": true,
-        "detail": "models.catalog_item",
+        "detail": "app.schemas.catalog_schema",
         "documentation": {}
     },
     {
-        "label": "ValidationError",
-        "importPath": "marshmallow",
-        "description": "marshmallow",
+        "label": "CatalogItemSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
         "isExtraImport": true,
-        "detail": "marshmallow",
+        "detail": "app.schemas.catalog_schema",
         "documentation": {}
     },
     {
-        "label": "Schema",
-        "importPath": "marshmallow",
-        "description": "marshmallow",
+        "label": "EquipmentModelSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
         "isExtraImport": true,
-        "detail": "marshmallow",
+        "detail": "app.schemas.catalog_schema",
         "documentation": {}
     },
     {
-        "label": "fields",
-        "importPath": "marshmallow",
-        "description": "marshmallow",
+        "label": "CatalogItemDetailedSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
         "isExtraImport": true,
-        "detail": "marshmallow",
+        "detail": "app.schemas.catalog_schema",
         "documentation": {}
     },
     {
-        "label": "Schema",
-        "importPath": "marshmallow",
-        "description": "marshmallow",
+        "label": "CatalogItemSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
         "isExtraImport": true,
-        "detail": "marshmallow",
+        "detail": "app.schemas.catalog_schema",
         "documentation": {}
     },
     {
-        "label": "fields",
-        "importPath": "marshmallow",
-        "description": "marshmallow",
+        "label": "CatalogItemSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
         "isExtraImport": true,
-        "detail": "marshmallow",
-        "documentation": {}
-    },
-    {
-        "label": "Schema",
-        "importPath": "marshmallow",
-        "description": "marshmallow",
-        "isExtraImport": true,
-        "detail": "marshmallow",
-        "documentation": {}
-    },
-    {
-        "label": "fields",
-        "importPath": "marshmallow",
-        "description": "marshmallow",
-        "isExtraImport": true,
-        "detail": "marshmallow",
+        "detail": "app.schemas.catalog_schema",
         "documentation": {}
     },
     {
@@ -671,27 +2197,83 @@
         "documentation": {}
     },
     {
-        "label": "CartResponseSchema",
-        "importPath": "schemas.cart_schema",
-        "description": "schemas.cart_schema",
+        "label": "ProductGrindingWheels",
+        "importPath": "app.models",
+        "description": "app.models",
         "isExtraImport": true,
-        "detail": "schemas.cart_schema",
+        "detail": "app.models",
         "documentation": {}
     },
     {
-        "label": "User",
-        "importPath": "models.user",
-        "description": "models.user",
+        "label": "Bond",
+        "importPath": "app.models",
+        "description": "app.models",
         "isExtraImport": true,
-        "detail": "models.user",
+        "detail": "app.models",
         "documentation": {}
     },
     {
-        "label": "User",
-        "importPath": "models.user",
-        "description": "models.user",
+        "label": "ShapeImg",
+        "importPath": "app.models",
+        "description": "app.models",
         "isExtraImport": true,
-        "detail": "models.user",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentCode",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentModel",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductGrindingWheels",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentCode",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentModel",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bond",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
         "documentation": {}
     },
     {
@@ -704,147 +2286,448 @@
         "documentation": {}
     },
     {
-        "label": "CORS",
-        "importPath": "flask_cors",
-        "description": "flask_cors",
+        "label": "FileResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
         "isExtraImport": true,
-        "detail": "flask_cors",
+        "detail": "starlette.responses",
         "documentation": {}
     },
     {
-        "label": "Swagger",
-        "importPath": "flasgger",
-        "description": "flasgger",
+        "label": "datetime",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "flasgger",
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
         "documentation": {}
     },
     {
-        "label": "Config",
-        "importPath": "config.config",
-        "description": "config.config",
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
         "isExtraImport": true,
-        "detail": "config.config",
+        "detail": "datetime",
         "documentation": {}
     },
     {
-        "label": "Limiter",
-        "importPath": "flask_limiter",
-        "description": "flask_limiter",
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
         "isExtraImport": true,
-        "detail": "flask_limiter",
+        "detail": "datetime",
         "documentation": {}
     },
     {
-        "label": "Migrate",
-        "importPath": "flask_migrate",
-        "description": "flask_migrate",
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
         "isExtraImport": true,
-        "detail": "flask_migrate",
+        "detail": "datetime",
         "documentation": {}
     },
     {
-        "label": "menu_bp",
-        "importPath": "routes.menu",
-        "description": "routes.menu",
+        "label": "CreatePostRequest",
+        "importPath": "app.schemas.post_schema",
+        "description": "app.schemas.post_schema",
         "isExtraImport": true,
-        "detail": "routes.menu",
+        "detail": "app.schemas.post_schema",
         "documentation": {}
     },
     {
-        "label": "login_bp",
-        "importPath": "routes.login",
-        "description": "routes.login",
+        "label": "PostResponse",
+        "importPath": "app.schemas.post_schema",
+        "description": "app.schemas.post_schema",
         "isExtraImport": true,
-        "detail": "routes.login",
+        "detail": "app.schemas.post_schema",
         "documentation": {}
     },
     {
-        "label": "register_bp",
-        "importPath": "routes.register",
-        "description": "routes.register",
+        "label": "DeletePostResponse",
+        "importPath": "app.schemas.post_schema",
+        "description": "app.schemas.post_schema",
         "isExtraImport": true,
-        "detail": "routes.register",
+        "detail": "app.schemas.post_schema",
         "documentation": {}
     },
     {
-        "label": "get_cart_bp",
-        "importPath": "routes.get_cart",
-        "description": "routes.get_cart",
+        "label": "EditPostRequest",
+        "importPath": "app.schemas.post_schema",
+        "description": "app.schemas.post_schema",
         "isExtraImport": true,
-        "detail": "routes.get_cart",
+        "detail": "app.schemas.post_schema",
         "documentation": {}
     },
     {
-        "label": "add_to_cart_bp",
-        "importPath": "routes.add_to_cart",
-        "description": "routes.add_to_cart",
+        "label": "PostResponse",
+        "importPath": "app.schemas.post_schema",
+        "description": "app.schemas.post_schema",
         "isExtraImport": true,
-        "detail": "routes.add_to_cart",
+        "detail": "app.schemas.post_schema",
         "documentation": {}
     },
     {
-        "label": "catalog_bp",
-        "importPath": "routes.catalog",
-        "description": "routes.catalog",
+        "label": "PostResponse",
+        "importPath": "app.schemas.post_schema",
+        "description": "app.schemas.post_schema",
         "isExtraImport": true,
-        "detail": "routes.catalog",
+        "detail": "app.schemas.post_schema",
         "documentation": {}
     },
     {
-        "label": "remove_from_cart_bp",
-        "importPath": "routes.remove_from_cart",
-        "description": "routes.remove_from_cart",
+        "label": "PostResponse",
+        "importPath": "app.schemas.post_schema",
+        "description": "app.schemas.post_schema",
         "isExtraImport": true,
-        "detail": "routes.remove_from_cart",
+        "detail": "app.schemas.post_schema",
         "documentation": {}
     },
     {
-        "label": "refresh_token_bp",
-        "importPath": "routes.refresh_token",
-        "description": "routes.refresh_token",
+        "label": "ImageUploadResponse",
+        "importPath": "app.schemas.post_schema",
+        "description": "app.schemas.post_schema",
         "isExtraImport": true,
-        "detail": "routes.refresh_token",
+        "detail": "app.schemas.post_schema",
         "documentation": {}
     },
     {
-        "label": "images_bp",
-        "importPath": "routes.static",
-        "description": "routes.static",
+        "label": "uuid",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "routes.static",
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
         "documentation": {}
     },
     {
-        "label": "get_remote_address",
-        "importPath": "flask_limiter.util",
-        "description": "flask_limiter.util",
+        "label": "logging",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "flask_limiter.util",
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
         "documentation": {}
     },
     {
-        "label": "SQLAlchemy",
-        "importPath": "flask_sqlalchemy",
-        "description": "flask_sqlalchemy",
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
         "isExtraImport": true,
-        "detail": "flask_sqlalchemy",
+        "detail": "dotenv",
         "documentation": {}
     },
     {
-        "label": "Cache",
-        "importPath": "flask_caching",
-        "description": "flask_caching",
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
         "isExtraImport": true,
-        "detail": "flask_caching",
+        "detail": "dotenv",
         "documentation": {}
     },
     {
-        "label": "setup_logging",
-        "importPath": "logs.logger",
-        "description": "logs.logger",
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
         "isExtraImport": true,
-        "detail": "logs.logger",
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "isExtraImport": true,
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic.v1",
+        "description": "pydantic.v1",
+        "isExtraImport": true,
+        "detail": "pydantic.v1",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "constr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "conint",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "constr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "starlette.staticfiles",
+        "description": "starlette.staticfiles",
+        "isExtraImport": true,
+        "detail": "starlette.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_router",
+        "importPath": "app.api.routes.auth.get_user",
+        "description": "app.api.routes.auth.get_user",
+        "isExtraImport": true,
+        "detail": "app.api.routes.auth.get_user",
+        "documentation": {}
+    },
+    {
+        "label": "login_router",
+        "importPath": "app.api.routes.auth.login",
+        "description": "app.api.routes.auth.login",
+        "isExtraImport": true,
+        "detail": "app.api.routes.auth.login",
+        "documentation": {}
+    },
+    {
+        "label": "logout_router",
+        "importPath": "app.api.routes.auth.logout",
+        "description": "app.api.routes.auth.logout",
+        "isExtraImport": true,
+        "detail": "app.api.routes.auth.logout",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_token_router",
+        "importPath": "app.api.routes.auth.refresh_token",
+        "description": "app.api.routes.auth.refresh_token",
+        "isExtraImport": true,
+        "detail": "app.api.routes.auth.refresh_token",
+        "documentation": {}
+    },
+    {
+        "label": "register_router",
+        "importPath": "app.api.routes.auth.register",
+        "description": "app.api.routes.auth.register",
+        "isExtraImport": true,
+        "detail": "app.api.routes.auth.register",
+        "documentation": {}
+    },
+    {
+        "label": "add_router",
+        "importPath": "app.api.routes.cart.add_to_cart",
+        "description": "app.api.routes.cart.add_to_cart",
+        "isExtraImport": true,
+        "detail": "app.api.routes.cart.add_to_cart",
+        "documentation": {}
+    },
+    {
+        "label": "get_cart_router",
+        "importPath": "app.api.routes.cart.get_cart",
+        "description": "app.api.routes.cart.get_cart",
+        "isExtraImport": true,
+        "detail": "app.api.routes.cart.get_cart",
+        "documentation": {}
+    },
+    {
+        "label": "remove_router",
+        "importPath": "app.api.routes.cart.remove_from_cart",
+        "description": "app.api.routes.cart.remove_from_cart",
+        "isExtraImport": true,
+        "detail": "app.api.routes.cart.remove_from_cart",
+        "documentation": {}
+    },
+    {
+        "label": "catalog_router",
+        "importPath": "app.api.routes.catalog.catalog",
+        "description": "app.api.routes.catalog.catalog",
+        "isExtraImport": true,
+        "detail": "app.api.routes.catalog.catalog",
+        "documentation": {}
+    },
+    {
+        "label": "get_catalog_item_router",
+        "importPath": "app.api.routes.catalog.catalog_item",
+        "description": "app.api.routes.catalog.catalog_item",
+        "isExtraImport": true,
+        "detail": "app.api.routes.catalog.catalog_item",
+        "documentation": {}
+    },
+    {
+        "label": "menu_router",
+        "importPath": "app.api.routes.other.menu",
+        "description": "app.api.routes.other.menu",
+        "isExtraImport": true,
+        "detail": "app.api.routes.other.menu",
+        "documentation": {}
+    },
+    {
+        "label": "static_router",
+        "importPath": "app.api.routes.other.static",
+        "description": "app.api.routes.other.static",
+        "isExtraImport": true,
+        "detail": "app.api.routes.other.static",
+        "documentation": {}
+    },
+    {
+        "label": "create_post_router",
+        "importPath": "app.api.routes.posts.create_post",
+        "description": "app.api.routes.posts.create_post",
+        "isExtraImport": true,
+        "detail": "app.api.routes.posts.create_post",
+        "documentation": {}
+    },
+    {
+        "label": "delete_post_router",
+        "importPath": "app.api.routes.posts.delete_post",
+        "description": "app.api.routes.posts.delete_post",
+        "isExtraImport": true,
+        "detail": "app.api.routes.posts.delete_post",
+        "documentation": {}
+    },
+    {
+        "label": "edit_post_router",
+        "importPath": "app.api.routes.posts.edit_post",
+        "description": "app.api.routes.posts.edit_post",
+        "isExtraImport": true,
+        "detail": "app.api.routes.posts.edit_post",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_posts_router",
+        "importPath": "app.api.routes.posts.get_all_posts",
+        "description": "app.api.routes.posts.get_all_posts",
+        "isExtraImport": true,
+        "detail": "app.api.routes.posts.get_all_posts",
+        "documentation": {}
+    },
+    {
+        "label": "get_post_router",
+        "importPath": "app.api.routes.posts.get_post",
+        "description": "app.api.routes.posts.get_post",
+        "isExtraImport": true,
+        "detail": "app.api.routes.posts.get_post",
+        "documentation": {}
+    },
+    {
+        "label": "upload_image_router",
+        "importPath": "app.api.routes.posts.upload_image",
+        "description": "app.api.routes.posts.upload_image",
+        "isExtraImport": true,
+        "detail": "app.api.routes.posts.upload_image",
         "documentation": {}
     },
     {
@@ -929,471 +2812,822 @@
         "documentation": {}
     },
     {
-        "label": "Config",
-        "kind": 6,
-        "importPath": "backend.config.config",
-        "description": "backend.config.config",
-        "peekOfCode": "class Config:\n    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URL')\n    ITEMS_PER_PAGE = int(os.getenv('ITEMS_PER_PAGE', '10'))\n    SQLALCHEMY_TRACK_MODIFICATIONS = False\n    SECRET_KEY = os.getenv(\"SECRET_KEY\", \"mysecretkey\")\n    CACHE_TYPE = \"RedisCache\"\n    CACHE_REDIS_HOST = os.getenv(\"CACHE_REDIS_HOST\", \"localhost\")\n    CACHE_REDIS_PORT = int(os.getenv(\"CACHE_REDIS_PORT\", 6379))\n    CACHE_REDIS_DB = int(os.getenv(\"CACHE_REDIS_DB\", 0))\n    CACHE_DEFAULT_TIMEOUT = int(os.getenv(\"CACHE_DEFAULT_TIMEOUT\", 300))",
-        "detail": "backend.config.config",
-        "documentation": {}
-    },
-    {
-        "label": "setup_logging",
-        "kind": 2,
-        "importPath": "backend.logs.logger",
-        "description": "backend.logs.logger",
-        "peekOfCode": "def setup_logging():\n    log_level = os.getenv(\"LOG_LEVEL\", \"INFO\").upper()\n    log_dir = \"logs\"\n    if not os.path.exists(log_dir):\n        os.makedirs(log_dir)\n    logger = logging.getLogger('flask_logger')\n    logger.setLevel(log_level)\n    fh = RotatingFileHandler(os.path.join(log_dir, 'app.log'), maxBytes=5 * 1024 * 1024, backupCount=5)\n    fh.setLevel(log_level)\n    ch = logging.StreamHandler()",
-        "detail": "backend.logs.logger",
-        "documentation": {}
-    },
-    {
         "label": "upgrade",
         "kind": 2,
-        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),\n    sa.Column('images', sa.Text(), nullable=True),\n    sa.PrimaryKeyConstraint('code')\n    )\n    op.create_table('cart',",
-        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "importPath": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
+        "description": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
         "documentation": {}
     },
     {
         "label": "downgrade",
         "kind": 2,
-        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('woodworking',\n    sa.Column('code', sa.VARCHAR(length=50), autoincrement=False, nullable=False),\n    sa.Column('shape', sa.VARCHAR(length=100), autoincrement=False, nullable=True),\n    sa.Column('dimensions', sa.VARCHAR(length=100), autoincrement=False, nullable=True),\n    sa.Column('images', sa.TEXT(), autoincrement=False, nullable=True),\n    sa.PrimaryKeyConstraint('code', name='woodworking_pkey')\n    )\n    op.create_table('products',",
-        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
+        "importPath": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
+        "description": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
         "documentation": {}
     },
     {
-        "label": "revision",
-        "kind": 5,
-        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "peekOfCode": "revision = 'bef0e32d87d2'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),",
-        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "documentation": {}
-    },
-    {
-        "label": "down_revision",
-        "kind": 5,
-        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),\n    sa.Column('images', sa.Text(), nullable=True),",
-        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "documentation": {}
-    },
-    {
-        "label": "branch_labels",
-        "kind": 5,
-        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),\n    sa.Column('images', sa.Text(), nullable=True),\n    sa.PrimaryKeyConstraint('code')",
-        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "documentation": {}
-    },
-    {
-        "label": "depends_on",
-        "kind": 5,
-        "importPath": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "description": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('catalog',\n    sa.Column('code', sa.String(length=50), nullable=False),\n    sa.Column('shape', sa.String(length=100), nullable=True),\n    sa.Column('dimensions', sa.String(length=100), nullable=True),\n    sa.Column('images', sa.Text(), nullable=True),\n    sa.PrimaryKeyConstraint('code')\n    )",
-        "detail": "backend.migrations.versions.bef0e32d87d2_renaming_tables_routes",
-        "documentation": {}
-    },
-    {
-        "label": "get_engine",
+        "label": "upgrade",
         "kind": 2,
-        "importPath": "backend.migrations.env",
-        "description": "backend.migrations.env",
-        "peekOfCode": "def get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(",
-        "detail": "backend.migrations.env",
+        "importPath": "backend.alembic.versions.2c5e56e88ca6_initial",
+        "description": "backend.alembic.versions.2c5e56e88ca6_initial",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('bond',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name_bond', sa.String(), nullable=False),\n    sa.Column('bond_description', sa.String(), nullable=False),\n    sa.Column('bond_cooling', sa.Integer(), nullable=False),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "backend.alembic.versions.2c5e56e88ca6_initial",
         "documentation": {}
     },
     {
-        "label": "get_engine_url",
+        "label": "downgrade",
         "kind": 2,
-        "importPath": "backend.migrations.env",
-        "description": "backend.migrations.env",
-        "peekOfCode": "def get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(\n            '%', '%%')\n    except AttributeError:\n        return str(get_engine().url).replace('%', '%%')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata",
-        "detail": "backend.migrations.env",
+        "importPath": "backend.alembic.versions.2c5e56e88ca6_initial",
+        "description": "backend.alembic.versions.2c5e56e88ca6_initial",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_equipment_code_code'), table_name='equipment_code')\n    op.drop_table('equipment_code')\n    op.drop_table('cart')\n    op.drop_index(op.f('ix_refresh_tokens_refresh_token'), table_name='refresh_tokens')\n    op.drop_table('refresh_tokens')\n    op.drop_index(op.f('ix_product_grinding_wheels_code'), table_name='product_grinding_wheels')\n    op.drop_table('product_grinding_wheels')",
+        "detail": "backend.alembic.versions.2c5e56e88ca6_initial",
         "documentation": {}
     },
     {
-        "label": "get_metadata",
+        "label": "upgrade",
         "kind": 2,
-        "importPath": "backend.migrations.env",
-        "description": "backend.migrations.env",
-        "peekOfCode": "def get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.",
-        "detail": "backend.migrations.env",
+        "importPath": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
+        "description": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('bond',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name_bond', sa.String(), nullable=False),\n    sa.Column('bond_description', sa.String(), nullable=False),\n    sa.Column('bond_cooling', sa.String(), nullable=False),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
+        "description": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_equipment_code_code'), table_name='equipment_code')\n    op.drop_table('equipment_code')\n    op.drop_table('cart')\n    op.drop_index(op.f('ix_product_grinding_wheels_code'), table_name='product_grinding_wheels')\n    op.drop_table('product_grinding_wheels')\n    op.drop_index(op.f('ix_equipment_model_name_equipment'), table_name='equipment_model')\n    op.drop_table('equipment_model')",
+        "detail": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.c18aee661060_fix_bond",
+        "description": "backend.alembic.versions.c18aee661060_fix_bond",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('bond',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name_bond', sa.String(), nullable=False),\n    sa.Column('bond_description', sa.String(), nullable=False),\n    sa.Column('bond_cooling', sa.String(), nullable=False),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "backend.alembic.versions.c18aee661060_fix_bond",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.c18aee661060_fix_bond",
+        "description": "backend.alembic.versions.c18aee661060_fix_bond",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_equipment_code_code'), table_name='equipment_code')\n    op.drop_table('equipment_code')\n    op.drop_table('cart')\n    op.drop_index(op.f('ix_product_grinding_wheels_code'), table_name='product_grinding_wheels')\n    op.drop_table('product_grinding_wheels')\n    op.drop_index(op.f('ix_equipment_model_name_equipment'), table_name='equipment_model')\n    op.drop_table('equipment_model')",
+        "detail": "backend.alembic.versions.c18aee661060_fix_bond",
         "documentation": {}
     },
     {
         "label": "run_migrations_offline",
         "kind": 2,
-        "importPath": "backend.migrations.env",
-        "description": "backend.migrations.env",
-        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
-        "detail": "backend.migrations.env",
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "backend.alembic.env",
         "documentation": {}
     },
     {
         "label": "run_migrations_online",
         "kind": 2,
-        "importPath": "backend.migrations.env",
-        "description": "backend.migrations.env",
-        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):",
-        "detail": "backend.migrations.env",
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "backend.alembic.env",
         "documentation": {}
     },
     {
         "label": "config",
         "kind": 5,
-        "importPath": "backend.migrations.env",
-        "description": "backend.migrations.env",
-        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):",
-        "detail": "backend.migrations.env",
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\nfrom app.models.cart_item import CartItem\nfrom app.models.product_grinding_wheels import ProductGrindingWheels\nfrom app.models.bond import Bond\nfrom app.models.equipment_code import EquipmentCode\nfrom app.models.equipment_model import EquipmentModel",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "target_metadata = Base.metadata\nBase.metadata.drop_all(engine)\nBase.metadata.create_all(engine)\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.auth.get_user",
+        "description": "backend.app.api.routes.auth.get_user",
+        "peekOfCode": "get_user_router = APIRouter()\n@get_user_router.get(\"/api/user\", response_model=UserResponse)\nasync def get_current_user(\n        user: User = Depends(get_current_user),\n):\n    return UserResponse(user=UserData.model_validate(user))",
+        "detail": "backend.app.api.routes.auth.get_user",
+        "documentation": {}
+    },
+    {
+        "label": "login_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.auth.login",
+        "description": "backend.app.api.routes.auth.login",
+        "peekOfCode": "login_router = APIRouter()\n@login_router.post(\"/api/login\", response_model=LoginResponse)\nasync def login(\n        user_data: LoginRequest,\n        db: Session = Depends(get_db)\n):\n    user = db.query(User).filter(User.email == user_data.email).first()\n    if not user:\n        raise HTTPException(status_code=404, detail=\"User not found\")\n    if not verify_password(user_data.password, user.password_hash):",
+        "detail": "backend.app.api.routes.auth.login",
+        "documentation": {}
+    },
+    {
+        "label": "logout_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.auth.logout",
+        "description": "backend.app.api.routes.auth.logout",
+        "peekOfCode": "logout_router = APIRouter()\n@logout_router.post(\"/api/logout\", response_model=LogoutResponse)\nasync def logout(\n    logout_data: LogoutRequest = Body(...),\n    access_token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db)\n):\n    payload = decode_token(access_token)\n    user_id = payload.get(\"sub\")\n    if not user_id:",
+        "detail": "backend.app.api.routes.auth.logout",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_token_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.auth.refresh_token",
+        "description": "backend.app.api.routes.auth.refresh_token",
+        "peekOfCode": "refresh_token_router = APIRouter()\n@refresh_token_router.post(\"/api/refresh\", response_model=RefreshTokenResponse)\nasync def refresh_token(\n        refresh_data: RefreshTokenRequest = Body(...),\n        db: Session = Depends(get_db),\n):\n    refresh_token = refresh_data.refreshToken\n    payload = decode_token(refresh_token)\n    user_id = payload.get(\"sub\")\n    token_type = payload.get(\"type\")",
+        "detail": "backend.app.api.routes.auth.refresh_token",
+        "documentation": {}
+    },
+    {
+        "label": "register_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.auth.register",
+        "description": "backend.app.api.routes.auth.register",
+        "peekOfCode": "register_router = APIRouter()\n@register_router.post(\"/api/register\", response_model=RegisterResponse)\nasync def register(\n    user: RegisterRequest,\n    db: Session = Depends(get_db)\n):\n    try:\n        if db.query(User).filter(User.email == user.email).first():\n            raise HTTPException(status_code=409, detail=\"Email already registered\")\n        hashed_password = hash_password(user.password)",
+        "detail": "backend.app.api.routes.auth.register",
+        "documentation": {}
+    },
+    {
+        "label": "add_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.cart.add_to_cart",
+        "description": "backend.app.api.routes.cart.add_to_cart",
+        "peekOfCode": "add_router = APIRouter()\n@add_router.post(\"/api/cart\", response_model=CartResponse)\nasync def add_to_cart(\n        item: CartRequest,\n        user: User = Depends(get_current_user),\n        db: Session = Depends(get_db)\n):\n    try:\n        if not item.code:\n            raise HTTPException(status_code=400, detail=\"Article is empty\")",
+        "detail": "backend.app.api.routes.cart.add_to_cart",
+        "documentation": {}
+    },
+    {
+        "label": "get_cart_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.cart.get_cart",
+        "description": "backend.app.api.routes.cart.get_cart",
+        "peekOfCode": "get_cart_router = APIRouter()\n@get_cart_router.get(\"/api/cart\", response_model=CartListResponse)\nasync def get_cart(\n        db: Session = Depends(get_db),\n        user: User = Depends(get_current_user)\n):\n    try:\n        cart_items = db.query(CartItem).filter_by(user_id=user.id).all()\n        cart = []\n        for item in cart_items:",
+        "detail": "backend.app.api.routes.cart.get_cart",
+        "documentation": {}
+    },
+    {
+        "label": "remove_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.cart.remove_from_cart",
+        "description": "backend.app.api.routes.cart.remove_from_cart",
+        "peekOfCode": "remove_router = APIRouter()\n@remove_router.delete(\"/api/cart\", response_model=CartResponse)\nasync def remove_from_cart(\n        item: CartRequest,\n        user: User = Depends(get_current_user),\n        db: Session = Depends(get_db)\n):\n    try:\n      if not item.code:\n        raise HTTPException(status_code=400, detail=\"Article is empty\")",
+        "detail": "backend.app.api.routes.cart.remove_from_cart",
+        "documentation": {}
+    },
+    {
+        "label": "catalog_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.catalog.catalog",
+        "description": "backend.app.api.routes.catalog.catalog",
+        "peekOfCode": "catalog_router = APIRouter()\n@catalog_router.get(\"/api/catalog\", response_model=CatalogResponseSchema)\nasync def return_products(\n        query_params: CatalogQuerySchema = Depends(),\n        db: Session = Depends(get_db),\n        user: Optional[User] = Depends(get_current_user_optional)\n):\n    try:\n        query = db.query(ProductGrindingWheels) \\\n            .join(Bond, ProductGrindingWheels.name_bond == Bond.name_bond) \\",
+        "detail": "backend.app.api.routes.catalog.catalog",
+        "documentation": {}
+    },
+    {
+        "label": "get_catalog_item_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.catalog.catalog_item",
+        "description": "backend.app.api.routes.catalog.catalog_item",
+        "peekOfCode": "get_catalog_item_router = APIRouter()\n@get_catalog_item_router.get(\"/api/catalog/{code}\", response_model=CatalogItemDetailedSchema)\nasync def get_cart(\n        code: str,\n        db: Session = Depends(get_db),\n        user: Optional[User] = Depends(get_current_user_optional)\n):\n    item = db.query(ProductGrindingWheels).options(\n        joinedload(ProductGrindingWheels.equipment_codes)\n        .joinedload(EquipmentCode.equipment_model)",
+        "detail": "backend.app.api.routes.catalog.catalog_item",
+        "documentation": {}
+    },
+    {
+        "label": "menu_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.other.menu",
+        "description": "backend.app.api.routes.other.menu",
+        "peekOfCode": "menu_router = APIRouter()\n@menu_router.get(\"/api/menu\", response_model=Dict[str, Any])\nasync def return_menu():\n    try:\n        with open('menu.json', 'r') as file:\n            menu_data = json.load(file)\n        return menu_data\n    except Exception as e:\n        raise HTTPException(\n            status_code=400,",
+        "detail": "backend.app.api.routes.other.menu",
+        "documentation": {}
+    },
+    {
+        "label": "static_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.other.static",
+        "description": "backend.app.api.routes.other.static",
+        "peekOfCode": "static_router = APIRouter()\n@static_router.get(\"/images/{filename}\")\nasync def serve_image(filename: str):\n    file_path = os.path.join(\"app/static/images\", filename)\n    if os.path.exists(file_path):\n        return FileResponse(file_path, media_type=\"image/png\")\n    raise HTTPException(status_code=404, detail=\"File not found\")",
+        "detail": "backend.app.api.routes.other.static",
+        "documentation": {}
+    },
+    {
+        "label": "create_post_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.posts.create_post",
+        "description": "backend.app.api.routes.posts.create_post",
+        "peekOfCode": "create_post_router = APIRouter()\n@create_post_router.post(\"/api/blog\", response_model=PostResponse)\nasync def create_post(\n        data: CreatePostRequest,\n        db: Session = Depends(get_db),\n        user: UserData = Depends(admin_required)\n):\n    try:\n        new_post = Post(\n            user_id=user.id,",
+        "detail": "backend.app.api.routes.posts.create_post",
+        "documentation": {}
+    },
+    {
+        "label": "delete_post_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.posts.delete_post",
+        "description": "backend.app.api.routes.posts.delete_post",
+        "peekOfCode": "delete_post_router = APIRouter()\n@delete_post_router.delete(\"/api/blog/{post_id}\", response_model=DeletePostResponse)\nasync def delete_post(\n        post_id: int,\n        db: Session = Depends(get_db),\n        user: User = Depends(get_current_user)\n):\n    post = db.query(Post).filter(Post.id == post_id).first()\n    if not post:\n        raise HTTPException(status_code=404, detail=\"Post not found\")",
+        "detail": "backend.app.api.routes.posts.delete_post",
+        "documentation": {}
+    },
+    {
+        "label": "edit_post_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.posts.edit_post",
+        "description": "backend.app.api.routes.posts.edit_post",
+        "peekOfCode": "edit_post_router = APIRouter()\n@edit_post_router.put(\"/api/blog/{post_id}\")\nasync def update_post(\n        post_id: int,\n        data: EditPostRequest,\n        db: Session = Depends(get_db),\n        user: User = Depends(get_current_user)\n):\n    post = db.query(Post).filter(Post.id == post_id).first()\n    if not post:",
+        "detail": "backend.app.api.routes.posts.edit_post",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_posts_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.posts.get_all_posts",
+        "description": "backend.app.api.routes.posts.get_all_posts",
+        "peekOfCode": "get_all_posts_router = APIRouter()\n@get_all_posts_router.get(\"/api/blog\", response_model=list[PostResponse])\nasync def get_all_posts(\n        db: Session = Depends(get_db)\n):\n    try:\n        posts = db.query(Post).order_by(Post.created_at.desc()).all()\n        return [PostResponse.model_validate(post) for post in posts]\n    except Exception as e:\n        raise HTTPException(status_code=500, detail=f\"Failed to fetch posts: {str(e)}\")",
+        "detail": "backend.app.api.routes.posts.get_all_posts",
+        "documentation": {}
+    },
+    {
+        "label": "get_post_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.posts.get_post",
+        "description": "backend.app.api.routes.posts.get_post",
+        "peekOfCode": "get_post_router = APIRouter()\n@get_post_router.get(\"/api/blog/{post_id}\", response_model=PostResponse)\nasync def get_post_by_id(\n        post_id: int,\n        db: Session = Depends(get_db)\n):\n    post = db.query(Post).filter(Post.id == post_id).first()\n    if not post:\n        raise HTTPException(status_code=404, detail=\"Post not found\")\n    return PostResponse.model_validate(post)",
+        "detail": "backend.app.api.routes.posts.get_post",
+        "documentation": {}
+    },
+    {
+        "label": "upload_image_router",
+        "kind": 5,
+        "importPath": "backend.app.api.routes.posts.upload_image",
+        "description": "backend.app.api.routes.posts.upload_image",
+        "peekOfCode": "upload_image_router = APIRouter()\n@upload_image_router.post(\"/api/upload-image\")\nasync def upload_image(\n        file: UploadFile = File(...),\n        user: UserData = Depends(admin_required)\n):\n    if user.role != \"admin\":\n        raise HTTPException(status_code=403, detail=\"You are not allowed to upload images\")\n    upload_dir = \"app/static/images\"\n    if not file.filename.lower().endswith(('.png', '.jpg', '.jpeg', '.webp')):",
+        "detail": "backend.app.api.routes.posts.upload_image",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "backend.app.api.dependencies",
+        "description": "backend.app.api.dependencies",
+        "peekOfCode": "def get_db() -> Generator:\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        try:\n            db.close()\n        except Exception as e:\n            logging.error(f\"Error while closing DB session: {e}\")\n            raise",
+        "detail": "backend.app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "backend.app.core.database",
+        "description": "backend.app.core.database",
+        "peekOfCode": "DATABASE_URL = os.getenv('DATABASE_URL')\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL is not set\")\nengine = create_engine(DATABASE_URL, future=True)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "backend.app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend.app.core.database",
+        "description": "backend.app.core.database",
+        "peekOfCode": "engine = create_engine(DATABASE_URL, future=True)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "backend.app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "backend.app.core.database",
+        "description": "backend.app.core.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "backend.app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "backend.app.core.database",
+        "description": "backend.app.core.database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "backend.app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "log_dir",
+        "kind": 5,
+        "importPath": "backend.app.core.logger",
+        "description": "backend.app.core.logger",
+        "peekOfCode": "log_dir = Path(\"logs\")\nlog_dir.mkdir(exist_ok=True)\nlogger = logging.getLogger(\"app\")\nlogger.setLevel(logging.INFO)\nconsole_handler = logging.StreamHandler(sys.stdout)\nconsole_handler.setLevel(logging.INFO)\nconsole_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nconsole_handler.setFormatter(console_format)\nfile_handler = logging.FileHandler(log_dir / \"app.log\")\nfile_handler.setLevel(logging.INFO)",
+        "detail": "backend.app.core.logger",
         "documentation": {}
     },
     {
         "label": "logger",
         "kind": 5,
-        "importPath": "backend.migrations.env",
-        "description": "backend.migrations.env",
-        "peekOfCode": "logger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:",
-        "detail": "backend.migrations.env",
+        "importPath": "backend.app.core.logger",
+        "description": "backend.app.core.logger",
+        "peekOfCode": "logger = logging.getLogger(\"app\")\nlogger.setLevel(logging.INFO)\nconsole_handler = logging.StreamHandler(sys.stdout)\nconsole_handler.setLevel(logging.INFO)\nconsole_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nconsole_handler.setFormatter(console_format)\nfile_handler = logging.FileHandler(log_dir / \"app.log\")\nfile_handler.setLevel(logging.INFO)\nfile_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nfile_handler.setFormatter(file_format)",
+        "detail": "backend.app.core.logger",
         "documentation": {}
     },
     {
-        "label": "target_db",
+        "label": "console_handler",
         "kind": 5,
-        "importPath": "backend.migrations.env",
-        "description": "backend.migrations.env",
-        "peekOfCode": "target_db = current_app.extensions['migrate'].db\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():",
-        "detail": "backend.migrations.env",
+        "importPath": "backend.app.core.logger",
+        "description": "backend.app.core.logger",
+        "peekOfCode": "console_handler = logging.StreamHandler(sys.stdout)\nconsole_handler.setLevel(logging.INFO)\nconsole_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nconsole_handler.setFormatter(console_format)\nfile_handler = logging.FileHandler(log_dir / \"app.log\")\nfile_handler.setLevel(logging.INFO)\nfile_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nfile_handler.setFormatter(file_format)\nlogger.addHandler(console_handler)\nlogger.addHandler(file_handler)",
+        "detail": "backend.app.core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "console_format",
+        "kind": 5,
+        "importPath": "backend.app.core.logger",
+        "description": "backend.app.core.logger",
+        "peekOfCode": "console_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nconsole_handler.setFormatter(console_format)\nfile_handler = logging.FileHandler(log_dir / \"app.log\")\nfile_handler.setLevel(logging.INFO)\nfile_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nfile_handler.setFormatter(file_format)\nlogger.addHandler(console_handler)\nlogger.addHandler(file_handler)",
+        "detail": "backend.app.core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "file_handler",
+        "kind": 5,
+        "importPath": "backend.app.core.logger",
+        "description": "backend.app.core.logger",
+        "peekOfCode": "file_handler = logging.FileHandler(log_dir / \"app.log\")\nfile_handler.setLevel(logging.INFO)\nfile_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nfile_handler.setFormatter(file_format)\nlogger.addHandler(console_handler)\nlogger.addHandler(file_handler)",
+        "detail": "backend.app.core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "file_format",
+        "kind": 5,
+        "importPath": "backend.app.core.logger",
+        "description": "backend.app.core.logger",
+        "peekOfCode": "file_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nfile_handler.setFormatter(file_format)\nlogger.addHandler(console_handler)\nlogger.addHandler(file_handler)",
+        "detail": "backend.app.core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def hash_password(password) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(identity: Union[str, Any]) -> str:\n    expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\n        \"sub\": str(identity),\n        \"exp\": expire,\n        \"type\": \"access\"",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def verify_password(plain_password, hashed_password) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(identity: Union[str, Any]) -> str:\n    expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\n        \"sub\": str(identity),\n        \"exp\": expire,\n        \"type\": \"access\"\n    }\n    return jwt.encode(to_encode, settings.ACCESS_TOKEN_SECRET_KEY, algorithm=settings.ALGORITHM)",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def create_access_token(identity: Union[str, Any]) -> str:\n    expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\n        \"sub\": str(identity),\n        \"exp\": expire,\n        \"type\": \"access\"\n    }\n    return jwt.encode(to_encode, settings.ACCESS_TOKEN_SECRET_KEY, algorithm=settings.ALGORITHM)\ndef create_refresh_token(identity: Union[str, Any], db: Session) -> str:\n    db.query(RefreshToken).filter(RefreshToken.user_id == int(identity)).delete()",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def create_refresh_token(identity: Union[str, Any], db: Session) -> str:\n    db.query(RefreshToken).filter(RefreshToken.user_id == int(identity)).delete()\n    db.commit()\n    expire = datetime.utcnow() + timedelta(minutes=settings.REFRESH_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\n        \"sub\": str(identity),\n        \"exp\": expire,\n        \"type\": \"refresh\"\n    }\n    encoded_jwt = jwt.encode(to_encode, settings.REFRESH_TOKEN_SECRET_KEY, algorithm=settings.ALGORITHM)",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def decode_token(token: str) -> dict:\n    try:\n        unverified_payload = jwt.get_unverified_claims(token)\n        token_type = unverified_payload.get(\"type\")\n    except Exception:\n        raise HTTPException(\n            status_code=401,\n            detail=\"Could not decode token\",\n            headers={\"WWW-Authenticate\": \"Bearer\"},\n        )",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def get_current_user(\n    token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db)\n) -> Type[User]:\n    payload = decode_token(token)\n    if payload.get(\"type\") != \"access\":\n        raise HTTPException(\n            status_code=401,\n            detail=\"Use access token for authentication\",\n            headers={\"WWW-Authenticate\": \"Bearer\"},",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme_optional",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def oauth2_scheme_optional(authorization: str = Header(None)) -> Optional[str]:\n    if authorization and authorization.startswith(\"Bearer \"):\n        return authorization.replace(\"Bearer \", \"\")\n    return None\ndef get_current_user_optional(\n    token: Optional[str] = Depends(oauth2_scheme_optional),\n    db: Session = Depends(get_db)\n) -> Optional[User]:\n    if not token:\n        return None",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user_optional",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def get_current_user_optional(\n    token: Optional[str] = Depends(oauth2_scheme_optional),\n    db: Session = Depends(get_db)\n) -> Optional[User]:\n    if not token:\n        return None\n    try:\n        payload = decode_token(token)\n        user_id = payload.get(\"sub\")\n        if not user_id:",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "admin_required",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def admin_required(user=Depends(get_current_user)):\n    if user.role != \"admin\":\n        raise HTTPException(\n            status_code=403,\n            detail=\"Admin access only\"\n        )\n    return user",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"api/login\")\ndef hash_password(password) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(identity: Union[str, Any]) -> str:\n    expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\n        \"sub\": str(identity),",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"api/login\")\ndef hash_password(password) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(identity: Union[str, Any]) -> str:\n    expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\n        \"sub\": str(identity),\n        \"exp\": expire,",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "backend.app.core.settings",
+        "description": "backend.app.core.settings",
+        "peekOfCode": "class Settings(BaseSettings):\n    SQLALCHEMY_DATABASE_URI: str = os.getenv('DATABASE_URL')\n    ITEMS_PER_PAGE: int = int(os.getenv('ITEMS_PER_PAGE', '10'))\n    ACCESS_TOKEN_SECRET_KEY: str = os.getenv(\"SECRET_KEY\", \"mysecretaccesskey\")\n    REFRESH_TOKEN_SECRET_KEY: str = os.getenv(\"SUPER_SECRET_KEY\", \"mysecretrefreshkey\")\n    ACCESS_TOKEN_EXPIRE_MINUTES=int(os.getenv('ACCESS_TOKEN_EXPIRE_MINUTES', '30'))\n    REFRESH_TOKEN_EXPIRE_MINUTES=int(os.getenv('REFRESH_TOKEN_EXPIRE_MINUTES', '43200'))\n    ALGORITHM: str = os.getenv('ALGORITHM', 'HS256')\n    CACHE_TYPE: str = \"RedisCache\"\n    CACHE_REDIS_HOST: str = os.getenv(\"CACHE_REDIS_HOST\", \"localhost\")",
+        "detail": "backend.app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.app.core.settings",
+        "description": "backend.app.core.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "backend.app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Bond",
+        "kind": 6,
+        "importPath": "backend.app.models.bond",
+        "description": "backend.app.models.bond",
+        "peekOfCode": "class Bond(Base):\n    __tablename__ = 'bond'\n    id = Column(Integer, primary_key=True)\n    name_bond = Column(String, nullable=False, unique=True, index=True)\n    bond_description = Column(String, nullable=False)\n    bond_cooling = Column(String, nullable=False)\n    products = relationship(\"ProductGrindingWheels\", back_populates=\"bond\")",
+        "detail": "backend.app.models.bond",
         "documentation": {}
     },
     {
         "label": "CartItem",
         "kind": 6,
-        "importPath": "backend.models.cart_item",
-        "description": "backend.models.cart_item",
-        "peekOfCode": "class CartItem(db.Model):\n    __tablename__ = 'cart'\n    id = db.Column(db.Integer, primary_key=True)\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id', ondelete=\"CASCADE\"), nullable=False)\n    code = db.Column(db.String(100), nullable=False)\n    shape = db.Column(db.String(255), nullable=True)\n    dimensions = db.Column(db.String(100), nullable=True)\n    quantity = db.Column(db.Integer, default=1)\n    images = db.Column(db.Text)\n    def __repr__(self):",
-        "detail": "backend.models.cart_item",
+        "importPath": "backend.app.models.cart_item",
+        "description": "backend.app.models.cart_item",
+        "peekOfCode": "class CartItem(Base):\n    __tablename__ = 'cart'\n    id = Column(Integer, primary_key=True)\n    user_id = Column(Integer, ForeignKey('users.id', ondelete='CASCADE'), nullable=False)\n    product_code = Column(String, ForeignKey('product_grinding_wheels.code'), nullable=False)\n    quantity = Column(Integer, default=1)\n    user = relationship(\"User\", back_populates=\"cart_items\")\n    product = relationship(\"ProductGrindingWheels\", back_populates=\"cart_items\")",
+        "detail": "backend.app.models.cart_item",
         "documentation": {}
     },
     {
-        "label": "CatalogItem",
+        "label": "EquipmentCode",
         "kind": 6,
-        "importPath": "backend.models.catalog_item",
-        "description": "backend.models.catalog_item",
-        "peekOfCode": "class CatalogItem(db.Model):\n    __tablename__ = 'catalog'\n    code = db.Column(db.String(50), primary_key=True)\n    shape = db.Column(db.String(100))\n    dimensions = db.Column(db.String(100))\n    images = db.Column(db.Text)\n    def __repr__(self):\n        return f'<CatalogItem {self.Article}>'",
-        "detail": "backend.models.catalog_item",
+        "importPath": "backend.app.models.equipment_code",
+        "description": "backend.app.models.equipment_code",
+        "peekOfCode": "class EquipmentCode(Base):\n    __tablename__ = 'equipment_code'\n    name_equipment = Column(String, ForeignKey('equipment_model.name_equipment'), nullable=False, primary_key=True)\n    code = Column(String, ForeignKey('product_grinding_wheels.code'), nullable=False, primary_key=True, index=True)\n    product = relationship(\n        \"ProductGrindingWheels\",\n        primaryjoin=\"EquipmentCode.code == ProductGrindingWheels.code\",\n        back_populates=\"equipment_codes\"\n    )\n    equipment_model = relationship(\"EquipmentModel\", back_populates=\"equipment_codes\")",
+        "detail": "backend.app.models.equipment_code",
         "documentation": {}
     },
     {
-        "label": "bcrypt",
-        "kind": 5,
-        "importPath": "backend.models.catalog_item",
-        "description": "backend.models.catalog_item",
-        "peekOfCode": "bcrypt = Bcrypt()\nclass CatalogItem(db.Model):\n    __tablename__ = 'catalog'\n    code = db.Column(db.String(50), primary_key=True)\n    shape = db.Column(db.String(100))\n    dimensions = db.Column(db.String(100))\n    images = db.Column(db.Text)\n    def __repr__(self):\n        return f'<CatalogItem {self.Article}>'",
-        "detail": "backend.models.catalog_item",
+        "label": "EquipmentModel",
+        "kind": 6,
+        "importPath": "backend.app.models.equipment_model",
+        "description": "backend.app.models.equipment_model",
+        "peekOfCode": "class EquipmentModel(Base):\n    __tablename__ = 'equipment_model'\n    id = Column(Integer, primary_key=True)\n    name_equipment = Column(String, nullable=False, unique=True, index=True)\n    name_producer = Column(String, ForeignKey('producer_name.name_producer'), nullable=False)\n    equipment_codes = relationship(\"EquipmentCode\", back_populates=\"equipment_model\")\n    producer = relationship(\"ProducerName\", back_populates=\"equipment_models\")",
+        "detail": "backend.app.models.equipment_model",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "backend.app.models.post",
+        "description": "backend.app.models.post",
+        "peekOfCode": "class Post(Base):\n    __tablename__ = \"posts\"\n    id = Column(Integer, primary_key=True, index=True)\n    user_id = Column(Integer, ForeignKey(\"users.id\", ondelete='CASCADE'), nullable=False)\n    title = Column(String, nullable=False)\n    content = Column(String, nullable=False)\n    image = Column(String, nullable=True)\n    created_at = Column(DateTime(timezone=True), server_default=func.now(), nullable=False)\n    updated_at = Column(DateTime(timezone=True), onupdate=func.now())\n    user = relationship(\"User\", back_populates=\"posts\")",
+        "detail": "backend.app.models.post",
+        "documentation": {}
+    },
+    {
+        "label": "ProducerName",
+        "kind": 6,
+        "importPath": "backend.app.models.producer_name",
+        "description": "backend.app.models.producer_name",
+        "peekOfCode": "class ProducerName(Base):\n    __tablename__ = 'producer_name'\n    id = Column(Integer, primary_key=True)\n    name_producer = Column(String, nullable=False, unique=True, index=True)\n    equipment_models = relationship(\"EquipmentModel\", back_populates=\"producer\")",
+        "detail": "backend.app.models.producer_name",
+        "documentation": {}
+    },
+    {
+        "label": "ProductGrindingWheels",
+        "kind": 6,
+        "importPath": "backend.app.models.product_grinding_wheels",
+        "description": "backend.app.models.product_grinding_wheels",
+        "peekOfCode": "class ProductGrindingWheels(Base):\n    __tablename__ = 'product_grinding_wheels'\n    code = Column(String, primary_key=True, index=True)\n    shape = Column(String, ForeignKey('shape_img.shape'), nullable=False)\n    dimensions = Column(String, nullable=False)\n    name_bond = Column(String, ForeignKey('bond.name_bond'), nullable=False)\n    grid_size = Column(String, nullable=False)\n    cart_items = relationship(\"CartItem\", back_populates=\"product\")\n    bond = relationship(\"Bond\", back_populates=\"products\")\n    shape_info = relationship(\"ShapeImg\", back_populates=\"products\")",
+        "detail": "backend.app.models.product_grinding_wheels",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "kind": 6,
+        "importPath": "backend.app.models.refresh_token",
+        "description": "backend.app.models.refresh_token",
+        "peekOfCode": "class RefreshToken(Base):\n    __tablename__ = 'refresh_tokens'\n    id = Column(Integer, primary_key=True)\n    user_id = Column(Integer, ForeignKey('users.id', ondelete='CASCADE'), nullable=False)\n    refresh_token = Column(String, nullable=False, index=True)\n    created_at = Column(DateTime, server_default=func.now(), nullable=False)\n    user = relationship('User',back_populates='refresh_tokens')",
+        "detail": "backend.app.models.refresh_token",
+        "documentation": {}
+    },
+    {
+        "label": "ShapeImg",
+        "kind": 6,
+        "importPath": "backend.app.models.shape_img",
+        "description": "backend.app.models.shape_img",
+        "peekOfCode": "class ShapeImg(Base):\n    __tablename__ = 'shape_img'\n    id = Column(Integer, primary_key=True)\n    shape = Column(String, nullable=False, unique=True, index=True)\n    img_url = Column(String, nullable=False)\n    products = relationship(\"ProductGrindingWheels\", back_populates=\"shape_info\")",
+        "detail": "backend.app.models.shape_img",
         "documentation": {}
     },
     {
         "label": "User",
         "kind": 6,
-        "importPath": "backend.models.user",
-        "description": "backend.models.user",
-        "peekOfCode": "class User(db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(80), unique=True, nullable=False)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    password_hash = db.Column(db.String(256), nullable=False)\n    cart_wood_items = db.relationship(\"CartItem\", backref=\"user\", cascade=\"all, delete-orphan\")\n    def set_password(self, password):\n        self.password_hash = bcrypt.generate_password_hash(password).decode('utf-8')\n    def check_password(self, password):",
-        "detail": "backend.models.user",
+        "importPath": "backend.app.models.user",
+        "description": "backend.app.models.user",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, index=True)\n    role = Column(String, index=True, default='user')\n    username = Column(String, unique=True, nullable=False, index=True)\n    email = Column(String, unique=True, nullable=False, index=True)\n    password_hash = Column(String, nullable=False)\n    cart_items = relationship(\n        \"CartItem\",\n        back_populates=\"user\",",
+        "detail": "backend.app.models.user",
         "documentation": {}
     },
     {
-        "label": "bcrypt",
-        "kind": 5,
-        "importPath": "backend.models.user",
-        "description": "backend.models.user",
-        "peekOfCode": "bcrypt = Bcrypt()\nclass User(db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(80), unique=True, nullable=False)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    password_hash = db.Column(db.String(256), nullable=False)\n    cart_wood_items = db.relationship(\"CartItem\", backref=\"user\", cascade=\"all, delete-orphan\")\n    def set_password(self, password):\n        self.password_hash = bcrypt.generate_password_hash(password).decode('utf-8')",
-        "detail": "backend.models.user",
-        "documentation": {}
-    },
-    {
-        "label": "add_to_cart",
-        "kind": 2,
-        "importPath": "backend.routes.add_to_cart",
-        "description": "backend.routes.add_to_cart",
-        "peekOfCode": "def add_to_cart():\n    try:\n        user_id = get_jwt_identity()\n        data = request.get_json()\n        code = data.get(\"code\")\n        shape = data.get(\"shape\")\n        dimensions = data.get(\"dimensions\")\n        images = data.get(\"images\")\n        logger.info(f\"User ID: {user_id}\")\n        logger.info(f\"Received data: {data}\")",
-        "detail": "backend.routes.add_to_cart",
-        "documentation": {}
-    },
-    {
-        "label": "add_to_cart_bp",
-        "kind": 5,
-        "importPath": "backend.routes.add_to_cart",
-        "description": "backend.routes.add_to_cart",
-        "peekOfCode": "add_to_cart_bp = Blueprint('add_to_cart', __name__)\n@add_to_cart_bp.route(\"/api/cart\", methods=['POST'])\n@jwt_required()\ndef add_to_cart():\n    try:\n        user_id = get_jwt_identity()\n        data = request.get_json()\n        code = data.get(\"code\")\n        shape = data.get(\"shape\")\n        dimensions = data.get(\"dimensions\")",
-        "detail": "backend.routes.add_to_cart",
-        "documentation": {}
-    },
-    {
-        "label": "return_products",
-        "kind": 2,
-        "importPath": "backend.routes.catalog",
-        "description": "backend.routes.catalog",
-        "peekOfCode": "def return_products():\n    schema = CatalogQuerySchema()\n    try:\n        args = schema.load(request.args)\n    except ValidationError as err:\n        logger.error(f\"Validation error: {err.messages}\")\n        return jsonify({\"error\": \"Invalid input\", \"details\": err.messages}), 400\n    page = args.get('page', 1)\n    items_per_page = args.get('items_per_page', 10)\n    search_type = args.get('search_type', 'name').lower()",
-        "detail": "backend.routes.catalog",
-        "documentation": {}
-    },
-    {
-        "label": "catalog_bp",
-        "kind": 5,
-        "importPath": "backend.routes.catalog",
-        "description": "backend.routes.catalog",
-        "peekOfCode": "catalog_bp = Blueprint('catalog', __name__)\n@catalog_bp.route(\"/api/catalog\", methods=['GET'])\n@cache.cached(timeout=300, query_string=True)\ndef return_products():\n    schema = CatalogQuerySchema()\n    try:\n        args = schema.load(request.args)\n    except ValidationError as err:\n        logger.error(f\"Validation error: {err.messages}\")\n        return jsonify({\"error\": \"Invalid input\", \"details\": err.messages}), 400",
-        "detail": "backend.routes.catalog",
-        "documentation": {}
-    },
-    {
-        "label": "get_cart",
-        "kind": 2,
-        "importPath": "backend.routes.get_cart",
-        "description": "backend.routes.get_cart",
-        "peekOfCode": "def get_cart():\n    try:\n        auth_header = request.headers.get(\"Authorization\")\n        logger.info(f\"Authorization header: {auth_header}\")\n        user_id = get_jwt_identity()\n        logger.info(f\"Extracted user ID: {user_id} (type: {type(user_id)})\")\n        cart_wood_items = CartItem.query.filter_by(user_id=user_id).all()\n        schema = CartResponseSchema(many=True)\n        result = schema.dump(cart_wood_items)\n        return jsonify({\"cart\": result}), 200",
-        "detail": "backend.routes.get_cart",
-        "documentation": {}
-    },
-    {
-        "label": "get_cart_bp",
-        "kind": 5,
-        "importPath": "backend.routes.get_cart",
-        "description": "backend.routes.get_cart",
-        "peekOfCode": "get_cart_bp = Blueprint('get_cart', __name__)\n@cache.cached(timeout=5)\n@get_cart_bp.route(\"/api/cart\", methods=['GET'])\n@jwt_required()\ndef get_cart():\n    try:\n        auth_header = request.headers.get(\"Authorization\")\n        logger.info(f\"Authorization header: {auth_header}\")\n        user_id = get_jwt_identity()\n        logger.info(f\"Extracted user ID: {user_id} (type: {type(user_id)})\")",
-        "detail": "backend.routes.get_cart",
-        "documentation": {}
-    },
-    {
-        "label": "login",
-        "kind": 2,
-        "importPath": "backend.routes.login",
-        "description": "backend.routes.login",
-        "peekOfCode": "def login():\n    data = request.get_json()\n    if not data or \"email\" not in data or \"password\" not in data:\n        return jsonify({\"error\": \"missing required fields\"}), 400\n    user = User.query.filter_by(email=data[\"email\"]).first()\n    if not user:\n        return jsonify({\"error\": \"user not found\"}), 404\n    if not user.check_password(data[\"password\"]):\n        return jsonify({\"error\": \"invalid email or password\"}), 401\n    access_token = create_access_token(identity=str(user.id))",
-        "detail": "backend.routes.login",
-        "documentation": {}
-    },
-    {
-        "label": "login_bp",
-        "kind": 5,
-        "importPath": "backend.routes.login",
-        "description": "backend.routes.login",
-        "peekOfCode": "login_bp = Blueprint('login', __name__)\n@login_bp.route(\"/api/login\", methods=['POST'])\ndef login():\n    data = request.get_json()\n    if not data or \"email\" not in data or \"password\" not in data:\n        return jsonify({\"error\": \"missing required fields\"}), 400\n    user = User.query.filter_by(email=data[\"email\"]).first()\n    if not user:\n        return jsonify({\"error\": \"user not found\"}), 404\n    if not user.check_password(data[\"password\"]):",
-        "detail": "backend.routes.login",
-        "documentation": {}
-    },
-    {
-        "label": "return_menu",
-        "kind": 2,
-        "importPath": "backend.routes.menu",
-        "description": "backend.routes.menu",
-        "peekOfCode": "def return_menu():\n    try:\n        with open('config/menu.json', 'r') as file:\n            menu_data = json.load(file)\n        return jsonify(menu_data)\n    except Exception as e:\n        return jsonify({\"error\": f\"Failed to load menu data: {str(e)}\"}), 500",
-        "detail": "backend.routes.menu",
-        "documentation": {}
-    },
-    {
-        "label": "menu_bp",
-        "kind": 5,
-        "importPath": "backend.routes.menu",
-        "description": "backend.routes.menu",
-        "peekOfCode": "menu_bp = Blueprint('menu', __name__)\n@cache.cached(timeout=60)\n@menu_bp.route(\"/api/menu\", methods=['GET'])\ndef return_menu():\n    try:\n        with open('config/menu.json', 'r') as file:\n            menu_data = json.load(file)\n        return jsonify(menu_data)\n    except Exception as e:\n        return jsonify({\"error\": f\"Failed to load menu data: {str(e)}\"}), 500",
-        "detail": "backend.routes.menu",
-        "documentation": {}
-    },
-    {
-        "label": "refresh_token",
-        "kind": 2,
-        "importPath": "backend.routes.refresh_token",
-        "description": "backend.routes.refresh_token",
-        "peekOfCode": "def refresh_token():\n    current_user = get_jwt_identity()\n    new_access_token = create_access_token(identity=current_user)\n    return jsonify({\n        \"token\": new_access_token\n    }), 200",
-        "detail": "backend.routes.refresh_token",
-        "documentation": {}
-    },
-    {
-        "label": "refresh_token_bp",
-        "kind": 5,
-        "importPath": "backend.routes.refresh_token",
-        "description": "backend.routes.refresh_token",
-        "peekOfCode": "refresh_token_bp = Blueprint('refresh_token', __name__)\n@refresh_token_bp.route('/api/refresh', methods=['POST'])\n@jwt_required(refresh=True)\ndef refresh_token():\n    current_user = get_jwt_identity()\n    new_access_token = create_access_token(identity=current_user)\n    return jsonify({\n        \"token\": new_access_token\n    }), 200",
-        "detail": "backend.routes.refresh_token",
-        "documentation": {}
-    },
-    {
-        "label": "register",
-        "kind": 2,
-        "importPath": "backend.routes.register",
-        "description": "backend.routes.register",
-        "peekOfCode": "def register():\n    data = request.get_json()\n    if not data or not all(k in data for k in (\"username\", \"email\", \"password\")):\n        return jsonify({\"error\": \"missing required fields\"}), 400\n    if User.query.filter_by(email=data[\"email\"]).first():\n        return jsonify({\"error\": \"email already in use\"}), 409\n    new_user = User(username=data[\"username\"], email=data[\"email\"])\n    new_user.set_password(data[\"password\"])\n    db.session.add(new_user)\n    db.session.commit()",
-        "detail": "backend.routes.register",
-        "documentation": {}
-    },
-    {
-        "label": "register_bp",
-        "kind": 5,
-        "importPath": "backend.routes.register",
-        "description": "backend.routes.register",
-        "peekOfCode": "register_bp = Blueprint('register', __name__)\n@register_bp.route(\"/api/register\", methods=['POST'])\ndef register():\n    data = request.get_json()\n    if not data or not all(k in data for k in (\"username\", \"email\", \"password\")):\n        return jsonify({\"error\": \"missing required fields\"}), 400\n    if User.query.filter_by(email=data[\"email\"]).first():\n        return jsonify({\"error\": \"email already in use\"}), 409\n    new_user = User(username=data[\"username\"], email=data[\"email\"])\n    new_user.set_password(data[\"password\"])",
-        "detail": "backend.routes.register",
-        "documentation": {}
-    },
-    {
-        "label": "remove_from_cart",
-        "kind": 2,
-        "importPath": "backend.routes.remove_from_cart",
-        "description": "backend.routes.remove_from_cart",
-        "peekOfCode": "def remove_from_cart():\n    try:\n      user_id = get_jwt_identity()\n      data = request.get_json()\n      code = data.get(\"code\")\n      if not code:\n        logger.warning(\"missing article in request\")\n        return jsonify({\"error\": \"article is required\"}), 400\n      item = CartItem.query.filter_by(user_id=user_id, code=code).first()\n      if not item:",
-        "detail": "backend.routes.remove_from_cart",
-        "documentation": {}
-    },
-    {
-        "label": "remove_from_cart_bp",
-        "kind": 5,
-        "importPath": "backend.routes.remove_from_cart",
-        "description": "backend.routes.remove_from_cart",
-        "peekOfCode": "remove_from_cart_bp = Blueprint('remove_from_cart', __name__)\n@remove_from_cart_bp.route(\"/api/cart\", methods=['DELETE'])\n@jwt_required()\ndef remove_from_cart():\n    try:\n      user_id = get_jwt_identity()\n      data = request.get_json()\n      code = data.get(\"code\")\n      if not code:\n        logger.warning(\"missing article in request\")",
-        "detail": "backend.routes.remove_from_cart",
-        "documentation": {}
-    },
-    {
-        "label": "serve_image",
-        "kind": 2,
-        "importPath": "backend.routes.static",
-        "description": "backend.routes.static",
-        "peekOfCode": "def serve_image(filename):\n    return send_from_directory('images', filename)",
-        "detail": "backend.routes.static",
-        "documentation": {}
-    },
-    {
-        "label": "images_bp",
-        "kind": 5,
-        "importPath": "backend.routes.static",
-        "description": "backend.routes.static",
-        "peekOfCode": "images_bp = Blueprint('images', __name__)\n@images_bp.route('/images/<path:filename>')\ndef serve_image(filename):\n    return send_from_directory('images', filename)",
-        "detail": "backend.routes.static",
-        "documentation": {}
-    },
-    {
-        "label": "CartItemSchema",
+        "label": "CartRequest",
         "kind": 6,
-        "importPath": "backend.schemas.cart_schema",
-        "description": "backend.schemas.cart_schema",
-        "peekOfCode": "class CartItemSchema(Schema):\n    code = fields.String(required=True)\n    quantity = fields.Integer(required=True, validate=lambda x: x > 0)\nclass CartUpdateSchema(Schema):\n    code = fields.String(required=True)\n    quantity = fields.Integer(required=True, validate=lambda x: x >= 0)\nclass CartResponseSchema(Schema):\n    code = fields.String()\n    shape = fields.String()\n    dimensions = fields.String()",
-        "detail": "backend.schemas.cart_schema",
+        "importPath": "backend.app.schemas.cart_schema",
+        "description": "backend.app.schemas.cart_schema",
+        "peekOfCode": "class CartRequest(BaseModel):\n    code: str\nclass CartResponse(BaseModel):\n    message: str\n# in soon\nclass CartUpdate(BaseModel):\n    code: constr(strip_whitespace=True, min_length=1)\n    quantity: conint(gt=0)\nclass GetCartResponse(BaseModel):\n    product: CatalogItemSchema",
+        "detail": "backend.app.schemas.cart_schema",
         "documentation": {}
     },
     {
-        "label": "CartUpdateSchema",
+        "label": "CartResponse",
         "kind": 6,
-        "importPath": "backend.schemas.cart_schema",
-        "description": "backend.schemas.cart_schema",
-        "peekOfCode": "class CartUpdateSchema(Schema):\n    code = fields.String(required=True)\n    quantity = fields.Integer(required=True, validate=lambda x: x >= 0)\nclass CartResponseSchema(Schema):\n    code = fields.String()\n    shape = fields.String()\n    dimensions = fields.String()\n    quantity = fields.Integer()\n    images = fields.String()",
-        "detail": "backend.schemas.cart_schema",
+        "importPath": "backend.app.schemas.cart_schema",
+        "description": "backend.app.schemas.cart_schema",
+        "peekOfCode": "class CartResponse(BaseModel):\n    message: str\n# in soon\nclass CartUpdate(BaseModel):\n    code: constr(strip_whitespace=True, min_length=1)\n    quantity: conint(gt=0)\nclass GetCartResponse(BaseModel):\n    product: CatalogItemSchema\n    quantity: str\n    class Config:",
+        "detail": "backend.app.schemas.cart_schema",
         "documentation": {}
     },
     {
-        "label": "CartResponseSchema",
+        "label": "CartUpdate",
         "kind": 6,
-        "importPath": "backend.schemas.cart_schema",
-        "description": "backend.schemas.cart_schema",
-        "peekOfCode": "class CartResponseSchema(Schema):\n    code = fields.String()\n    shape = fields.String()\n    dimensions = fields.String()\n    quantity = fields.Integer()\n    images = fields.String()",
-        "detail": "backend.schemas.cart_schema",
+        "importPath": "backend.app.schemas.cart_schema",
+        "description": "backend.app.schemas.cart_schema",
+        "peekOfCode": "class CartUpdate(BaseModel):\n    code: constr(strip_whitespace=True, min_length=1)\n    quantity: conint(gt=0)\nclass GetCartResponse(BaseModel):\n    product: CatalogItemSchema\n    quantity: str\n    class Config:\n        from_attributes = True\nclass CartListResponse(BaseModel):\n    cart: List[GetCartResponse]",
+        "detail": "backend.app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "GetCartResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.cart_schema",
+        "description": "backend.app.schemas.cart_schema",
+        "peekOfCode": "class GetCartResponse(BaseModel):\n    product: CatalogItemSchema\n    quantity: str\n    class Config:\n        from_attributes = True\nclass CartListResponse(BaseModel):\n    cart: List[GetCartResponse]",
+        "detail": "backend.app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartListResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.cart_schema",
+        "description": "backend.app.schemas.cart_schema",
+        "peekOfCode": "class CartListResponse(BaseModel):\n    cart: List[GetCartResponse]",
+        "detail": "backend.app.schemas.cart_schema",
         "documentation": {}
     },
     {
         "label": "CatalogQuerySchema",
         "kind": 6,
-        "importPath": "backend.schemas.catalog_schema",
-        "description": "backend.schemas.catalog_schema",
-        "peekOfCode": "class CatalogQuerySchema(Schema):\n    page = fields.Int(missing=1)\n    items_per_page = fields.Int(missing=8)\n    search = fields.Str(missing=\"\")\n    search_type = fields.Str(\n        missing=\"name\",\n        validate=lambda x: x.lower() in [\"code\", \"shape\", \"dimensions\"] if x else True\n    )",
-        "detail": "backend.schemas.catalog_schema",
+        "importPath": "backend.app.schemas.catalog_schema",
+        "description": "backend.app.schemas.catalog_schema",
+        "peekOfCode": "class CatalogQuerySchema(BaseModel):\n    page: int = Field(default=1, ge=1)\n    items_per_page: int = Field(default=8, ge=1)\n    search: str = \"\"\n    search_type: Optional[Literal[\"code\", \"shape\", \"dimensions\", \"machine\"]] = \"code\"\n    name_bond: Optional[str] = None\n    grid_size: Optional[str] = None\nclass BondSchema(BaseModel):\n    name_bond: str\n    bond_description: str",
+        "detail": "backend.app.schemas.catalog_schema",
         "documentation": {}
     },
     {
-        "label": "UserSchema",
+        "label": "BondSchema",
         "kind": 6,
-        "importPath": "backend.schemas.user_schema",
-        "description": "backend.schemas.user_schema",
-        "peekOfCode": "class UserSchema(Schema):\n    id = fields.Int(dump_only=True)\n    username = fields.Str(required=True)\n    email = fields.Email(required=True)",
-        "detail": "backend.schemas.user_schema",
+        "importPath": "backend.app.schemas.catalog_schema",
+        "description": "backend.app.schemas.catalog_schema",
+        "peekOfCode": "class BondSchema(BaseModel):\n    name_bond: str\n    bond_description: str\n    bond_cooling: str\n    class Config:\n        from_attributes = True\nclass EquipmentModelSchema(BaseModel):\n    name_equipment: str\n    name_producer: str\n    class Config:",
+        "detail": "backend.app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentModelSchema",
+        "kind": 6,
+        "importPath": "backend.app.schemas.catalog_schema",
+        "description": "backend.app.schemas.catalog_schema",
+        "peekOfCode": "class EquipmentModelSchema(BaseModel):\n    name_equipment: str\n    name_producer: str\n    class Config:\n        from_attributes = True\nclass CatalogItemSchema(BaseModel):\n    code: str\n    shape: Optional[str] = None\n    dimensions: Optional[str] = None\n    images: Optional[str] = None",
+        "detail": "backend.app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogItemSchema",
+        "kind": 6,
+        "importPath": "backend.app.schemas.catalog_schema",
+        "description": "backend.app.schemas.catalog_schema",
+        "peekOfCode": "class CatalogItemSchema(BaseModel):\n    code: str\n    shape: Optional[str] = None\n    dimensions: Optional[str] = None\n    images: Optional[str] = None\n    name_bond: Optional[str] = None\n    grid_size: Optional[str] = None\n    is_in_cart: bool = False\n    class Config:\n        from_attributes = True",
+        "detail": "backend.app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogItemDetailedSchema",
+        "kind": 6,
+        "importPath": "backend.app.schemas.catalog_schema",
+        "description": "backend.app.schemas.catalog_schema",
+        "peekOfCode": "class CatalogItemDetailedSchema(BaseModel):\n    item: CatalogItemSchema\n    bond: Optional[BondSchema]\n    machines: List[EquipmentModelSchema] = []\nclass CatalogResponseSchema(BaseModel):\n    items: List[CatalogItemSchema]\n    total_items: int\n    total_pages: int\n    current_page: int\n    items_per_page: int",
+        "detail": "backend.app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogResponseSchema",
+        "kind": 6,
+        "importPath": "backend.app.schemas.catalog_schema",
+        "description": "backend.app.schemas.catalog_schema",
+        "peekOfCode": "class CatalogResponseSchema(BaseModel):\n    items: List[CatalogItemSchema]\n    total_items: int\n    total_pages: int\n    current_page: int\n    items_per_page: int",
+        "detail": "backend.app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CreatePostRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.post_schema",
+        "description": "backend.app.schemas.post_schema",
+        "peekOfCode": "class CreatePostRequest(BaseModel):\n    title: constr(min_length=1) = Field(..., description=\"Post title\")\n    content: constr(min_length=1) = Field(..., description=\"Post content\")\n    image: str | None = None\nclass PostResponse(BaseModel):\n    id: int\n    title: str\n    content: str\n    image: Optional[str] = None\n    created_at: datetime",
+        "detail": "backend.app.schemas.post_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PostResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.post_schema",
+        "description": "backend.app.schemas.post_schema",
+        "peekOfCode": "class PostResponse(BaseModel):\n    id: int\n    title: str\n    content: str\n    image: Optional[str] = None\n    created_at: datetime\n    updated_at: datetime\n    user_id: int\n    class Config:\n        from_attributes = True",
+        "detail": "backend.app.schemas.post_schema",
+        "documentation": {}
+    },
+    {
+        "label": "EditPostRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.post_schema",
+        "description": "backend.app.schemas.post_schema",
+        "peekOfCode": "class EditPostRequest(BaseModel):\n    title: str\n    content: str\n    image: Optional[str] = None\nclass DeletePostResponse(BaseModel):\n    detail: str\nclass ImageUploadResponse(BaseModel):\n    filename: str\n    url: str",
+        "detail": "backend.app.schemas.post_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DeletePostResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.post_schema",
+        "description": "backend.app.schemas.post_schema",
+        "peekOfCode": "class DeletePostResponse(BaseModel):\n    detail: str\nclass ImageUploadResponse(BaseModel):\n    filename: str\n    url: str",
+        "detail": "backend.app.schemas.post_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ImageUploadResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.post_schema",
+        "description": "backend.app.schemas.post_schema",
+        "peekOfCode": "class ImageUploadResponse(BaseModel):\n    filename: str\n    url: str",
+        "detail": "backend.app.schemas.post_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class UserData(BaseModel):\n    id: Optional[int] = None\n    username: str\n    email: str\n    role: str\n    class Config:\n        from_attributes = True\nclass UserResponse(BaseModel):\n    user: UserData\nclass RegisterRequest(BaseModel):",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class UserResponse(BaseModel):\n    user: UserData\nclass RegisterRequest(BaseModel):\n    username: str\n    email: str\n    password: str\nclass RegisterResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class RegisterRequest(BaseModel):\n    username: str\n    email: str\n    password: str\nclass RegisterResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str\n    refreshToken: str\nclass LoginRequest(BaseModel):",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class RegisterResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str\n    refreshToken: str\nclass LoginRequest(BaseModel):\n    email: str\n    password: str\nclass LoginResponse(BaseModel):\n    message: str",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class LoginRequest(BaseModel):\n    email: str\n    password: str\nclass LoginResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str\n    refreshToken: str\nclass RefreshTokenRequest(BaseModel):\n    refreshToken: str",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "LoginResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class LoginResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str\n    refreshToken: str\nclass RefreshTokenRequest(BaseModel):\n    refreshToken: str\nclass RefreshTokenResponse(BaseModel):\n    accessToken: str\n    refreshToken: str",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class RefreshTokenRequest(BaseModel):\n    refreshToken: str\nclass RefreshTokenResponse(BaseModel):\n    accessToken: str\n    refreshToken: str\n    token_type: str = \"bearer\"\nclass LogoutRequest(BaseModel):\n    refreshToken: str\nclass LogoutResponse(BaseModel):\n    message: str",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class RefreshTokenResponse(BaseModel):\n    accessToken: str\n    refreshToken: str\n    token_type: str = \"bearer\"\nclass LogoutRequest(BaseModel):\n    refreshToken: str\nclass LogoutResponse(BaseModel):\n    message: str",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class LogoutRequest(BaseModel):\n    refreshToken: str\nclass LogoutResponse(BaseModel):\n    message: str",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class LogoutResponse(BaseModel):\n    message: str",
+        "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
     {
         "label": "app",
         "kind": 5,
-        "importPath": "backend.app",
-        "description": "backend.app",
-        "peekOfCode": "app = Flask(__name__)\napp.config.from_object(Config)\ndb.init_app(app)\nlimiter = Limiter(key_func=get_remote_address, storage_uri=\"redis://localhost:6379/0\")\nlimiter.init_app(app)\nmigrate = Migrate(app, db)\njwt = JWTManager(app)\ncache.init_app(app)\nCORS(app, resources={r\"/*\": {\"origins\": \"*\"}}, supports_credentials=True)\nswagger = Swagger(app)",
-        "detail": "backend.app",
-        "documentation": {}
-    },
-    {
-        "label": "limiter",
-        "kind": 5,
-        "importPath": "backend.app",
-        "description": "backend.app",
-        "peekOfCode": "limiter = Limiter(key_func=get_remote_address, storage_uri=\"redis://localhost:6379/0\")\nlimiter.init_app(app)\nmigrate = Migrate(app, db)\njwt = JWTManager(app)\ncache.init_app(app)\nCORS(app, resources={r\"/*\": {\"origins\": \"*\"}}, supports_credentials=True)\nswagger = Swagger(app)\napp.register_blueprint(menu_bp)\napp.register_blueprint(login_bp)\napp.register_blueprint(register_bp)",
-        "detail": "backend.app",
-        "documentation": {}
-    },
-    {
-        "label": "migrate",
-        "kind": 5,
-        "importPath": "backend.app",
-        "description": "backend.app",
-        "peekOfCode": "migrate = Migrate(app, db)\njwt = JWTManager(app)\ncache.init_app(app)\nCORS(app, resources={r\"/*\": {\"origins\": \"*\"}}, supports_credentials=True)\nswagger = Swagger(app)\napp.register_blueprint(menu_bp)\napp.register_blueprint(login_bp)\napp.register_blueprint(register_bp)\napp.register_blueprint(get_cart_bp)\napp.register_blueprint(add_to_cart_bp)",
-        "detail": "backend.app",
-        "documentation": {}
-    },
-    {
-        "label": "jwt",
-        "kind": 5,
-        "importPath": "backend.app",
-        "description": "backend.app",
-        "peekOfCode": "jwt = JWTManager(app)\ncache.init_app(app)\nCORS(app, resources={r\"/*\": {\"origins\": \"*\"}}, supports_credentials=True)\nswagger = Swagger(app)\napp.register_blueprint(menu_bp)\napp.register_blueprint(login_bp)\napp.register_blueprint(register_bp)\napp.register_blueprint(get_cart_bp)\napp.register_blueprint(add_to_cart_bp)\napp.register_blueprint(catalog_bp)",
-        "detail": "backend.app",
-        "documentation": {}
-    },
-    {
-        "label": "swagger",
-        "kind": 5,
-        "importPath": "backend.app",
-        "description": "backend.app",
-        "peekOfCode": "swagger = Swagger(app)\napp.register_blueprint(menu_bp)\napp.register_blueprint(login_bp)\napp.register_blueprint(register_bp)\napp.register_blueprint(get_cart_bp)\napp.register_blueprint(add_to_cart_bp)\napp.register_blueprint(catalog_bp)\napp.register_blueprint(remove_from_cart_bp)\napp.register_blueprint(refresh_token_bp)\napp.register_blueprint(images_bp)",
-        "detail": "backend.app",
-        "documentation": {}
-    },
-    {
-        "label": "db",
-        "kind": 5,
-        "importPath": "backend.extensions",
-        "description": "backend.extensions",
-        "peekOfCode": "db = SQLAlchemy()\ncache = Cache()\nlogger = setup_logging()",
-        "detail": "backend.extensions",
-        "documentation": {}
-    },
-    {
-        "label": "cache",
-        "kind": 5,
-        "importPath": "backend.extensions",
-        "description": "backend.extensions",
-        "peekOfCode": "cache = Cache()\nlogger = setup_logging()",
-        "detail": "backend.extensions",
-        "documentation": {}
-    },
-    {
-        "label": "logger",
-        "kind": 5,
-        "importPath": "backend.extensions",
-        "description": "backend.extensions",
-        "peekOfCode": "logger = setup_logging()",
-        "detail": "backend.extensions",
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "app = FastAPI(title=\"Search App API\")\n#\n# redis_client = redis.Redis(\n#     host=settings.CACHE_REDIS_HOST,\n#     port=settings.CACHE_REDIS_PORT,\n#     db=settings.CACHE_REDIS_DB,\n#     decode_responses=settings.CACHE_REDIS_DECODE_RESPONSES\n# )\napp.add_middleware(\n    CORSMiddleware,",
+        "detail": "backend.app.main",
         "documentation": {}
     },
     {
