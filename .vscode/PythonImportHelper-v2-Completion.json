@@ -1,40 +1,5 @@
 [
     {
-        "label": "annotations",
-        "importPath": "__future__",
-        "description": "__future__",
-        "isExtraImport": true,
-        "detail": "__future__",
-        "documentation": {}
-    },
-    {
-        "label": "os",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "os",
-        "description": "os",
-        "detail": "os",
-        "documentation": {}
-    },
-    {
-        "label": "site",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "site",
-        "description": "site",
-        "detail": "site",
-        "documentation": {}
-    },
-    {
-        "label": "sys",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "sys",
-        "description": "sys",
-        "detail": "sys",
-        "documentation": {}
-    },
-    {
         "label": "Sequence",
         "importPath": "typing",
         "description": "typing",
@@ -60,46 +25,6 @@
     },
     {
         "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Sequence",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Sequence",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -208,30 +133,6 @@
         "description": "typing",
         "isExtraImport": true,
         "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "op",
-        "importPath": "alembic",
-        "description": "alembic",
-        "isExtraImport": true,
-        "detail": "alembic",
-        "documentation": {}
-    },
-    {
-        "label": "op",
-        "importPath": "alembic",
-        "description": "alembic",
-        "isExtraImport": true,
-        "detail": "alembic",
         "documentation": {}
     },
     {
@@ -612,14 +513,6 @@
         "documentation": {}
     },
     {
-        "label": "engine",
-        "importPath": "app.core.database",
-        "description": "app.core.database",
-        "isExtraImport": true,
-        "detail": "app.core.database",
-        "documentation": {}
-    },
-    {
         "label": "SessionLocal",
         "importPath": "app.core.database",
         "description": "app.core.database",
@@ -732,19 +625,11 @@
         "documentation": {}
     },
     {
-        "label": "CartItem",
-        "importPath": "app.models.cart_item",
-        "description": "app.models.cart_item",
+        "label": "ProductGrindingWheels",
+        "importPath": "app.models.product_grinding_wheels",
+        "description": "app.models.product_grinding_wheels",
         "isExtraImport": true,
-        "detail": "app.models.cart_item",
-        "documentation": {}
-    },
-    {
-        "label": "CartItem",
-        "importPath": "app.models.cart_item",
-        "description": "app.models.cart_item",
-        "isExtraImport": true,
-        "detail": "app.models.cart_item",
+        "detail": "app.models.product_grinding_wheels",
         "documentation": {}
     },
     {
@@ -772,11 +657,35 @@
         "documentation": {}
     },
     {
+        "label": "Bond",
+        "importPath": "app.models.bond",
+        "description": "app.models.bond",
+        "isExtraImport": true,
+        "detail": "app.models.bond",
+        "documentation": {}
+    },
+    {
         "label": "EquipmentCode",
         "importPath": "app.models.equipment_code",
         "description": "app.models.equipment_code",
         "isExtraImport": true,
         "detail": "app.models.equipment_code",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentCode",
+        "importPath": "app.models.equipment_code",
+        "description": "app.models.equipment_code",
+        "isExtraImport": true,
+        "detail": "app.models.equipment_code",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentModel",
+        "importPath": "app.models.equipment_model",
+        "description": "app.models.equipment_model",
+        "isExtraImport": true,
+        "detail": "app.models.equipment_model",
         "documentation": {}
     },
     {
@@ -860,46 +769,6 @@
         "documentation": {}
     },
     {
-        "label": "User",
-        "importPath": "app.models.user",
-        "description": "app.models.user",
-        "isExtraImport": true,
-        "detail": "app.models.user",
-        "documentation": {}
-    },
-    {
-        "label": "User",
-        "importPath": "app.models.user",
-        "description": "app.models.user",
-        "isExtraImport": true,
-        "detail": "app.models.user",
-        "documentation": {}
-    },
-    {
-        "label": "User",
-        "importPath": "app.models.user",
-        "description": "app.models.user",
-        "isExtraImport": true,
-        "detail": "app.models.user",
-        "documentation": {}
-    },
-    {
-        "label": "User",
-        "importPath": "app.models.user",
-        "description": "app.models.user",
-        "isExtraImport": true,
-        "detail": "app.models.user",
-        "documentation": {}
-    },
-    {
-        "label": "User",
-        "importPath": "app.models.user",
-        "description": "app.models.user",
-        "isExtraImport": true,
-        "detail": "app.models.user",
-        "documentation": {}
-    },
-    {
         "label": "RefreshToken",
         "importPath": "app.models.refresh_token",
         "description": "app.models.refresh_token",
@@ -921,46 +790,6 @@
         "description": "app.models.refresh_token",
         "isExtraImport": true,
         "detail": "app.models.refresh_token",
-        "documentation": {}
-    },
-    {
-        "label": "RefreshToken",
-        "importPath": "app.models.refresh_token",
-        "description": "app.models.refresh_token",
-        "isExtraImport": true,
-        "detail": "app.models.refresh_token",
-        "documentation": {}
-    },
-    {
-        "label": "Post",
-        "importPath": "app.models.post",
-        "description": "app.models.post",
-        "isExtraImport": true,
-        "detail": "app.models.post",
-        "documentation": {}
-    },
-    {
-        "label": "Post",
-        "importPath": "app.models.post",
-        "description": "app.models.post",
-        "isExtraImport": true,
-        "detail": "app.models.post",
-        "documentation": {}
-    },
-    {
-        "label": "Post",
-        "importPath": "app.models.post",
-        "description": "app.models.post",
-        "isExtraImport": true,
-        "detail": "app.models.post",
-        "documentation": {}
-    },
-    {
-        "label": "Post",
-        "importPath": "app.models.post",
-        "description": "app.models.post",
-        "isExtraImport": true,
-        "detail": "app.models.post",
         "documentation": {}
     },
     {
@@ -981,62 +810,6 @@
     },
     {
         "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
@@ -1052,38 +825,6 @@
         "documentation": {}
     },
     {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Body",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
         "label": "Depends",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -1172,23 +913,7 @@
         "documentation": {}
     },
     {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
+        "label": "logger",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
@@ -1212,15 +937,7 @@
         "documentation": {}
     },
     {
-        "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
+        "label": "File",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
@@ -1229,150 +946,6 @@
     },
     {
         "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "HTTPException",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "APIRouter",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
@@ -1388,7 +961,23 @@
         "documentation": {}
     },
     {
-        "label": "File",
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
@@ -1436,6 +1025,14 @@
         "documentation": {}
     },
     {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
         "label": "FastAPI",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -1444,183 +1041,23 @@
         "documentation": {}
     },
     {
-        "label": "get_current_user",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
         "isExtraImport": true,
-        "detail": "app.core.security",
+        "detail": "fastapi",
         "documentation": {}
     },
     {
-        "label": "create_access_token",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
+        "label": "IntegrityError",
+        "importPath": "psycopg2",
+        "description": "psycopg2",
         "isExtraImport": true,
-        "detail": "app.core.security",
+        "detail": "psycopg2",
         "documentation": {}
     },
     {
-        "label": "create_refresh_token",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "verify_password",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "decode_token",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "oauth2_scheme",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "create_access_token",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "decode_token",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "create_refresh_token",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "create_access_token",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "create_refresh_token",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "hash_password",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user_optional",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user_optional",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "admin_required",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "get_current_user",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "admin_required",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "UserResponse",
-        "importPath": "app.schemas.user_schema",
-        "description": "app.schemas.user_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.user_schema",
-        "documentation": {}
-    },
-    {
-        "label": "UserData",
+        "label": "LoginRequest",
         "importPath": "app.schemas.user_schema",
         "description": "app.schemas.user_schema",
         "isExtraImport": true,
@@ -1636,15 +1073,7 @@
         "documentation": {}
     },
     {
-        "label": "LoginRequest",
-        "importPath": "app.schemas.user_schema",
-        "description": "app.schemas.user_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.user_schema",
-        "documentation": {}
-    },
-    {
-        "label": "UserData",
+        "label": "LogoutRequest",
         "importPath": "app.schemas.user_schema",
         "description": "app.schemas.user_schema",
         "isExtraImport": true,
@@ -1660,7 +1089,7 @@
         "documentation": {}
     },
     {
-        "label": "LogoutRequest",
+        "label": "RefreshTokenRequest",
         "importPath": "app.schemas.user_schema",
         "description": "app.schemas.user_schema",
         "isExtraImport": true,
@@ -1676,7 +1105,7 @@
         "documentation": {}
     },
     {
-        "label": "RefreshTokenRequest",
+        "label": "RegisterRequest",
         "importPath": "app.schemas.user_schema",
         "description": "app.schemas.user_schema",
         "isExtraImport": true,
@@ -1692,14 +1121,6 @@
         "documentation": {}
     },
     {
-        "label": "RegisterRequest",
-        "importPath": "app.schemas.user_schema",
-        "description": "app.schemas.user_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.user_schema",
-        "documentation": {}
-    },
-    {
         "label": "UserData",
         "importPath": "app.schemas.user_schema",
         "description": "app.schemas.user_schema",
@@ -1724,43 +1145,195 @@
         "documentation": {}
     },
     {
-        "label": "Session",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
+        "label": "UpdateUserRequest",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
         "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
+        "detail": "app.schemas.user_schema",
         "documentation": {}
     },
     {
-        "label": "Session",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
+        "label": "UserData",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
         "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
+        "detail": "app.schemas.user_schema",
         "documentation": {}
     },
     {
-        "label": "Session",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
+        "label": "UserResponse",
+        "importPath": "app.schemas.user_schema",
+        "description": "app.schemas.user_schema",
         "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
+        "detail": "app.schemas.user_schema",
         "documentation": {}
     },
     {
-        "label": "Session",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
+        "label": "create_access_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
+        "detail": "app.core.security",
         "documentation": {}
     },
     {
-        "label": "Session",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
+        "label": "create_refresh_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
         "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "admin_required",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user_optional",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "admin_required",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
         "documentation": {}
     },
     {
@@ -1797,38 +1370,6 @@
     },
     {
         "label": "joinedload",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
-        "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
-        "documentation": {}
-    },
-    {
-        "label": "Session",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
-        "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
-        "documentation": {}
-    },
-    {
-        "label": "Session",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
-        "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
-        "documentation": {}
-    },
-    {
-        "label": "Session",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
-        "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
-        "documentation": {}
-    },
-    {
-        "label": "Session",
         "importPath": "sqlalchemy.orm",
         "description": "sqlalchemy.orm",
         "isExtraImport": true,
@@ -1940,357 +1481,11 @@
         "documentation": {}
     },
     {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
         "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "get_db",
-        "importPath": "app.api.dependencies",
-        "description": "app.api.dependencies",
-        "isExtraImport": true,
-        "detail": "app.api.dependencies",
-        "documentation": {}
-    },
-    {
-        "label": "Depends",
-        "importPath": "fastapi.params",
-        "description": "fastapi.params",
-        "isExtraImport": true,
-        "detail": "fastapi.params",
-        "documentation": {}
-    },
-    {
-        "label": "IntegrityError",
-        "importPath": "sqlalchemy.exc",
-        "description": "sqlalchemy.exc",
-        "isExtraImport": true,
-        "detail": "sqlalchemy.exc",
-        "documentation": {}
-    },
-    {
-        "label": "CartResponse",
-        "importPath": "app.schemas.cart_schema",
-        "description": "app.schemas.cart_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.cart_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CartRequest",
-        "importPath": "app.schemas.cart_schema",
-        "description": "app.schemas.cart_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.cart_schema",
-        "documentation": {}
-    },
-    {
-        "label": "GetCartResponse",
-        "importPath": "app.schemas.cart_schema",
-        "description": "app.schemas.cart_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.cart_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CartListResponse",
-        "importPath": "app.schemas.cart_schema",
-        "description": "app.schemas.cart_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.cart_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CartRequest",
-        "importPath": "app.schemas.cart_schema",
-        "description": "app.schemas.cart_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.cart_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CartResponse",
-        "importPath": "app.schemas.cart_schema",
-        "description": "app.schemas.cart_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.cart_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CatalogItemSchema",
-        "importPath": "app.schemas.catalog_schema",
-        "description": "app.schemas.catalog_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.catalog_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CatalogQuerySchema",
-        "importPath": "app.schemas.catalog_schema",
-        "description": "app.schemas.catalog_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.catalog_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CatalogResponseSchema",
-        "importPath": "app.schemas.catalog_schema",
-        "description": "app.schemas.catalog_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.catalog_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CatalogItemSchema",
-        "importPath": "app.schemas.catalog_schema",
-        "description": "app.schemas.catalog_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.catalog_schema",
-        "documentation": {}
-    },
-    {
-        "label": "EquipmentModelSchema",
-        "importPath": "app.schemas.catalog_schema",
-        "description": "app.schemas.catalog_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.catalog_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CatalogItemDetailedSchema",
-        "importPath": "app.schemas.catalog_schema",
-        "description": "app.schemas.catalog_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.catalog_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CatalogItemSchema",
-        "importPath": "app.schemas.catalog_schema",
-        "description": "app.schemas.catalog_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.catalog_schema",
-        "documentation": {}
-    },
-    {
-        "label": "CatalogItemSchema",
-        "importPath": "app.schemas.catalog_schema",
-        "description": "app.schemas.catalog_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.catalog_schema",
-        "documentation": {}
-    },
-    {
-        "label": "math",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "math",
-        "description": "math",
-        "detail": "math",
-        "documentation": {}
-    },
-    {
-        "label": "ProductGrindingWheels",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "Bond",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "ShapeImg",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "EquipmentCode",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "EquipmentModel",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "CartItem",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "ProductGrindingWheels",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "EquipmentCode",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "EquipmentModel",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "Bond",
-        "importPath": "app.models",
-        "description": "app.models",
-        "isExtraImport": true,
-        "detail": "app.models",
-        "documentation": {}
-    },
-    {
-        "label": "json",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "json",
-        "description": "json",
-        "detail": "json",
-        "documentation": {}
-    },
-    {
-        "label": "FileResponse",
-        "importPath": "starlette.responses",
-        "description": "starlette.responses",
-        "isExtraImport": true,
-        "detail": "starlette.responses",
+        "detail": "sqlalchemy.orm",
         "documentation": {}
     },
     {
@@ -2335,14 +1530,6 @@
         "documentation": {}
     },
     {
-        "label": "PostResponse",
-        "importPath": "app.schemas.post_schema",
-        "description": "app.schemas.post_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.post_schema",
-        "documentation": {}
-    },
-    {
         "label": "DeletePostResponse",
         "importPath": "app.schemas.post_schema",
         "description": "app.schemas.post_schema",
@@ -2367,27 +1554,149 @@
         "documentation": {}
     },
     {
-        "label": "PostResponse",
-        "importPath": "app.schemas.post_schema",
-        "description": "app.schemas.post_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.post_schema",
-        "documentation": {}
-    },
-    {
-        "label": "PostResponse",
-        "importPath": "app.schemas.post_schema",
-        "description": "app.schemas.post_schema",
-        "isExtraImport": true,
-        "detail": "app.schemas.post_schema",
-        "documentation": {}
-    },
-    {
         "label": "ImageUploadResponse",
         "importPath": "app.schemas.post_schema",
         "description": "app.schemas.post_schema",
         "isExtraImport": true,
         "detail": "app.schemas.post_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartListResponse",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartRequest",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CartResponse",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "GetCartResponse",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateCartItemRequest",
+        "importPath": "app.schemas.cart_schema",
+        "description": "app.schemas.cart_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.cart_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogItemSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogItemDetailedSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogItemSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogQuerySchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogResponseSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentModelSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogItemSchema",
+        "importPath": "app.schemas.catalog_schema",
+        "description": "app.schemas.catalog_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.catalog_schema",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cache_get",
+        "importPath": "app.utils.cache",
+        "description": "app.utils.cache",
+        "isExtraImport": true,
+        "detail": "app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "cache_set",
+        "importPath": "app.utils.cache",
+        "description": "app.utils.cache",
+        "isExtraImport": true,
+        "detail": "app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "redis_client",
+        "importPath": "app.utils.cache",
+        "description": "app.utils.cache",
+        "isExtraImport": true,
+        "detail": "app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
         "documentation": {}
     },
     {
@@ -2397,6 +1706,23 @@
         "importPath": "uuid",
         "description": "uuid",
         "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
         "documentation": {}
     },
     {
@@ -2433,6 +1759,39 @@
         "documentation": {}
     },
     {
+        "label": "settings",
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "isExtraImport": true,
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "isExtraImport": true,
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.settings",
+        "description": "app.core.settings",
+        "isExtraImport": true,
+        "detail": "app.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
         "label": "Path",
         "importPath": "pathlib",
         "description": "pathlib",
@@ -2465,14 +1824,6 @@
         "documentation": {}
     },
     {
-        "label": "settings",
-        "importPath": "app.core.settings",
-        "description": "app.core.settings",
-        "isExtraImport": true,
-        "detail": "app.core.settings",
-        "documentation": {}
-    },
-    {
         "label": "BaseSettings",
         "importPath": "pydantic.v1",
         "description": "pydantic.v1",
@@ -2489,15 +1840,7 @@
         "documentation": {}
     },
     {
-        "label": "constr",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "conint",
+        "label": "Field",
         "importPath": "pydantic",
         "description": "pydantic",
         "isExtraImport": true,
@@ -2550,6 +1893,39 @@
         "description": "pydantic",
         "isExtraImport": true,
         "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "field_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
         "documentation": {}
     },
     {
@@ -2587,300 +1963,183 @@
         "documentation": {}
     },
     {
-        "label": "get_user_router",
-        "importPath": "app.api.routes.auth.get_user",
-        "description": "app.api.routes.auth.get_user",
+        "label": "Limiter",
+        "importPath": "slowapi",
+        "description": "slowapi",
         "isExtraImport": true,
-        "detail": "app.api.routes.auth.get_user",
+        "detail": "slowapi",
         "documentation": {}
     },
     {
-        "label": "login_router",
-        "importPath": "app.api.routes.auth.login",
-        "description": "app.api.routes.auth.login",
+        "label": "get_remote_address",
+        "importPath": "slowapi.util",
+        "description": "slowapi.util",
         "isExtraImport": true,
-        "detail": "app.api.routes.auth.login",
+        "detail": "slowapi.util",
         "documentation": {}
     },
     {
-        "label": "logout_router",
-        "importPath": "app.api.routes.auth.logout",
-        "description": "app.api.routes.auth.logout",
+        "label": "auth",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
         "isExtraImport": true,
-        "detail": "app.api.routes.auth.logout",
+        "detail": "app.api.routes",
         "documentation": {}
     },
     {
-        "label": "refresh_token_router",
-        "importPath": "app.api.routes.auth.refresh_token",
-        "description": "app.api.routes.auth.refresh_token",
+        "label": "users",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
         "isExtraImport": true,
-        "detail": "app.api.routes.auth.refresh_token",
+        "detail": "app.api.routes",
         "documentation": {}
     },
     {
-        "label": "register_router",
-        "importPath": "app.api.routes.auth.register",
-        "description": "app.api.routes.auth.register",
+        "label": "catalog",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
         "isExtraImport": true,
-        "detail": "app.api.routes.auth.register",
+        "detail": "app.api.routes",
         "documentation": {}
     },
     {
-        "label": "add_router",
-        "importPath": "app.api.routes.cart.add_to_cart",
-        "description": "app.api.routes.cart.add_to_cart",
+        "label": "cart",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
         "isExtraImport": true,
-        "detail": "app.api.routes.cart.add_to_cart",
+        "detail": "app.api.routes",
         "documentation": {}
     },
     {
-        "label": "get_cart_router",
-        "importPath": "app.api.routes.cart.get_cart",
-        "description": "app.api.routes.cart.get_cart",
+        "label": "blog",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
         "isExtraImport": true,
-        "detail": "app.api.routes.cart.get_cart",
+        "detail": "app.api.routes",
         "documentation": {}
     },
     {
-        "label": "remove_router",
-        "importPath": "app.api.routes.cart.remove_from_cart",
-        "description": "app.api.routes.cart.remove_from_cart",
+        "label": "media",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
         "isExtraImport": true,
-        "detail": "app.api.routes.cart.remove_from_cart",
+        "detail": "app.api.routes",
         "documentation": {}
     },
     {
-        "label": "catalog_router",
-        "importPath": "app.api.routes.catalog.catalog",
-        "description": "app.api.routes.catalog.catalog",
+        "label": "menu",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
         "isExtraImport": true,
-        "detail": "app.api.routes.catalog.catalog",
+        "detail": "app.api.routes",
         "documentation": {}
     },
     {
-        "label": "get_catalog_item_router",
-        "importPath": "app.api.routes.catalog.catalog_item",
-        "description": "app.api.routes.catalog.catalog_item",
+        "label": "argparse",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "app.api.routes.catalog.catalog_item",
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
         "documentation": {}
     },
     {
-        "label": "menu_router",
-        "importPath": "app.api.routes.other.menu",
-        "description": "app.api.routes.other.menu",
+        "label": "glob",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "app.api.routes.other.menu",
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
         "documentation": {}
     },
     {
-        "label": "static_router",
-        "importPath": "app.api.routes.other.static",
-        "description": "app.api.routes.other.static",
+        "label": "shutil",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "app.api.routes.other.static",
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
         "documentation": {}
     },
     {
-        "label": "create_post_router",
-        "importPath": "app.api.routes.posts.create_post",
-        "description": "app.api.routes.posts.create_post",
+        "label": "sysconfig",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "app.api.routes.posts.create_post",
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
         "documentation": {}
     },
     {
-        "label": "delete_post_router",
-        "importPath": "app.api.routes.posts.delete_post",
-        "description": "app.api.routes.posts.delete_post",
+        "label": "tempfile",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "app.api.routes.posts.delete_post",
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
         "documentation": {}
     },
     {
-        "label": "edit_post_router",
-        "importPath": "app.api.routes.posts.edit_post",
-        "description": "app.api.routes.posts.edit_post",
+        "label": "winreg",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "app.api.routes.posts.edit_post",
+        "importPath": "winreg",
+        "description": "winreg",
+        "detail": "winreg",
         "documentation": {}
     },
     {
-        "label": "get_all_posts_router",
-        "importPath": "app.api.routes.posts.get_all_posts",
-        "description": "app.api.routes.posts.get_all_posts",
+        "label": "site",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "app.api.routes.posts.get_all_posts",
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
         "documentation": {}
     },
     {
-        "label": "get_post_router",
-        "importPath": "app.api.routes.posts.get_post",
-        "description": "app.api.routes.posts.get_post",
+        "label": "subprocess",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "app.api.routes.posts.get_post",
-        "documentation": {}
-    },
-    {
-        "label": "upload_image_router",
-        "importPath": "app.api.routes.posts.upload_image",
-        "description": "app.api.routes.posts.upload_image",
-        "isExtraImport": true,
-        "detail": "app.api.routes.posts.upload_image",
-        "documentation": {}
-    },
-    {
-        "label": "bin_dir",
-        "kind": 5,
-        "importPath": "backend..venv.Scripts.activate_this",
-        "description": "backend..venv.Scripts.activate_this",
-        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
-        "detail": "backend..venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "base",
-        "kind": 5,
-        "importPath": "backend..venv.Scripts.activate_this",
-        "description": "backend..venv.Scripts.activate_this",
-        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
-        "detail": "backend..venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "os.environ[\"PATH\"]",
-        "kind": 5,
-        "importPath": "backend..venv.Scripts.activate_this",
-        "description": "backend..venv.Scripts.activate_this",
-        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
-        "detail": "backend..venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "os.environ[\"VIRTUAL_ENV\"]",
-        "kind": 5,
-        "importPath": "backend..venv.Scripts.activate_this",
-        "description": "backend..venv.Scripts.activate_this",
-        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "backend..venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
-        "kind": 5,
-        "importPath": "backend..venv.Scripts.activate_this",
-        "description": "backend..venv.Scripts.activate_this",
-        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "backend..venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "prev_length",
-        "kind": 5,
-        "importPath": "backend..venv.Scripts.activate_this",
-        "description": "backend..venv.Scripts.activate_this",
-        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "backend..venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "sys.path[:]",
-        "kind": 5,
-        "importPath": "backend..venv.Scripts.activate_this",
-        "description": "backend..venv.Scripts.activate_this",
-        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "backend..venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "sys.real_prefix",
-        "kind": 5,
-        "importPath": "backend..venv.Scripts.activate_this",
-        "description": "backend..venv.Scripts.activate_this",
-        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "backend..venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "sys.prefix",
-        "kind": 5,
-        "importPath": "backend..venv.Scripts.activate_this",
-        "description": "backend..venv.Scripts.activate_this",
-        "peekOfCode": "sys.prefix = base",
-        "detail": "backend..venv.Scripts.activate_this",
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
         "documentation": {}
     },
     {
         "label": "upgrade",
         "kind": 2,
-        "importPath": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
-        "description": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
-        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
-        "detail": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
+        "importPath": "backend.alembic.versions.016779cf4e97_initial",
+        "description": "backend.alembic.versions.016779cf4e97_initial",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('bond',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name_bond', sa.String(), nullable=False),\n    sa.Column('bond_description', sa.String(), nullable=False),\n    sa.Column('bond_cooling', sa.String(), nullable=False),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "backend.alembic.versions.016779cf4e97_initial",
         "documentation": {}
     },
     {
         "label": "downgrade",
         "kind": 2,
-        "importPath": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
-        "description": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
-        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
-        "detail": "backend.alembic.versions.0c3c51c50285_fix_equipment_code_primary_key",
-        "documentation": {}
-    },
-    {
-        "label": "upgrade",
-        "kind": 2,
-        "importPath": "backend.alembic.versions.2c5e56e88ca6_initial",
-        "description": "backend.alembic.versions.2c5e56e88ca6_initial",
-        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('bond',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name_bond', sa.String(), nullable=False),\n    sa.Column('bond_description', sa.String(), nullable=False),\n    sa.Column('bond_cooling', sa.Integer(), nullable=False),\n    sa.PrimaryKeyConstraint('id')\n    )",
-        "detail": "backend.alembic.versions.2c5e56e88ca6_initial",
-        "documentation": {}
-    },
-    {
-        "label": "downgrade",
-        "kind": 2,
-        "importPath": "backend.alembic.versions.2c5e56e88ca6_initial",
-        "description": "backend.alembic.versions.2c5e56e88ca6_initial",
+        "importPath": "backend.alembic.versions.016779cf4e97_initial",
+        "description": "backend.alembic.versions.016779cf4e97_initial",
         "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_equipment_code_code'), table_name='equipment_code')\n    op.drop_table('equipment_code')\n    op.drop_table('cart')\n    op.drop_index(op.f('ix_refresh_tokens_refresh_token'), table_name='refresh_tokens')\n    op.drop_table('refresh_tokens')\n    op.drop_index(op.f('ix_product_grinding_wheels_code'), table_name='product_grinding_wheels')\n    op.drop_table('product_grinding_wheels')",
-        "detail": "backend.alembic.versions.2c5e56e88ca6_initial",
+        "detail": "backend.alembic.versions.016779cf4e97_initial",
         "documentation": {}
     },
     {
         "label": "upgrade",
         "kind": 2,
-        "importPath": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
-        "description": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
-        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('bond',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name_bond', sa.String(), nullable=False),\n    sa.Column('bond_description', sa.String(), nullable=False),\n    sa.Column('bond_cooling', sa.String(), nullable=False),\n    sa.PrimaryKeyConstraint('id')\n    )",
-        "detail": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
+        "importPath": "backend.alembic.versions.6dc2aaaf4ef3_users",
+        "description": "backend.alembic.versions.6dc2aaaf4ef3_users",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('role', sa.String(), nullable=True),\n    sa.Column('full_name', sa.String(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('phone', sa.String(), nullable=False),\n    sa.Column('password_hash', sa.String(), nullable=False),",
+        "detail": "backend.alembic.versions.6dc2aaaf4ef3_users",
         "documentation": {}
     },
     {
         "label": "downgrade",
         "kind": 2,
-        "importPath": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
-        "description": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
-        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_equipment_code_code'), table_name='equipment_code')\n    op.drop_table('equipment_code')\n    op.drop_table('cart')\n    op.drop_index(op.f('ix_product_grinding_wheels_code'), table_name='product_grinding_wheels')\n    op.drop_table('product_grinding_wheels')\n    op.drop_index(op.f('ix_equipment_model_name_equipment'), table_name='equipment_model')\n    op.drop_table('equipment_model')",
-        "detail": "backend.alembic.versions.9d8d1eeafdd8_recreate_tables",
-        "documentation": {}
-    },
-    {
-        "label": "upgrade",
-        "kind": 2,
-        "importPath": "backend.alembic.versions.c18aee661060_fix_bond",
-        "description": "backend.alembic.versions.c18aee661060_fix_bond",
-        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('bond',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name_bond', sa.String(), nullable=False),\n    sa.Column('bond_description', sa.String(), nullable=False),\n    sa.Column('bond_cooling', sa.String(), nullable=False),\n    sa.PrimaryKeyConstraint('id')\n    )",
-        "detail": "backend.alembic.versions.c18aee661060_fix_bond",
-        "documentation": {}
-    },
-    {
-        "label": "downgrade",
-        "kind": 2,
-        "importPath": "backend.alembic.versions.c18aee661060_fix_bond",
-        "description": "backend.alembic.versions.c18aee661060_fix_bond",
-        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_equipment_code_code'), table_name='equipment_code')\n    op.drop_table('equipment_code')\n    op.drop_table('cart')\n    op.drop_index(op.f('ix_product_grinding_wheels_code'), table_name='product_grinding_wheels')\n    op.drop_table('product_grinding_wheels')\n    op.drop_index(op.f('ix_equipment_model_name_equipment'), table_name='equipment_model')\n    op.drop_table('equipment_model')",
-        "detail": "backend.alembic.versions.c18aee661060_fix_bond",
+        "importPath": "backend.alembic.versions.6dc2aaaf4ef3_users",
+        "description": "backend.alembic.versions.6dc2aaaf4ef3_users",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_unique_constraint('shape_unique', 'shape_img', ['shape'])\n    op.create_unique_constraint('produser_name_name_produser_key', 'producer_name', ['name_producer'])\n    op.drop_constraint(None, 'posts', type_='foreignkey')\n    op.create_unique_constraint('equipment_model_name_equipment_key', 'equipment_model', ['name_equipment'])\n    op.drop_constraint(None, 'cart', type_='foreignkey')\n    op.create_unique_constraint('bond_unique', 'bond', ['name_bond'])\n    op.drop_index(op.f('ix_refresh_tokens_refresh_token'), table_name='refresh_tokens')",
+        "detail": "backend.alembic.versions.6dc2aaaf4ef3_users",
         "documentation": {}
     },
     {
@@ -2906,7 +2165,7 @@
         "kind": 5,
         "importPath": "backend.alembic.env",
         "description": "backend.alembic.env",
-        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\nfrom app.models.cart_item import CartItem\nfrom app.models.product_grinding_wheels import ProductGrindingWheels\nfrom app.models.bond import Bond\nfrom app.models.equipment_code import EquipmentCode\nfrom app.models.equipment_model import EquipmentModel",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\nfrom app.core.database import Base\nfrom app.models.cart_item import CartItem\nfrom app.models.product_grinding_wheels import ProductGrindingWheels\nfrom app.models.bond import Bond\nfrom app.models.equipment_code import EquipmentCode",
         "detail": "backend.alembic.env",
         "documentation": {}
     },
@@ -2915,170 +2174,71 @@
         "kind": 5,
         "importPath": "backend.alembic.env",
         "description": "backend.alembic.env",
-        "peekOfCode": "target_metadata = Base.metadata\nBase.metadata.drop_all(engine)\nBase.metadata.create_all(engine)\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL",
+        "peekOfCode": "target_metadata = Base.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
         "detail": "backend.alembic.env",
         "documentation": {}
     },
     {
-        "label": "get_user_router",
+        "label": "router",
         "kind": 5,
-        "importPath": "backend.app.api.routes.auth.get_user",
-        "description": "backend.app.api.routes.auth.get_user",
-        "peekOfCode": "get_user_router = APIRouter()\n@get_user_router.get(\"/api/user\", response_model=UserResponse)\nasync def get_current_user(\n        user: User = Depends(get_current_user),\n):\n    return UserResponse(user=UserData.model_validate(user))",
-        "detail": "backend.app.api.routes.auth.get_user",
+        "importPath": "backend.app.api.routes.auth",
+        "description": "backend.app.api.routes.auth",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/auth\",\n    tags=[\"Authorization\"]\n)\n@router.post(\"/login\", response_model=LoginResponse)\nasync def login(\n        user_data: LoginRequest,\n        db: Session = Depends(get_db)\n):\n    user = db.query(User).filter(User.email == user_data.email).first()",
+        "detail": "backend.app.api.routes.auth",
         "documentation": {}
     },
     {
-        "label": "login_router",
+        "label": "router",
         "kind": 5,
-        "importPath": "backend.app.api.routes.auth.login",
-        "description": "backend.app.api.routes.auth.login",
-        "peekOfCode": "login_router = APIRouter()\n@login_router.post(\"/api/login\", response_model=LoginResponse)\nasync def login(\n        user_data: LoginRequest,\n        db: Session = Depends(get_db)\n):\n    user = db.query(User).filter(User.email == user_data.email).first()\n    if not user:\n        raise HTTPException(status_code=404, detail=\"User not found\")\n    if not verify_password(user_data.password, user.password_hash):",
-        "detail": "backend.app.api.routes.auth.login",
+        "importPath": "backend.app.api.routes.blog",
+        "description": "backend.app.api.routes.blog",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/blog\",\n    tags=[\"Blog\"]\n)\n@router.post(\"\", response_model=PostResponse)\nasync def create_post(\n        data: CreatePostRequest,\n        db: Session = Depends(get_db),\n        user: UserData = Depends(admin_required)\n):",
+        "detail": "backend.app.api.routes.blog",
         "documentation": {}
     },
     {
-        "label": "logout_router",
+        "label": "router",
         "kind": 5,
-        "importPath": "backend.app.api.routes.auth.logout",
-        "description": "backend.app.api.routes.auth.logout",
-        "peekOfCode": "logout_router = APIRouter()\n@logout_router.post(\"/api/logout\", response_model=LogoutResponse)\nasync def logout(\n    logout_data: LogoutRequest = Body(...),\n    access_token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db)\n):\n    payload = decode_token(access_token)\n    user_id = payload.get(\"sub\")\n    if not user_id:",
-        "detail": "backend.app.api.routes.auth.logout",
+        "importPath": "backend.app.api.routes.cart",
+        "description": "backend.app.api.routes.cart",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/cart\",\n    tags=[\"Cart\"]\n)\n@router.get(\"\", response_model=CartListResponse)\nasync def get_cart(\n        db: Session = Depends(get_db),\n        user: User = Depends(get_current_user)\n):\n    try:",
+        "detail": "backend.app.api.routes.cart",
         "documentation": {}
     },
     {
-        "label": "refresh_token_router",
+        "label": "router",
         "kind": 5,
-        "importPath": "backend.app.api.routes.auth.refresh_token",
-        "description": "backend.app.api.routes.auth.refresh_token",
-        "peekOfCode": "refresh_token_router = APIRouter()\n@refresh_token_router.post(\"/api/refresh\", response_model=RefreshTokenResponse)\nasync def refresh_token(\n        refresh_data: RefreshTokenRequest = Body(...),\n        db: Session = Depends(get_db),\n):\n    refresh_token = refresh_data.refreshToken\n    payload = decode_token(refresh_token)\n    user_id = payload.get(\"sub\")\n    token_type = payload.get(\"type\")",
-        "detail": "backend.app.api.routes.auth.refresh_token",
+        "importPath": "backend.app.api.routes.catalog",
+        "description": "backend.app.api.routes.catalog",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/catalog\",\n    tags=[\"Authorization\"]\n)\n@router.get(\"\", response_model=CatalogResponseSchema)\nasync def get_catalog_items(\n        query_params: CatalogQuerySchema = Depends(),\n        db: Session = Depends(get_db),\n        user: Optional[User] = Depends(get_current_user_optional)\n):",
+        "detail": "backend.app.api.routes.catalog",
         "documentation": {}
     },
     {
-        "label": "register_router",
+        "label": "router",
         "kind": 5,
-        "importPath": "backend.app.api.routes.auth.register",
-        "description": "backend.app.api.routes.auth.register",
-        "peekOfCode": "register_router = APIRouter()\n@register_router.post(\"/api/register\", response_model=RegisterResponse)\nasync def register(\n    user: RegisterRequest,\n    db: Session = Depends(get_db)\n):\n    try:\n        if db.query(User).filter(User.email == user.email).first():\n            raise HTTPException(status_code=409, detail=\"Email already registered\")\n        hashed_password = hash_password(user.password)",
-        "detail": "backend.app.api.routes.auth.register",
+        "importPath": "backend.app.api.routes.media",
+        "description": "backend.app.api.routes.media",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/images\",\n    tags=[\"Media\"]\n)\n@router.get(\"/{filename}\")\nasync def serve_image(filename: str):\n    file_path = os.path.join(\"app/static/images\", filename)\n    if os.path.exists(file_path):\n        return FileResponse(file_path, media_type=\"image/png\")\n    raise HTTPException(status_code=404, detail=\"File not found\")",
+        "detail": "backend.app.api.routes.media",
         "documentation": {}
     },
     {
-        "label": "add_router",
+        "label": "router",
         "kind": 5,
-        "importPath": "backend.app.api.routes.cart.add_to_cart",
-        "description": "backend.app.api.routes.cart.add_to_cart",
-        "peekOfCode": "add_router = APIRouter()\n@add_router.post(\"/api/cart\", response_model=CartResponse)\nasync def add_to_cart(\n        item: CartRequest,\n        user: User = Depends(get_current_user),\n        db: Session = Depends(get_db)\n):\n    try:\n        if not item.code:\n            raise HTTPException(status_code=400, detail=\"Article is empty\")",
-        "detail": "backend.app.api.routes.cart.add_to_cart",
+        "importPath": "backend.app.api.routes.menu",
+        "description": "backend.app.api.routes.menu",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/menu\",\n    tags=[\"Menu\"]\n)\n@router.get(\"\", response_model=Dict[str, Any])\nasync def return_menu():\n    try:\n        cache_key = \"menu_data\"\n        cached = redis_client.get(cache_key)\n        if cached:",
+        "detail": "backend.app.api.routes.menu",
         "documentation": {}
     },
     {
-        "label": "get_cart_router",
+        "label": "router",
         "kind": 5,
-        "importPath": "backend.app.api.routes.cart.get_cart",
-        "description": "backend.app.api.routes.cart.get_cart",
-        "peekOfCode": "get_cart_router = APIRouter()\n@get_cart_router.get(\"/api/cart\", response_model=CartListResponse)\nasync def get_cart(\n        db: Session = Depends(get_db),\n        user: User = Depends(get_current_user)\n):\n    try:\n        cart_items = db.query(CartItem).filter_by(user_id=user.id).all()\n        cart = []\n        for item in cart_items:",
-        "detail": "backend.app.api.routes.cart.get_cart",
-        "documentation": {}
-    },
-    {
-        "label": "remove_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.cart.remove_from_cart",
-        "description": "backend.app.api.routes.cart.remove_from_cart",
-        "peekOfCode": "remove_router = APIRouter()\n@remove_router.delete(\"/api/cart\", response_model=CartResponse)\nasync def remove_from_cart(\n        item: CartRequest,\n        user: User = Depends(get_current_user),\n        db: Session = Depends(get_db)\n):\n    try:\n      if not item.code:\n        raise HTTPException(status_code=400, detail=\"Article is empty\")",
-        "detail": "backend.app.api.routes.cart.remove_from_cart",
-        "documentation": {}
-    },
-    {
-        "label": "catalog_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.catalog.catalog",
-        "description": "backend.app.api.routes.catalog.catalog",
-        "peekOfCode": "catalog_router = APIRouter()\n@catalog_router.get(\"/api/catalog\", response_model=CatalogResponseSchema)\nasync def return_products(\n        query_params: CatalogQuerySchema = Depends(),\n        db: Session = Depends(get_db),\n        user: Optional[User] = Depends(get_current_user_optional)\n):\n    try:\n        query = db.query(ProductGrindingWheels) \\\n            .join(Bond, ProductGrindingWheels.name_bond == Bond.name_bond) \\",
-        "detail": "backend.app.api.routes.catalog.catalog",
-        "documentation": {}
-    },
-    {
-        "label": "get_catalog_item_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.catalog.catalog_item",
-        "description": "backend.app.api.routes.catalog.catalog_item",
-        "peekOfCode": "get_catalog_item_router = APIRouter()\n@get_catalog_item_router.get(\"/api/catalog/{code}\", response_model=CatalogItemDetailedSchema)\nasync def get_cart(\n        code: str,\n        db: Session = Depends(get_db),\n        user: Optional[User] = Depends(get_current_user_optional)\n):\n    item = db.query(ProductGrindingWheels).options(\n        joinedload(ProductGrindingWheels.equipment_codes)\n        .joinedload(EquipmentCode.equipment_model)",
-        "detail": "backend.app.api.routes.catalog.catalog_item",
-        "documentation": {}
-    },
-    {
-        "label": "menu_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.other.menu",
-        "description": "backend.app.api.routes.other.menu",
-        "peekOfCode": "menu_router = APIRouter()\n@menu_router.get(\"/api/menu\", response_model=Dict[str, Any])\nasync def return_menu():\n    try:\n        with open('menu.json', 'r') as file:\n            menu_data = json.load(file)\n        return menu_data\n    except Exception as e:\n        raise HTTPException(\n            status_code=400,",
-        "detail": "backend.app.api.routes.other.menu",
-        "documentation": {}
-    },
-    {
-        "label": "static_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.other.static",
-        "description": "backend.app.api.routes.other.static",
-        "peekOfCode": "static_router = APIRouter()\n@static_router.get(\"/images/{filename}\")\nasync def serve_image(filename: str):\n    file_path = os.path.join(\"app/static/images\", filename)\n    if os.path.exists(file_path):\n        return FileResponse(file_path, media_type=\"image/png\")\n    raise HTTPException(status_code=404, detail=\"File not found\")",
-        "detail": "backend.app.api.routes.other.static",
-        "documentation": {}
-    },
-    {
-        "label": "create_post_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.posts.create_post",
-        "description": "backend.app.api.routes.posts.create_post",
-        "peekOfCode": "create_post_router = APIRouter()\n@create_post_router.post(\"/api/blog\", response_model=PostResponse)\nasync def create_post(\n        data: CreatePostRequest,\n        db: Session = Depends(get_db),\n        user: UserData = Depends(admin_required)\n):\n    try:\n        new_post = Post(\n            user_id=user.id,",
-        "detail": "backend.app.api.routes.posts.create_post",
-        "documentation": {}
-    },
-    {
-        "label": "delete_post_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.posts.delete_post",
-        "description": "backend.app.api.routes.posts.delete_post",
-        "peekOfCode": "delete_post_router = APIRouter()\n@delete_post_router.delete(\"/api/blog/{post_id}\", response_model=DeletePostResponse)\nasync def delete_post(\n        post_id: int,\n        db: Session = Depends(get_db),\n        user: User = Depends(get_current_user)\n):\n    post = db.query(Post).filter(Post.id == post_id).first()\n    if not post:\n        raise HTTPException(status_code=404, detail=\"Post not found\")",
-        "detail": "backend.app.api.routes.posts.delete_post",
-        "documentation": {}
-    },
-    {
-        "label": "edit_post_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.posts.edit_post",
-        "description": "backend.app.api.routes.posts.edit_post",
-        "peekOfCode": "edit_post_router = APIRouter()\n@edit_post_router.put(\"/api/blog/{post_id}\")\nasync def update_post(\n        post_id: int,\n        data: EditPostRequest,\n        db: Session = Depends(get_db),\n        user: User = Depends(get_current_user)\n):\n    post = db.query(Post).filter(Post.id == post_id).first()\n    if not post:",
-        "detail": "backend.app.api.routes.posts.edit_post",
-        "documentation": {}
-    },
-    {
-        "label": "get_all_posts_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.posts.get_all_posts",
-        "description": "backend.app.api.routes.posts.get_all_posts",
-        "peekOfCode": "get_all_posts_router = APIRouter()\n@get_all_posts_router.get(\"/api/blog\", response_model=list[PostResponse])\nasync def get_all_posts(\n        db: Session = Depends(get_db)\n):\n    try:\n        posts = db.query(Post).order_by(Post.created_at.desc()).all()\n        return [PostResponse.model_validate(post) for post in posts]\n    except Exception as e:\n        raise HTTPException(status_code=500, detail=f\"Failed to fetch posts: {str(e)}\")",
-        "detail": "backend.app.api.routes.posts.get_all_posts",
-        "documentation": {}
-    },
-    {
-        "label": "get_post_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.posts.get_post",
-        "description": "backend.app.api.routes.posts.get_post",
-        "peekOfCode": "get_post_router = APIRouter()\n@get_post_router.get(\"/api/blog/{post_id}\", response_model=PostResponse)\nasync def get_post_by_id(\n        post_id: int,\n        db: Session = Depends(get_db)\n):\n    post = db.query(Post).filter(Post.id == post_id).first()\n    if not post:\n        raise HTTPException(status_code=404, detail=\"Post not found\")\n    return PostResponse.model_validate(post)",
-        "detail": "backend.app.api.routes.posts.get_post",
-        "documentation": {}
-    },
-    {
-        "label": "upload_image_router",
-        "kind": 5,
-        "importPath": "backend.app.api.routes.posts.upload_image",
-        "description": "backend.app.api.routes.posts.upload_image",
-        "peekOfCode": "upload_image_router = APIRouter()\n@upload_image_router.post(\"/api/upload-image\")\nasync def upload_image(\n        file: UploadFile = File(...),\n        user: UserData = Depends(admin_required)\n):\n    if user.role != \"admin\":\n        raise HTTPException(status_code=403, detail=\"You are not allowed to upload images\")\n    upload_dir = \"app/static/images\"\n    if not file.filename.lower().endswith(('.png', '.jpg', '.jpeg', '.webp')):",
-        "detail": "backend.app.api.routes.posts.upload_image",
+        "importPath": "backend.app.api.routes.users",
+        "description": "backend.app.api.routes.users",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/user\",\n    tags=[\"User\"]\n)\n@router.get(\"\", response_model=UserResponse)\nasync def get_user(\n        user: User = Depends(get_current_user),\n):\n    return UserResponse(user=UserData.model_validate(user))\n@router.patch(\"\", response_model=dict)",
+        "detail": "backend.app.api.routes.users",
         "documentation": {}
     },
     {
@@ -3095,7 +2255,7 @@
         "kind": 5,
         "importPath": "backend.app.core.database",
         "description": "backend.app.core.database",
-        "peekOfCode": "DATABASE_URL = os.getenv('DATABASE_URL')\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL is not set\")\nengine = create_engine(DATABASE_URL, future=True)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "peekOfCode": "DATABASE_URL = settings.SQLALCHEMY_DATABASE_URI\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL is not set\")\nengine = create_engine(\n    DATABASE_URL,\n    pool_size=20,\n    max_overflow=30,\n    pool_recycle=3600,\n    pool_pre_ping=True\n)",
         "detail": "backend.app.core.database",
         "documentation": {}
     },
@@ -3104,7 +2264,7 @@
         "kind": 5,
         "importPath": "backend.app.core.database",
         "description": "backend.app.core.database",
-        "peekOfCode": "engine = create_engine(DATABASE_URL, future=True)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "peekOfCode": "engine = create_engine(\n    DATABASE_URL,\n    pool_size=20,\n    max_overflow=30,\n    pool_recycle=3600,\n    pool_pre_ping=True\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
         "detail": "backend.app.core.database",
         "documentation": {}
     },
@@ -3221,7 +2381,7 @@
         "kind": 2,
         "importPath": "backend.app.core.security",
         "description": "backend.app.core.security",
-        "peekOfCode": "def decode_token(token: str) -> dict:\n    try:\n        unverified_payload = jwt.get_unverified_claims(token)\n        token_type = unverified_payload.get(\"type\")\n    except Exception:\n        raise HTTPException(\n            status_code=401,\n            detail=\"Could not decode token\",\n            headers={\"WWW-Authenticate\": \"Bearer\"},\n        )",
+        "peekOfCode": "def decode_token(token: str) -> dict:\n    if not token or len(token) < 20:\n        raise HTTPException(status_code=401, detail=\"Invalid token format\")\n    try:\n        unverified_payload = jwt.get_unverified_claims(token)\n        token_type = unverified_payload.get(\"type\")\n    except Exception:\n        raise HTTPException(\n            status_code=401,\n            detail=\"Could not decode token\",",
         "detail": "backend.app.core.security",
         "documentation": {}
     },
@@ -3230,7 +2390,7 @@
         "kind": 2,
         "importPath": "backend.app.core.security",
         "description": "backend.app.core.security",
-        "peekOfCode": "def get_current_user(\n    token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db)\n) -> Type[User]:\n    payload = decode_token(token)\n    if payload.get(\"type\") != \"access\":\n        raise HTTPException(\n            status_code=401,\n            detail=\"Use access token for authentication\",\n            headers={\"WWW-Authenticate\": \"Bearer\"},",
+        "peekOfCode": "def get_current_user(\n    token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db)\n) -> User:\n    payload = decode_token(token)\n    if payload.get(\"type\") != \"access\":\n        raise HTTPException(\n            status_code=401,\n            detail=\"Use access token for authentication\",\n            headers={\"WWW-Authenticate\": \"Bearer\"},",
         "detail": "backend.app.core.security",
         "documentation": {}
     },
@@ -3284,7 +2444,7 @@
         "kind": 6,
         "importPath": "backend.app.core.settings",
         "description": "backend.app.core.settings",
-        "peekOfCode": "class Settings(BaseSettings):\n    SQLALCHEMY_DATABASE_URI: str = os.getenv('DATABASE_URL')\n    ITEMS_PER_PAGE: int = int(os.getenv('ITEMS_PER_PAGE', '10'))\n    ACCESS_TOKEN_SECRET_KEY: str = os.getenv(\"SECRET_KEY\", \"mysecretaccesskey\")\n    REFRESH_TOKEN_SECRET_KEY: str = os.getenv(\"SUPER_SECRET_KEY\", \"mysecretrefreshkey\")\n    ACCESS_TOKEN_EXPIRE_MINUTES=int(os.getenv('ACCESS_TOKEN_EXPIRE_MINUTES', '30'))\n    REFRESH_TOKEN_EXPIRE_MINUTES=int(os.getenv('REFRESH_TOKEN_EXPIRE_MINUTES', '43200'))\n    ALGORITHM: str = os.getenv('ALGORITHM', 'HS256')\n    CACHE_TYPE: str = \"RedisCache\"\n    CACHE_REDIS_HOST: str = os.getenv(\"CACHE_REDIS_HOST\", \"localhost\")",
+        "peekOfCode": "class Settings(BaseSettings):\n    SQLALCHEMY_DATABASE_URI: str = os.getenv('DATABASE_URL')\n    ITEMS_PER_PAGE: int = int(os.getenv('ITEMS_PER_PAGE'))\n    ACCESS_TOKEN_SECRET_KEY: str = os.getenv(\"SECRET_KEY\")\n    REFRESH_TOKEN_SECRET_KEY: str = os.getenv(\"SUPER_SECRET_KEY\")\n    ACCESS_TOKEN_EXPIRE_MINUTES=int(os.getenv('ACCESS_TOKEN_EXPIRE_MINUTES'))\n    REFRESH_TOKEN_EXPIRE_MINUTES=int(os.getenv('REFRESH_TOKEN_EXPIRE_MINUTES'))\n    ALGORITHM: str = os.getenv('ALGORITHM')\n    CACHE_TYPE: str = \"RedisCache\"\n    CACHE_REDIS_HOST: str = os.getenv(\"CACHE_REDIS_HOST\")",
         "detail": "backend.app.core.settings",
         "documentation": {}
     },
@@ -3383,7 +2543,7 @@
         "kind": 6,
         "importPath": "backend.app.models.user",
         "description": "backend.app.models.user",
-        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, index=True)\n    role = Column(String, index=True, default='user')\n    username = Column(String, unique=True, nullable=False, index=True)\n    email = Column(String, unique=True, nullable=False, index=True)\n    password_hash = Column(String, nullable=False)\n    cart_items = relationship(\n        \"CartItem\",\n        back_populates=\"user\",",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, index=True)\n    role = Column(String, index=True, default='user')\n    full_name = Column(String, nullable=False, index=True)\n    email = Column(String, unique=True, nullable=False, index=True)\n    phone = Column(String, unique=True, nullable=False, index=True)\n    password_hash = Column(String, nullable=False)\n    cart_items = relationship(\n        \"CartItem\",",
         "detail": "backend.app.models.user",
         "documentation": {}
     },
@@ -3392,7 +2552,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.cart_schema",
         "description": "backend.app.schemas.cart_schema",
-        "peekOfCode": "class CartRequest(BaseModel):\n    code: str\nclass CartResponse(BaseModel):\n    message: str\n# in soon\nclass CartUpdate(BaseModel):\n    code: constr(strip_whitespace=True, min_length=1)\n    quantity: conint(gt=0)\nclass GetCartResponse(BaseModel):\n    product: CatalogItemSchema",
+        "peekOfCode": "class CartRequest(BaseModel):\n    code: str\nclass CartResponse(BaseModel):\n    message: str\nclass UpdateCartItemRequest(BaseModel):\n    quantity: int = Field(..., ge=1)\nclass GetCartResponse(BaseModel):\n    product: CatalogItemSchema\n    quantity: str\n    class Config:",
         "detail": "backend.app.schemas.cart_schema",
         "documentation": {}
     },
@@ -3401,16 +2561,16 @@
         "kind": 6,
         "importPath": "backend.app.schemas.cart_schema",
         "description": "backend.app.schemas.cart_schema",
-        "peekOfCode": "class CartResponse(BaseModel):\n    message: str\n# in soon\nclass CartUpdate(BaseModel):\n    code: constr(strip_whitespace=True, min_length=1)\n    quantity: conint(gt=0)\nclass GetCartResponse(BaseModel):\n    product: CatalogItemSchema\n    quantity: str\n    class Config:",
+        "peekOfCode": "class CartResponse(BaseModel):\n    message: str\nclass UpdateCartItemRequest(BaseModel):\n    quantity: int = Field(..., ge=1)\nclass GetCartResponse(BaseModel):\n    product: CatalogItemSchema\n    quantity: str\n    class Config:\n        from_attributes = True\nclass CartListResponse(BaseModel):",
         "detail": "backend.app.schemas.cart_schema",
         "documentation": {}
     },
     {
-        "label": "CartUpdate",
+        "label": "UpdateCartItemRequest",
         "kind": 6,
         "importPath": "backend.app.schemas.cart_schema",
         "description": "backend.app.schemas.cart_schema",
-        "peekOfCode": "class CartUpdate(BaseModel):\n    code: constr(strip_whitespace=True, min_length=1)\n    quantity: conint(gt=0)\nclass GetCartResponse(BaseModel):\n    product: CatalogItemSchema\n    quantity: str\n    class Config:\n        from_attributes = True\nclass CartListResponse(BaseModel):\n    cart: List[GetCartResponse]",
+        "peekOfCode": "class UpdateCartItemRequest(BaseModel):\n    quantity: int = Field(..., ge=1)\nclass GetCartResponse(BaseModel):\n    product: CatalogItemSchema\n    quantity: str\n    class Config:\n        from_attributes = True\nclass CartListResponse(BaseModel):\n    cart: List[GetCartResponse]",
         "detail": "backend.app.schemas.cart_schema",
         "documentation": {}
     },
@@ -3437,7 +2597,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.catalog_schema",
         "description": "backend.app.schemas.catalog_schema",
-        "peekOfCode": "class CatalogQuerySchema(BaseModel):\n    page: int = Field(default=1, ge=1)\n    items_per_page: int = Field(default=8, ge=1)\n    search: str = \"\"\n    search_type: Optional[Literal[\"code\", \"shape\", \"dimensions\", \"machine\"]] = \"code\"\n    name_bond: Optional[str] = None\n    grid_size: Optional[str] = None\nclass BondSchema(BaseModel):\n    name_bond: str\n    bond_description: str",
+        "peekOfCode": "class CatalogQuerySchema(BaseModel):\n    page: int = Field(default=1, ge=1)\n    items_per_page: int = Field(default=8, ge=1, le=100)\n    search: str = \"\"\n    search_type: Optional[Literal[\"code\", \"shape\", \"dimensions\", \"machine\"]] = \"code\"\n    name_bond: Optional[str] = None\n    grid_size: Optional[str] = None\nclass BondSchema(BaseModel):\n    name_bond: str\n    bond_description: str",
         "detail": "backend.app.schemas.catalog_schema",
         "documentation": {}
     },
@@ -3491,7 +2651,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.post_schema",
         "description": "backend.app.schemas.post_schema",
-        "peekOfCode": "class CreatePostRequest(BaseModel):\n    title: constr(min_length=1) = Field(..., description=\"Post title\")\n    content: constr(min_length=1) = Field(..., description=\"Post content\")\n    image: str | None = None\nclass PostResponse(BaseModel):\n    id: int\n    title: str\n    content: str\n    image: Optional[str] = None\n    created_at: datetime",
+        "peekOfCode": "class CreatePostRequest(BaseModel):\n    title: str\n    content: str\n    image: str | None = None\nclass PostResponse(BaseModel):\n    id: int\n    title: str\n    content: str\n    image: Optional[str] = None\n    created_at: datetime",
         "detail": "backend.app.schemas.post_schema",
         "documentation": {}
     },
@@ -3536,7 +2696,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class UserData(BaseModel):\n    id: Optional[int] = None\n    username: str\n    email: str\n    role: str\n    class Config:\n        from_attributes = True\nclass UserResponse(BaseModel):\n    user: UserData\nclass RegisterRequest(BaseModel):",
+        "peekOfCode": "class UserData(BaseModel):\n    id: int\n    full_name: str\n    email: str\n    phone: str\n    role: str\n    class Config:\n        from_attributes = True\nclass UserResponse(BaseModel):\n    user: UserData",
         "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
@@ -3545,7 +2705,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class UserResponse(BaseModel):\n    user: UserData\nclass RegisterRequest(BaseModel):\n    username: str\n    email: str\n    password: str\nclass RegisterResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str",
+        "peekOfCode": "class UserResponse(BaseModel):\n    user: UserData\nclass RegisterRequest(BaseModel):\n    full_name: str\n    email: str\n    phone: str\n    password: str\nclass RegisterResponse(BaseModel):\n    message: str\n    user: UserData",
         "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
@@ -3554,7 +2714,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class RegisterRequest(BaseModel):\n    username: str\n    email: str\n    password: str\nclass RegisterResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str\n    refreshToken: str\nclass LoginRequest(BaseModel):",
+        "peekOfCode": "class RegisterRequest(BaseModel):\n    full_name: str\n    email: str\n    phone: str\n    password: str\nclass RegisterResponse(BaseModel):\n    message: str\n    user: UserData\n    access_token: str\n    refresh_token: str",
         "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
@@ -3563,7 +2723,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class RegisterResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str\n    refreshToken: str\nclass LoginRequest(BaseModel):\n    email: str\n    password: str\nclass LoginResponse(BaseModel):\n    message: str",
+        "peekOfCode": "class RegisterResponse(BaseModel):\n    message: str\n    user: UserData\n    access_token: str\n    refresh_token: str\nclass LoginRequest(BaseModel):\n    email: str\n    password: str\nclass LoginResponse(BaseModel):\n    message: str",
         "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
@@ -3572,7 +2732,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class LoginRequest(BaseModel):\n    email: str\n    password: str\nclass LoginResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str\n    refreshToken: str\nclass RefreshTokenRequest(BaseModel):\n    refreshToken: str",
+        "peekOfCode": "class LoginRequest(BaseModel):\n    email: str\n    password: str\nclass LoginResponse(BaseModel):\n    message: str\n    user: UserData\n    access_token: str\n    refresh_token: str\nclass RefreshTokenRequest(BaseModel):\n    refresh_token: str",
         "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
@@ -3581,7 +2741,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class LoginResponse(BaseModel):\n    message: str\n    user: UserData\n    accessToken: str\n    refreshToken: str\nclass RefreshTokenRequest(BaseModel):\n    refreshToken: str\nclass RefreshTokenResponse(BaseModel):\n    accessToken: str\n    refreshToken: str",
+        "peekOfCode": "class LoginResponse(BaseModel):\n    message: str\n    user: UserData\n    access_token: str\n    refresh_token: str\nclass RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass RefreshTokenResponse(BaseModel):\n    access_token: str\n    refresh_token: str",
         "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
@@ -3590,7 +2750,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class RefreshTokenRequest(BaseModel):\n    refreshToken: str\nclass RefreshTokenResponse(BaseModel):\n    accessToken: str\n    refreshToken: str\n    token_type: str = \"bearer\"\nclass LogoutRequest(BaseModel):\n    refreshToken: str\nclass LogoutResponse(BaseModel):\n    message: str",
+        "peekOfCode": "class RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass RefreshTokenResponse(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass LogoutRequest(BaseModel):\n    refresh_token: str\nclass LogoutResponse(BaseModel):\n    message: str",
         "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
@@ -3599,7 +2759,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class RefreshTokenResponse(BaseModel):\n    accessToken: str\n    refreshToken: str\n    token_type: str = \"bearer\"\nclass LogoutRequest(BaseModel):\n    refreshToken: str\nclass LogoutResponse(BaseModel):\n    message: str",
+        "peekOfCode": "class RefreshTokenResponse(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass LogoutRequest(BaseModel):\n    refresh_token: str\nclass LogoutResponse(BaseModel):\n    message: str\nclass UpdateUserRequest(BaseModel):\n    full_name: str | None = None",
         "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
@@ -3608,7 +2768,7 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class LogoutRequest(BaseModel):\n    refreshToken: str\nclass LogoutResponse(BaseModel):\n    message: str",
+        "peekOfCode": "class LogoutRequest(BaseModel):\n    refresh_token: str\nclass LogoutResponse(BaseModel):\n    message: str\nclass UpdateUserRequest(BaseModel):\n    full_name: str | None = None\n    email: EmailStr | None = None\n    phone: str | None = None\n    password: str | None = Field(None, min_length=8)\n    confirm_password: str | None = None",
         "detail": "backend.app.schemas.user_schema",
         "documentation": {}
     },
@@ -3617,8 +2777,44 @@
         "kind": 6,
         "importPath": "backend.app.schemas.user_schema",
         "description": "backend.app.schemas.user_schema",
-        "peekOfCode": "class LogoutResponse(BaseModel):\n    message: str",
+        "peekOfCode": "class LogoutResponse(BaseModel):\n    message: str\nclass UpdateUserRequest(BaseModel):\n    full_name: str | None = None\n    email: EmailStr | None = None\n    phone: str | None = None\n    password: str | None = Field(None, min_length=8)\n    confirm_password: str | None = None\n    old_password: str | None = None\n    @field_validator(\"confirm_password\")",
         "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user_schema",
+        "description": "backend.app.schemas.user_schema",
+        "peekOfCode": "class UpdateUserRequest(BaseModel):\n    full_name: str | None = None\n    email: EmailStr | None = None\n    phone: str | None = None\n    password: str | None = Field(None, min_length=8)\n    confirm_password: str | None = None\n    old_password: str | None = None\n    @field_validator(\"confirm_password\")\n    @classmethod\n    def passwords_match(cls, v, values):",
+        "detail": "backend.app.schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "cache_get",
+        "kind": 2,
+        "importPath": "backend.app.utils.cache",
+        "description": "backend.app.utils.cache",
+        "peekOfCode": "def cache_get(key: str):\n    value = redis_client.get(key)\n    return json.loads(value) if value else None\ndef cache_set(key: str, value, ex: int = 300):\n    redis_client.set(key, json.dumps(value), ex=ex)",
+        "detail": "backend.app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "cache_set",
+        "kind": 2,
+        "importPath": "backend.app.utils.cache",
+        "description": "backend.app.utils.cache",
+        "peekOfCode": "def cache_set(key: str, value, ex: int = 300):\n    redis_client.set(key, json.dumps(value), ex=ex)",
+        "detail": "backend.app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "redis_client",
+        "kind": 5,
+        "importPath": "backend.app.utils.cache",
+        "description": "backend.app.utils.cache",
+        "peekOfCode": "redis_client = redis.Redis(\n    host=settings.CACHE_REDIS_HOST,\n    port=settings.CACHE_REDIS_PORT,\n    db=settings.CACHE_REDIS_DB,\n    decode_responses=settings.CACHE_REDIS_DECODE_RESPONSES\n)\ndef cache_get(key: str):\n    value = redis_client.get(key)\n    return json.loads(value) if value else None\ndef cache_set(key: str, value, ex: int = 300):",
+        "detail": "backend.app.utils.cache",
         "documentation": {}
     },
     {
@@ -3626,8 +2822,305 @@
         "kind": 5,
         "importPath": "backend.app.main",
         "description": "backend.app.main",
-        "peekOfCode": "app = FastAPI(title=\"Search App API\")\n#\n# redis_client = redis.Redis(\n#     host=settings.CACHE_REDIS_HOST,\n#     port=settings.CACHE_REDIS_PORT,\n#     db=settings.CACHE_REDIS_DB,\n#     decode_responses=settings.CACHE_REDIS_DECODE_RESPONSES\n# )\napp.add_middleware(\n    CORSMiddleware,",
+        "peekOfCode": "app = FastAPI(title=\"Search App API\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nlimiter = Limiter(key_func=get_remote_address)\napp.state.limiter = limiter",
         "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "kind": 5,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "limiter = Limiter(key_func=get_remote_address)\napp.state.limiter = limiter\nif os.path.exists(\"images\"):\n    app.mount(\"/images\", StaticFiles(directory=\"images\"), name=\"images\")\napp.include_router(auth.router)\napp.include_router(users.router)\napp.include_router(catalog.router)\napp.include_router(cart.router)\napp.include_router(blog.router)\napp.include_router(media.router)",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app.state.limiter",
+        "kind": 5,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "app.state.limiter = limiter\nif os.path.exists(\"images\"):\n    app.mount(\"/images\", StaticFiles(directory=\"images\"), name=\"images\")\napp.include_router(auth.router)\napp.include_router(users.router)\napp.include_router(catalog.router)\napp.include_router(cart.router)\napp.include_router(blog.router)\napp.include_router(media.router)\napp.include_router(menu.router)",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except OSError:\n                pass\n        tee_f.write(what)",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_root_hkey",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means\n        # must be HKCU\n        return winreg.HKEY_CURRENT_USER",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "create_shortcut",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def create_shortcut(\n    path, description, filename, arguments=\"\", workdir=\"\", iconpath=\"\", iconindex=0\n):\n    import pythoncom\n    from win32com.shell import shell\n    ilink = pythoncom.CoCreateInstance(\n        shell.CLSID_ShellLink,\n        None,\n        pythoncom.CLSCTX_INPROC_SERVER,\n        shell.IID_IShellLink,",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_special_folder_path",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_special_folder_path(path_name):\n    from win32com.shell import shell, shellcon\n    for maybe in \"\"\"\n        CSIDL_COMMON_STARTMENU CSIDL_STARTMENU CSIDL_COMMON_APPDATA\n        CSIDL_LOCAL_APPDATA CSIDL_APPDATA CSIDL_COMMON_DESKTOPDIRECTORY\n        CSIDL_DESKTOPDIRECTORY CSIDL_COMMON_STARTUP CSIDL_STARTUP\n        CSIDL_COMMON_PROGRAMS CSIDL_PROGRAMS CSIDL_PROGRAM_FILES_COMMON\n        CSIDL_PROGRAM_FILES CSIDL_FONTS\"\"\".split():\n        if maybe == path_name:\n            csidl = getattr(shellcon, maybe)",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info.major,\n        sys.version_info.minor,\n        suffix,",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(f\"-> {root_key_name}\\\\{key_name}[{value_name}]={value!r}\")\n        finally:",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(f\"-> DELETE {root_key_name}\\\\{key_name}[{value_name}]\")\n        finally:",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n    to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(f\"Failed to unregister COM objects: {why}\")\n    try:",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location: str) -> str:\n    location = os.path.abspath(location)\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError(\n            f'Path \"{location}\" is not an existing directory!'\n        )\n    return location\ndef main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python -m pywin32_postinstall -install\n    * or (shorter but you don't have control over which python environment is used)\n    > pywin32_postinstall -install\n    You need to execute this script, with a '-install' parameter,\n    to ensure the environment is setup correctly to install COM objects, services, etc.",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(\n    os.path.join(\n        tempfile.gettempdir(),  # Send output somewhere so it can be found if necessary...\n        \"pywin32_postinstall.log\",\n    ),\n    \"w\",\n)\nclass Tee:\n    def __init__(self, file):\n        self.f = file",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_postinstall",
+        "description": "backend.venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means\n        # must be HKCU",
+        "detail": "backend.venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_testall",
+        "description": "backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(f\"*** Test script '{script}' exited with {result.returncode}\")\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": "backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_testall",
+        "description": "backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": "backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.venv.Scripts.pywin32_testall",
+        "description": "backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [project_root] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": "backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "project_root",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_testall",
+        "description": "backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "project_root = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))\nsite_packages = [site.getusersitepackages()] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras",
+        "detail": "backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_testall",
+        "description": "backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [site.getusersitepackages()] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)",
+        "detail": "backend.venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": "backend.venv.Scripts.pywin32_testall",
+        "description": "backend.venv.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": "backend.venv.Scripts.pywin32_testall",
         "documentation": {}
     },
     {

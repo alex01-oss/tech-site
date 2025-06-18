@@ -48,3 +48,13 @@
 2025/05/22 06:50:57 [emerg] 1#1: host not found in upstream "frontend" in /etc/nginx/nginx.conf:56
 2025/05/22 06:52:01 [emerg] 1#1: host not found in upstream "frontend" in /etc/nginx/nginx.conf:56
 2025/05/22 06:53:05 [emerg] 1#1: host not found in upstream "frontend" in /etc/nginx/nginx.conf:56
+2025/06/16 13:52:55 [notice] 1#1: using the "epoll" event method
+2025/06/16 13:52:55 [notice] 1#1: nginx/1.28.0
+2025/06/16 13:52:55 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/06/16 13:52:55 [notice] 1#1: OS: Linux 5.15.167.4-microsoft-standard-WSL2
+2025/06/16 13:52:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/06/16 13:52:55 [notice] 1#1: start worker processes
+2025/06/16 13:52:55 [notice] 1#1: start worker process 20
+2025/06/16 13:52:55 [notice] 1#1: start worker process 21
+2025/06/16 13:52:55 [notice] 1#1: start worker process 22
+2025/06/16 13:52:55 [notice] 1#1: start worker process 23
