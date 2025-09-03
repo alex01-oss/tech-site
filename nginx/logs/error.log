@@ -58,3 +58,329 @@
 2025/06/16 13:52:55 [notice] 1#1: start worker process 21
 2025/06/16 13:52:55 [notice] 1#1: start worker process 22
 2025/06/16 13:52:55 [notice] 1#1: start worker process 23
+2025/09/01 05:22:33 [notice] 1#1: using the "epoll" event method
+2025/09/01 05:22:33 [notice] 1#1: nginx/1.28.0
+2025/09/01 05:22:33 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/09/01 05:22:33 [notice] 1#1: OS: Linux 6.14.0-29-generic
+2025/09/01 05:22:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2025/09/01 05:22:33 [notice] 1#1: start worker processes
+2025/09/01 05:22:33 [notice] 1#1: start worker process 21
+2025/09/01 05:22:33 [notice] 1#1: start worker process 22
+2025/09/01 05:22:33 [notice] 1#1: start worker process 23
+2025/09/01 05:22:33 [notice] 1#1: start worker process 24
+2025/09/01 05:36:29 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/09/01 05:36:29 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:36:29 [notice] 21#21: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:36:29 [notice] 21#21: exiting
+2025/09/01 05:36:29 [notice] 21#21: exit
+2025/09/01 05:36:29 [notice] 23#23: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:36:29 [notice] 23#23: exiting
+2025/09/01 05:36:29 [notice] 23#23: exit
+2025/09/01 05:36:29 [notice] 22#22: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:36:29 [notice] 22#22: exiting
+2025/09/01 05:36:29 [notice] 22#22: exit
+2025/09/01 05:36:29 [notice] 24#24: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:36:29 [notice] 24#24: exiting
+2025/09/01 05:36:29 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/09/01 05:36:29 [notice] 24#24: exit
+2025/09/01 05:36:29 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2025/09/01 05:36:29 [notice] 1#1: worker process 21 exited with code 0
+2025/09/01 05:36:29 [notice] 1#1: worker process 22 exited with code 0
+2025/09/01 05:36:29 [notice] 1#1: worker process 23 exited with code 0
+2025/09/01 05:36:29 [notice] 1#1: worker process 24 exited with code 0
+2025/09/01 05:36:29 [notice] 1#1: exit
+2025/09/01 05:36:58 [notice] 1#1: using the "epoll" event method
+2025/09/01 05:36:58 [notice] 1#1: nginx/1.28.0
+2025/09/01 05:36:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/09/01 05:36:58 [notice] 1#1: OS: Linux 6.14.0-29-generic
+2025/09/01 05:36:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2025/09/01 05:36:58 [notice] 1#1: start worker processes
+2025/09/01 05:36:58 [notice] 1#1: start worker process 20
+2025/09/01 05:36:58 [notice] 1#1: start worker process 21
+2025/09/01 05:36:58 [notice] 1#1: start worker process 22
+2025/09/01 05:36:58 [notice] 1#1: start worker process 23
+2025/09/01 05:58:45 [notice] 21#21: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:58:45 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/09/01 05:58:45 [notice] 21#21: exiting
+2025/09/01 05:58:45 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/09/01 05:58:45 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:58:45 [notice] 21#21: exit
+2025/09/01 05:58:45 [notice] 22#22: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:58:45 [notice] 22#22: exiting
+2025/09/01 05:58:45 [notice] 22#22: exit
+2025/09/01 05:58:45 [notice] 23#23: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:58:45 [notice] 23#23: exiting
+2025/09/01 05:58:45 [notice] 23#23: exit
+2025/09/01 05:58:45 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2025/09/01 05:58:45 [notice] 20#20: signal 15 (SIGTERM) received, exiting
+2025/09/01 05:58:45 [notice] 20#20: exiting
+2025/09/01 05:58:45 [notice] 20#20: exit
+2025/09/01 05:58:45 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/09/01 05:58:45 [notice] 1#1: worker process 20 exited with code 0
+2025/09/01 05:58:45 [notice] 1#1: signal 29 (SIGIO) received
+2025/09/01 05:58:45 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2025/09/01 05:58:45 [notice] 1#1: worker process 22 exited with code 0
+2025/09/01 05:58:45 [notice] 1#1: signal 29 (SIGIO) received
+2025/09/01 05:58:45 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/09/01 05:58:45 [notice] 1#1: worker process 21 exited with code 0
+2025/09/01 05:58:45 [notice] 1#1: worker process 23 exited with code 0
+2025/09/01 05:58:45 [notice] 1#1: exit
+2025/09/01 05:59:14 [notice] 1#1: using the "epoll" event method
+2025/09/01 05:59:14 [notice] 1#1: nginx/1.28.0
+2025/09/01 05:59:14 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/09/01 05:59:14 [notice] 1#1: OS: Linux 6.14.0-29-generic
+2025/09/01 05:59:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2025/09/01 05:59:14 [notice] 1#1: start worker processes
+2025/09/01 05:59:14 [notice] 1#1: start worker process 20
+2025/09/01 05:59:14 [notice] 1#1: start worker process 21
+2025/09/01 05:59:14 [notice] 1#1: start worker process 22
+2025/09/01 05:59:14 [notice] 1#1: start worker process 23
+2025/09/01 06:30:39 [notice] 21#21: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:30:39 [notice] 21#21: exiting
+2025/09/01 06:30:39 [notice] 21#21: exit
+2025/09/01 06:30:39 [notice] 20#20: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:30:39 [notice] 20#20: exiting
+2025/09/01 06:30:39 [notice] 20#20: exit
+2025/09/01 06:30:39 [notice] 22#22: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:30:39 [notice] 23#23: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:30:39 [notice] 22#22: exiting
+2025/09/01 06:30:39 [notice] 23#23: exiting
+2025/09/01 06:30:39 [notice] 22#22: exit
+2025/09/01 06:30:39 [notice] 23#23: exit
+2025/09/01 06:30:39 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/09/01 06:30:39 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/09/01 06:30:39 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:30:39 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/09/01 06:30:39 [notice] 1#1: worker process 20 exited with code 0
+2025/09/01 06:30:39 [notice] 1#1: worker process 21 exited with code 0
+2025/09/01 06:30:39 [notice] 1#1: signal 29 (SIGIO) received
+2025/09/01 06:30:39 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2025/09/01 06:30:39 [notice] 1#1: worker process 22 exited with code 0
+2025/09/01 06:30:39 [notice] 1#1: signal 29 (SIGIO) received
+2025/09/01 06:30:39 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2025/09/01 06:30:39 [notice] 1#1: worker process 23 exited with code 0
+2025/09/01 06:30:39 [notice] 1#1: exit
+2025/09/01 06:31:07 [notice] 1#1: using the "epoll" event method
+2025/09/01 06:31:07 [notice] 1#1: nginx/1.28.0
+2025/09/01 06:31:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/09/01 06:31:07 [notice] 1#1: OS: Linux 6.14.0-29-generic
+2025/09/01 06:31:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2025/09/01 06:31:07 [notice] 1#1: start worker processes
+2025/09/01 06:31:07 [notice] 1#1: start worker process 19
+2025/09/01 06:31:07 [notice] 1#1: start worker process 20
+2025/09/01 06:31:07 [notice] 1#1: start worker process 21
+2025/09/01 06:31:07 [notice] 1#1: start worker process 22
+2025/09/01 06:39:37 [notice] 20#20: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:39:37 [notice] 20#20: exiting
+2025/09/01 06:39:37 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/09/01 06:39:37 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:39:37 [notice] 20#20: exit
+2025/09/01 06:39:37 [notice] 22#22: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:39:37 [notice] 22#22: exiting
+2025/09/01 06:39:37 [notice] 22#22: exit
+2025/09/01 06:39:37 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2025/09/01 06:39:37 [notice] 21#21: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:39:37 [notice] 21#21: exiting
+2025/09/01 06:39:37 [notice] 21#21: exit
+2025/09/01 06:39:37 [notice] 19#19: signal 15 (SIGTERM) received, exiting
+2025/09/01 06:39:37 [notice] 19#19: exiting
+2025/09/01 06:39:37 [notice] 19#19: exit
+2025/09/01 06:39:37 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/09/01 06:39:37 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/09/01 06:39:37 [notice] 1#1: worker process 19 exited with code 0
+2025/09/01 06:39:37 [notice] 1#1: worker process 20 exited with code 0
+2025/09/01 06:39:37 [notice] 1#1: worker process 21 exited with code 0
+2025/09/01 06:39:37 [notice] 1#1: worker process 22 exited with code 0
+2025/09/01 06:39:37 [notice] 1#1: exit
+2025/09/01 06:40:05 [notice] 1#1: using the "epoll" event method
+2025/09/01 06:40:05 [notice] 1#1: nginx/1.28.0
+2025/09/01 06:40:05 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/09/01 06:40:05 [notice] 1#1: OS: Linux 6.14.0-29-generic
+2025/09/01 06:40:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2025/09/01 06:40:05 [notice] 1#1: start worker processes
+2025/09/01 06:40:05 [notice] 1#1: start worker process 21
+2025/09/01 06:40:05 [notice] 1#1: start worker process 22
+2025/09/01 06:40:05 [notice] 1#1: start worker process 23
+2025/09/01 06:40:05 [notice] 1#1: start worker process 24
+2025/09/01 06:50:22 [notice] 1#1: using the "epoll" event method
+2025/09/01 06:50:22 [notice] 1#1: nginx/1.28.0
+2025/09/01 06:50:22 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/09/01 06:50:22 [notice] 1#1: OS: Linux 6.14.0-29-generic
+2025/09/01 06:50:22 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2025/09/01 06:50:22 [notice] 1#1: start worker processes
+2025/09/01 06:50:22 [notice] 1#1: start worker process 20
+2025/09/01 06:50:22 [notice] 1#1: start worker process 21
+2025/09/01 06:50:22 [notice] 1#1: start worker process 22
+2025/09/01 06:50:22 [notice] 1#1: start worker process 23
+2025/09/01 11:09:50 [notice] 20#20: signal 15 (SIGTERM) received, exiting
+2025/09/01 11:09:50 [notice] 20#20: exiting
+2025/09/01 11:09:50 [notice] 20#20: exit
+2025/09/01 11:09:50 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/09/01 11:09:50 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2025/09/01 11:09:50 [notice] 21#21: signal 15 (SIGTERM) received, exiting
+2025/09/01 11:09:50 [notice] 21#21: exiting
+2025/09/01 11:09:50 [notice] 21#21: exit
+2025/09/01 11:09:50 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/09/01 11:09:50 [notice] 22#22: signal 15 (SIGTERM) received, exiting
+2025/09/01 11:09:50 [notice] 22#22: exiting
+2025/09/01 11:09:50 [notice] 23#23: signal 15 (SIGTERM) received, exiting
+2025/09/01 11:09:50 [notice] 23#23: exiting
+2025/09/01 11:09:50 [notice] 23#23: exit
+2025/09/01 11:09:50 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2025/09/01 11:09:50 [notice] 22#22: exit
+2025/09/01 11:09:50 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2025/09/01 11:09:50 [notice] 1#1: worker process 22 exited with code 0
+2025/09/01 11:09:50 [notice] 1#1: signal 29 (SIGIO) received
+2025/09/01 11:09:50 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/09/01 11:09:50 [notice] 1#1: worker process 20 exited with code 0
+2025/09/01 11:09:50 [notice] 1#1: worker process 21 exited with code 0
+2025/09/01 11:09:50 [notice] 1#1: worker process 23 exited with code 0
+2025/09/01 11:09:50 [notice] 1#1: exit
+2025/09/01 11:10:23 [notice] 1#1: using the "epoll" event method
+2025/09/01 11:10:23 [notice] 1#1: nginx/1.28.0
+2025/09/01 11:10:23 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/09/01 11:10:23 [notice] 1#1: OS: Linux 6.14.0-29-generic
+2025/09/01 11:10:23 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2025/09/01 11:10:23 [notice] 1#1: start worker processes
+2025/09/01 11:10:23 [notice] 1#1: start worker process 19
+2025/09/01 11:10:23 [notice] 1#1: start worker process 20
+2025/09/01 11:10:23 [notice] 1#1: start worker process 21
+2025/09/01 11:10:23 [notice] 1#1: start worker process 22
+2025/09/01 11:26:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/09/01 11:26:03 [notice] 19#19: gracefully shutting down
+2025/09/01 11:26:03 [notice] 21#21: gracefully shutting down
+2025/09/01 11:26:03 [notice] 19#19: exiting
+2025/09/01 11:26:03 [notice] 21#21: exiting
+2025/09/01 11:26:03 [notice] 19#19: exit
+2025/09/01 11:26:03 [notice] 21#21: exit
+2025/09/01 11:26:03 [notice] 22#22: gracefully shutting down
+2025/09/01 11:26:03 [notice] 22#22: exiting
+2025/09/01 11:26:03 [notice] 22#22: exit
+2025/09/01 11:26:03 [notice] 20#20: gracefully shutting down
+2025/09/01 11:26:03 [notice] 20#20: exiting
+2025/09/01 11:26:03 [notice] 20#20: exit
+2025/09/01 11:26:03 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2025/09/01 11:26:03 [notice] 1#1: worker process 19 exited with code 0
+2025/09/01 11:26:03 [notice] 1#1: worker process 21 exited with code 0
+2025/09/01 11:26:03 [notice] 1#1: worker process 22 exited with code 0
+2025/09/01 11:26:03 [notice] 1#1: signal 29 (SIGIO) received
+2025/09/01 11:26:03 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/09/01 11:26:03 [notice] 1#1: worker process 20 exited with code 0
+2025/09/01 11:26:03 [notice] 1#1: exit
+2025/09/01 12:57:50 [warn] 29#29: *90 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/1/00/0000000001 while reading upstream, client: 172.18.0.1, server: localhost, request: "GET /api/images/grinding.png HTTP/1.1", upstream: "http://172.18.0.4:8080/api/images/grinding.png", host: "localhost:8443", referrer: "https://localhost:8443/uk"
+2025/09/02 12:39:26 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:39:27 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:39:27 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:39:28 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:39:29 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:39:31 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:39:35 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:39:42 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:39:55 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:40:21 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:41:12 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:42:12 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:45:10 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:45:11 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:45:12 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:45:13 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:45:14 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:45:16 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:45:19 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:45:26 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:45:39 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:46:05 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:46:57 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:47:57 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:48:57 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:49:58 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:50:58 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:51:58 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:52:59 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:53:59 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:54:59 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:55:30 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:55:31 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:55:31 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:55:32 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:55:34 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:55:36 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:55:40 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:55:47 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:56:00 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:56:26 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:57:18 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 12:58:18 [emerg] 1#1: "proxy_http_version" directive is duplicate in /etc/nginx/nginx.conf:56
+2025/09/02 13:31:52 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:31:53 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:31:53 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:31:54 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:31:55 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:31:57 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:32:01 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:32:07 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:32:21 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:32:47 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:33:38 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:34:38 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:35:39 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:36:39 [emerg] 1#1: no "events" section in configuration
+2025/09/02 13:54:05 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:54:06 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:54:07 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:54:08 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:54:09 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:54:11 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:54:14 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:54:21 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:54:34 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:55:00 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:55:52 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:56:52 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:57:52 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:58:53 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/02 13:59:53 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:28:39 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:28:40 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:28:42 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:28:43 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:28:45 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:28:48 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:28:50 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:28:57 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:29:11 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:29:37 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:30:29 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:31:29 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:32:29 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:33:30 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:34:30 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:35:30 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:36:31 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:37:31 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 05:38:31 [emerg] 1#1: cannot load certificate key "/etc/nginx/certs/privkey_no_pass.pem": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/certs/privkey_no_pass.pem, r) error:10000080:BIO routines::no such file)
+2025/09/03 06:43:04 [error] 29#29: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET / HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:43:04 [error] 29#29: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET / HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:43:04 [error] 29#29: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET / HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:43:04 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/"
+2025/09/03 06:43:05 [error] 29#29: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET / HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:43:05 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/"
+2025/09/03 06:43:05 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/"
+2025/09/03 06:43:05 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/"
+2025/09/03 06:47:49 [error] 29#29: *129 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET / HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:47:49 [error] 29#29: *129 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/"
+2025/09/03 06:47:49 [error] 29#29: *129 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/"
+2025/09/03 06:48:12 [error] 29#29: *129 open() "/etc/nginx/html/uk" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /uk HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:48:12 [error] 29#29: *129 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk"
+2025/09/03 06:48:12 [error] 29#29: *129 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk"
+2025/09/03 06:49:09 [error] 29#29: *129 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET / HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:49:11 [error] 29#29: *129 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: test.pdtools.cloudflareaccess.com, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:51:47 [error] 29#29: *1 open() "/etc/nginx/html/uk" failed (2: No such file or directory), client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /uk HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:51:48 [error] 29#29: *1 open() "/etc/nginx/html/uk" failed (2: No such file or directory), client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /uk HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:51:48 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk"
+2025/09/03 06:51:49 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk"
+2025/09/03 06:52:03 [error] 29#29: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:53:21 [error] 22#22: *53 open() "/etc/nginx/html/uk" failed (2: No such file or directory), client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /uk HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/03 06:53:22 [error] 22#22: *53 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk"
+2025/09/03 06:53:22 [error] 22#22: *53 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /favicon.ico HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk"
+2025/09/03 08:45:55 [warn] 29#29: *13 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/1/00/0000000001 while reading upstream, client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/images/12R4.png HTTP/1.1", upstream: "http://172.18.0.4:8080/api/images/12R4.png", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/en/catalog?category_id=1"
