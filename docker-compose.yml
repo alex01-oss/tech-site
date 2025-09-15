@@ -56,7 +56,8 @@ services:
     restart: always
     networks:
       - app-network
-
+    volumes:
+    - ./backend/app/static/images:/app/app/static/images 
 
   redis:
     container_name: redis

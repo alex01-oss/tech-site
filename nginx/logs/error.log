@@ -387,3 +387,246 @@
 2025/09/04 05:35:46 [warn] 29#29: *9 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/1/00/0000000001 while reading upstream, client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/images/1A1.png HTTP/1.1", upstream: "http://172.18.0.5:8080/api/images/1A1.png", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/catalog?category_id=2"
 2025/09/04 05:38:12 [warn] 29#29: *52 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/2/00/0000000002 while reading upstream, client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/images/12V9-20.png HTTP/1.1", upstream: "http://172.18.0.5:8080/api/images/12V9-20.png", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/cart"
 2025/09/04 07:28:10 [error] 29#29: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", upstream: "http://172.18.0.5:8080/api/user", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk"
+2025/09/05 07:18:11 [warn] 29#29: *17 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/1/00/0000000001 while reading upstream, client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/images/3A1.png HTTP/1.1", upstream: "http://172.18.0.5:8080/api/images/3A1.png", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/catalog?category_id=1"
+2025/09/05 07:18:11 [warn] 29#29: *21 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/2/00/0000000002 while reading upstream, client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/images/14A1.png HTTP/1.1", upstream: "http://172.18.0.5:8080/api/images/14A1.png", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/catalog?category_id=1"
+2025/09/05 07:30:27 [error] 29#29: *103 connect() failed (113: No route to host) while connecting to upstream, client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /uk HTTP/1.1", upstream: "http://172.18.0.6:3000/uk", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/"
+2025/09/05 07:30:31 [error] 29#29: *103 connect() failed (113: No route to host) while connecting to upstream, client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.6:3000/favicon.ico", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk"
+2025/09/05 11:25:48 [error] 30#30: *72 connect() failed (110: Connection timed out) while connecting to upstream, client: 172.18.0.1, server: marketing4.taile27bf0.ts.net, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "marketing4.taile27bf0.ts.net"
+2025/09/08 13:14:06 [error] 29#29: *71 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", upstream: "http://172.21.0.5:8080/api/user", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/catalog?category_id=2"
+2025/09/08 13:14:06 [error] 29#29: *91 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/filters?category_id=2 HTTP/1.1", upstream: "http://172.21.0.5:8080/api/filters?category_id=2", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/catalog?category_id=2"
+2025/09/08 13:14:06 [error] 29#29: *91 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog?category_id=2&page=1&items_per_page=12 HTTP/1.1", upstream: "http://172.21.0.5:8080/api/catalog?category_id=2&page=1&items_per_page=12", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/catalog?category_id=2"
+2025/09/09 06:55:49 [warn] 29#29: *41 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/09 07:06:21 [warn] 29#29: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/09 07:06:52 [warn] 29#29: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/09 07:13:01 [warn] 22#22: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/09 07:14:38 [warn] 22#22: *11 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/09 07:14:38 [warn] 22#22: *11 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/09 07:15:45 [warn] 22#22: *11 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/10 05:30:03 [warn] 29#29: *44 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/10 05:30:04 [warn] 29#29: *44 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/10 05:39:41 [warn] 29#29: *141 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/edit/8"
+2025/09/10 06:08:42 [warn] 29#29: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/10 06:13:32 [warn] 28#28: *13 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/10 06:35:16 [warn] 29#29: *11 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/create"
+2025/09/10 06:38:48 [warn] 29#29: *27 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/edit/6"
+2025/09/10 06:38:59 [warn] 29#29: *54 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/edit/5"
+2025/09/10 06:39:10 [warn] 29#29: *27 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/images/upload-image HTTP/1.1", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk/blog/edit/7"
+2025/09/10 07:27:11 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /uk HTTP/1.1", upstream: "http://172.21.0.6:3000/uk", host: "marketing4.taile27bf0.ts.net"
+2025/09/10 07:37:25 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:37:26 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:37:27 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:37:28 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:37:29 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:37:31 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:37:34 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:37:41 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:37:54 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:38:20 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:39:12 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:40:12 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:41:12 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:42:13 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:43:13 [emerg] 1#1: unknown directive "p" in /etc/nginx/nginx.conf:69
+2025/09/10 07:44:33 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET / HTTP/1.1", upstream: "http://172.20.0.6:3000/", host: "marketing4.taile27bf0.ts.net"
+2025/09/10 07:44:33 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.20.0.6:3000/favicon.ico", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/"
+2025/09/10 10:06:57 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:06:58 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:06:58 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:06:59 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:07:00 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:07:02 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:07:06 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:07:13 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:07:26 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:07:52 [emerg] 1#1: "error_log" directive is not allowed here in /etc/nginx/nginx.conf:28
+2025/09/10 10:08:52 [info] 29#29: *7 client 172.20.0.1 closed keepalive connection
+2025/09/10 10:09:00 [info] 29#29: *13 client sent duplicate header line: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NDk1NDA4LCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiMmE1ZGNmYWUtMTc2ZS00NjE1LTg5OTEtYTVkNWM0ZjYwNWJjIn0.H5HnVC1wHkQGNNKREWD9PzNBD6dQV9m4bLu-sCfWHJA", previous value: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NDk1NDA4LCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiMmE1ZGNmYWUtMTc2ZS00NjE1LTg5OTEtYTVkNWM0ZjYwNWJjIn0.H5HnVC1wHkQGNNKREWD9PzNBD6dQV9m4bLu-sCfWHJA" while reading client request headers, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/10 10:09:10 [info] 29#29: *15 client sent duplicate header line: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTAwNzQ5LCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiYWMzMTEzYzktOTYwNy00MWExLTk1MGYtNGM3YjIxODVkY2M5In0.UFqDup7Bw7WcxxiMzXP-1d7f3qMjPQt6wWpInI79vrc", previous value: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTAwNzQ5LCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiYWMzMTEzYzktOTYwNy00MWExLTk1MGYtNGM3YjIxODVkY2M5In0.UFqDup7Bw7WcxxiMzXP-1d7f3qMjPQt6wWpInI79vrc" while reading client request headers, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/10 11:07:21 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:07:23 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:07:24 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:07:24 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:07:26 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:07:28 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:07:31 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:07:38 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:07:51 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:08:17 [emerg] 1#1: cannot load certificate "/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/var/lib/tailscale/certs/marketing4.taile27bf0.ts.net.crt, r) error:10000080:BIO routines::no such file)
+2025/09/10 11:43:39 [warn] 1#1: could not build optimal proxy_headers_hash, you should increase either proxy_headers_hash_max_size: 512 or proxy_headers_hash_bucket_size: 64; ignoring proxy_headers_hash_bucket_size
+2025/09/11 06:35:55 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:35:59 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:36:01 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:36:03 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:36:08 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:36:10 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:36:14 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:36:22 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:36:35 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:37:02 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:37:39 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:37:41 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:37:42 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:37:43 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:37:45 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:37:47 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 06:37:51 [emerg] 1#1: unknown directive "//" in /etc/nginx/nginx.conf:69
+2025/09/11 08:22:42 [error] 29#29: *2 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/blog HTTP/1.1", upstream: "http://172.20.0.5:8080/api/blog", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:22:42 [error] 29#29: *4 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/menu HTTP/1.1", upstream: "http://172.20.0.5:8080/api/menu", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:22:49 [error] 29#29: *2 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/blog HTTP/1.1", upstream: "http://172.20.0.5:8080/api/blog", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:22:49 [error] 29#29: *7 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/menu HTTP/1.1", upstream: "http://172.20.0.5:8080/api/menu", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:22:57 [error] 29#29: *7 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/auth/login HTTP/1.1", upstream: "http://172.20.0.5:8080/api/auth/login", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:23:00 [error] 29#29: *7 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/blog HTTP/1.1", upstream: "http://172.20.0.5:8080/api/blog", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:23:00 [error] 29#29: *2 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/menu HTTP/1.1", upstream: "http://172.20.0.5:8080/api/menu", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:33:54 [error] 22#22: *3 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", upstream: "http://172.20.0.0:8080/api/user", host: "marketing4.taile27bf0.ts.net", referrer: "https://marketing4.taile27bf0.ts.net/uk"
+2025/09/11 08:34:09 [error] 22#22: *11 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/blog HTTP/1.1", upstream: "http://172.20.0.0:8080/api/blog", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:34:09 [error] 22#22: *13 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/menu HTTP/1.1", upstream: "http://172.20.0.0:8080/api/menu", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:34:27 [error] 22#22: *13 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "POST /api/auth/login HTTP/1.1", upstream: "http://172.20.0.0:8080/api/auth/login", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:34:30 [error] 22#22: *13 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/blog HTTP/1.1", upstream: "http://172.20.0.0:8080/api/blog", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 08:34:30 [error] 22#22: *11 connect() failed (113: No route to host) while connecting to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/menu HTTP/1.1", upstream: "http://172.20.0.0:8080/api/menu", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 11:11:53 [info] 22#22: *1 client sent duplicate header line: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTkwOTEzLCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiNzI1NzJlNjYtZWY5YS00YTMyLWIyODctOTk2NDVlY2NjZjQ3In0.KovAxuirMXss-piuY0N10KujG2VD3icnRptFvhLiSWM", previous value: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTkwOTEzLCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiNzI1NzJlNjYtZWY5YS00YTMyLWIyODctOTk2NDVlY2NjZjQ3In0.KovAxuirMXss-piuY0N10KujG2VD3icnRptFvhLiSWM" while reading client request headers, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 11:31:50 [info] 22#22: *11 client 172.20.0.1 closed keepalive connection
+2025/09/11 11:31:51 [info] 22#22: *6 client 172.20.0.1 closed keepalive connection
+2025/09/11 11:54:33 [info] 22#22: *52 client 172.20.0.1 closed keepalive connection
+2025/09/11 11:57:43 [info] 22#22: *57 client sent duplicate header line: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTkzNjYyLCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiZGE5NDExZTEtZDE4YS00MWFjLWJiZGItNGIyMDNjMmZiMzNlIn0.6SK4bhpzx3EY53lLAv0_Ob_7Pbz5LBEZftdPJGa_HnU", previous value: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTkzNjYxLCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiMTIxZWU2MTAtZjYxNS00YTVjLTkyNDctOTUzMWI4ZDAzN2RmIn0.6M0a-j9F9RiCTcinZUgQklqIGLnFHNDfNvrOkFTpe7g" while reading client request headers, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 12:23:19 [info] 22#22: *67 client sent duplicate header line: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTk1MTk4LCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiODYzMzA0MWItMGY1OS00MjE3LThiOTctY2VhYWYzOTY3ODFkIn0.xXiisTUvBTBLVNog2mLB2FLmfRxXVrAslxviBPRkwlc", previous value: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTkzNjYyLCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiZGE5NDExZTEtZDE4YS00MWFjLWJiZGItNGIyMDNjMmZiMzNlIn0.6SK4bhpzx3EY53lLAv0_Ob_7Pbz5LBEZftdPJGa_HnU" while reading client request headers, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 12:24:01 [info] 22#22: *70 client sent duplicate header line: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTk1MjQxLCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiODIzMWVkNTEtZDQ2Ny00MDA3LTkxNmItMjlhZDU5NWQ4ODVmIn0.ENwUHNCl_Tms6gC36xsb0KAHML0VhJbcRK4S77UUavE", previous value: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTk1MjExLCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiYmY4ODU0N2ItYmI1YS00ZjhlLThmNmQtM2JkN2JlNGY3MzA4In0.mHMyJJ1ngo19XaJ0pyFJuRm5cd-TdDEOuVcyNMUHDVM" while reading client request headers, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/cart HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 12:24:40 [info] 22#22: *82 client sent duplicate header line: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTk1MjgwLCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiYTE0Y2IzM2MtZDg2OS00OTJiLTk1MDItMDgxYzg2ZWRlMzIzIn0.tfw9YVBu9Rj55RLipPs-ZYQdbnIwSPvS0827pl-gmxo", previous value: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZXhwIjoxNzU3NTk1MjQxLCJ0eXBlIjoiYWNjZXNzIiwianRpIjoiODIzMWVkNTEtZDQ2Ny00MDA3LTkxNmItMjlhZDU5NWQ4ODVmIn0.ENwUHNCl_Tms6gC36xsb0KAHML0VhJbcRK4S77UUavE" while reading client request headers, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", host: "marketing4.taile27bf0.ts.net"
+2025/09/11 13:08:32 [info] 22#22: *98 client 172.20.0.1 closed keepalive connection
+2025/09/11 13:14:23 [info] 29#29: *7 client 172.20.0.1 closed keepalive connection
+2025/09/11 13:59:50 [info] 29#29: *56 client 172.20.0.1 closed keepalive connection
+2025/09/11 13:59:51 [info] 29#29: *63 client 172.20.0.1 closed keepalive connection
+2025/09/11 13:59:51 [info] 29#29: *65 client 172.20.0.1 closed keepalive connection
+2025/09/11 13:59:51 [info] 29#29: *60 client 172.20.0.1 closed keepalive connection
+2025/09/11 13:59:51 [info] 29#29: *59 client 172.20.0.1 closed keepalive connection
+2025/09/12 05:33:54 [info] 29#29: *101 client 172.20.0.1 closed keepalive connection
+2025/09/12 05:33:54 [info] 29#29: *99 client 172.20.0.1 closed keepalive connection
+2025/09/12 05:33:54 [info] 29#29: *103 client 172.20.0.1 closed keepalive connection
+2025/09/12 05:33:54 [info] 29#29: *91 client 172.20.0.1 closed keepalive connection
+2025/09/12 06:24:46 [info] 29#29: *14 client 172.20.0.1 closed keepalive connection
+2025/09/12 06:24:47 [info] 29#29: *11 client 172.20.0.1 closed keepalive connection
+2025/09/12 10:44:36 [info] 22#22: *4 client 172.20.0.1 closed keepalive connection
+2025/09/12 10:44:37 [info] 22#22: *7 client 172.20.0.1 closed keepalive connection
+2025/09/12 10:44:37 [info] 22#22: *13 client 172.20.0.1 closed keepalive connection
+2025/09/12 11:12:37 [info] 22#22: *50 client 172.20.0.1 closed keepalive connection
+2025/09/12 11:12:37 [info] 22#22: *49 client 172.20.0.1 closed keepalive connection
+2025/09/12 12:53:26 [info] 22#22: *115 client 172.20.0.1 closed keepalive connection
+2025/09/12 12:53:28 [info] 22#22: *117 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:12:11 [info] 22#22: *128 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:17:11 [info] 22#22: *142 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:17:37 [info] 22#22: *143 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:54 [info] 22#22: *176 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:54 [info] 22#22: *190 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:54 [info] 22#22: *188 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:55 [info] 22#22: *201 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:55 [info] 22#22: *207 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:56 [info] 22#22: *186 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:56 [info] 22#22: *170 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:56 [info] 22#22: *206 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:56 [info] 22#22: *229 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:57 [info] 22#22: *236 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:57 [info] 22#22: *241 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:57 [info] 22#22: *249 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:57 [info] 22#22: *214 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:57 [info] 22#22: *259 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:57 [info] 22#22: *247 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:58 [info] 22#22: *264 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:58 [info] 22#22: *255 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:58 [info] 22#22: *269 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:58 [info] 22#22: *277 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:58 [info] 22#22: *222 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:58 [info] 22#22: *284 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:58 [info] 22#22: *283 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:59 [info] 22#22: *291 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:59 [info] 22#22: *275 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:59 [info] 22#22: *295 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:47:59 [info] 22#22: *256 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:00 [info] 22#22: *300 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:00 [info] 22#22: *314 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:00 [info] 22#22: *312 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:00 [info] 22#22: *319 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:00 [info] 22#22: *292 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:00 [info] 22#22: *310 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:01 [info] 22#22: *340 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:01 [info] 22#22: *342 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:01 [info] 22#22: *333 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:01 [info] 22#22: *348 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:01 [info] 22#22: *356 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:01 [info] 22#22: *325 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:02 [info] 22#22: *364 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:02 [info] 22#22: *349 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:02 [info] 22#22: *371 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:02 [info] 22#22: *377 client 172.20.0.1 closed keepalive connection
+2025/09/12 13:48:06 [info] 22#22: *385 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog/132 HTTP/1.1", upstream: "http://172.20.0.4:8080/api/catalog/132", host: "marketing4.taile27bf0.ts.net"
+2025/09/12 13:48:06 [info] 22#22: *357 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog/132 HTTP/1.1", upstream: "http://172.20.0.4:8080/api/catalog/132", host: "marketing4.taile27bf0.ts.net"
+2025/09/12 13:48:06 [info] 22#22: *384 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog/132 HTTP/1.1", upstream: "http://172.20.0.4:8080/api/catalog/132", host: "marketing4.taile27bf0.ts.net"
+2025/09/12 13:48:06 [info] 22#22: *366 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog/132 HTTP/1.1", upstream: "http://172.20.0.4:8080/api/catalog/132", host: "marketing4.taile27bf0.ts.net"
+2025/09/12 13:48:06 [info] 22#22: *388 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog/132 HTTP/1.1", upstream: "http://172.20.0.4:8080/api/catalog/132", host: "marketing4.taile27bf0.ts.net"
+2025/09/12 13:48:44 [info] 22#22: *396 client 172.20.0.1 closed keepalive connection
+2025/09/12 14:00:24 [info] 22#22: *407 client 172.20.0.1 closed keepalive connection
+2025/09/12 14:00:25 [info] 22#22: *404 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:07 [info] 22#22: *445 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:09 [info] 22#22: *460 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:09 [info] 22#22: *463 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:09 [info] 22#22: *447 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:09 [info] 22#22: *457 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:09 [info] 22#22: *449 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:09 [info] 22#22: *453 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *459 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *471 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *486 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *485 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *455 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *484 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *483 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *499 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *500 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *497 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *498 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:12 [info] 22#22: *495 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:21 [info] 22#22: *481 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:25 [info] 22#22: *525 client 172.20.0.1 closed keepalive connection
+2025/09/14 08:19:27 [info] 22#22: *514 client 172.20.0.1 closed keepalive connection
+2025/09/15 05:23:49 [info] 22#22: *562 client 172.20.0.1 closed keepalive connection
+2025/09/15 05:23:49 [info] 22#22: *550 client 172.20.0.1 closed keepalive connection
+2025/09/15 05:23:49 [info] 22#22: *556 client 172.20.0.1 closed keepalive connection
+2025/09/15 05:23:49 [info] 22#22: *547 client 172.20.0.1 closed keepalive connection
+2025/09/15 05:24:48 [info] 22#22: *560 client 172.20.0.1 closed keepalive connection
+2025/09/15 05:25:00 [info] 22#22: *578 client 172.20.0.1 closed keepalive connection
+2025/09/15 05:25:00 [info] 22#22: *558 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:15:47 [info] 22#22: *583 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:15:47 [info] 22#22: *586 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:42:20 [info] 22#22: *618 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:42:21 [info] 22#22: *620 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:42:21 [info] 22#22: *621 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:55:51 [info] 22#22: *656 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:55:51 [info] 22#22: *673 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:55:51 [info] 22#22: *672 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:55:51 [info] 22#22: *676 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:55:52 [info] 22#22: *666 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:55:52 [info] 22#22: *682 client 172.20.0.1 closed keepalive connection
+2025/09/15 06:55:52 [info] 22#22: *697 client 172.20.0.1 closed keepalive connection
+2025/09/15 08:10:07 [info] 22#22: *706 client 172.20.0.1 closed keepalive connection
+2025/09/15 08:10:21 [info] 22#22: *714 client 172.20.0.1 closed keepalive connection
+2025/09/15 08:10:21 [info] 22#22: *701 client 172.20.0.1 closed keepalive connection
+2025/09/15 08:10:21 [info] 22#22: *715 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog/132 HTTP/1.1", upstream: "http://172.20.0.4:8080/api/catalog/132", host: "marketing4.taile27bf0.ts.net"
+2025/09/15 08:10:21 [info] 22#22: *724 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog/132 HTTP/1.1", upstream: "http://172.20.0.4:8080/api/catalog/132", host: "marketing4.taile27bf0.ts.net"
+2025/09/15 08:10:21 [info] 22#22: *722 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog/132 HTTP/1.1", upstream: "http://172.20.0.4:8080/api/catalog/132", host: "marketing4.taile27bf0.ts.net"
+2025/09/15 08:10:46 [info] 22#22: *707 client 172.20.0.1 closed keepalive connection
+2025/09/15 08:10:46 [info] 22#22: *738 client 172.20.0.1 closed keepalive connection
+2025/09/15 08:10:47 [info] 22#22: *743 client 172.20.0.1 closed keepalive connection
+2025/09/15 11:07:24 [info] 22#22: *768 client 172.20.0.1 closed keepalive connection
+2025/09/15 11:19:19 [info] 22#22: *780 client 172.20.0.1 closed keepalive connection
+2025/09/15 11:19:20 [info] 22#22: *777 client 172.20.0.1 closed keepalive connection
+2025/09/15 11:20:48 [info] 22#22: *796 client 172.20.0.1 closed keepalive connection
+2025/09/15 11:20:48 [info] 22#22: *792 client 172.20.0.1 closed keepalive connection
+2025/09/15 11:20:48 [info] 22#22: *790 client 172.20.0.1 closed keepalive connection
+2025/09/15 11:47:58 [info] 22#22: *807 client 172.20.0.1 closed keepalive connection
+2025/09/15 12:12:29 [info] 22#22: *819 client 172.20.0.1 closed keepalive connection
+2025/09/15 12:40:16 [info] 22#22: *838 client 172.20.0.1 closed keepalive connection
+2025/09/15 13:04:10 [info] 22#22: *845 client 172.20.0.1 closed keepalive connection
+2025/09/15 13:04:13 [info] 22#22: *842 client 172.20.0.1 closed keepalive connection
+2025/09/15 13:28:37 [info] 22#22: *867 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/user HTTP/1.1", upstream: "http://172.20.0.4:8080/api/user", host: "marketing4.taile27bf0.ts.net"
+2025/09/15 13:30:01 [info] 22#22: *871 client 172.20.0.1 closed keepalive connection
+2025/09/15 13:32:04 [info] 22#22: *873 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.20.0.1, server: marketing4.taile27bf0.ts.net, request: "GET /api/catalog?search_code=&search_shape=&search_dimensions=&search_machine=&category_id=1&page=1&items_per_page=8&bond_ids=8 HTTP/1.1", upstream: "http://172.20.0.4:8080/api/catalog?search_code=&search_shape=&search_dimensions=&search_machine=&category_id=1&page=1&items_per_page=8&bond_ids=8", host: "marketing4.taile27bf0.ts.net"
+2025/09/15 13:44:13 [info] 22#22: *892 client 172.20.0.1 closed keepalive connection
+2025/09/15 13:44:13 [info] 22#22: *898 client 172.20.0.1 closed keepalive connection
